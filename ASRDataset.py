@@ -13,10 +13,11 @@ def librispeech_to_csv(data_path, split):
     
 
 class ASRDataset(Dataset):
-    def __init__(self, root_path, split, sr=16000):
+    def __init__(self, root_path, split, llm_tokenizer, sr=16000):
         split_path = Path(root_path, split)
         self.data = pd.read_csv(split_path / 'transcripts.csv')
         self.sr = sr
+        self.tokenizer = llm_tokenizer
         
     def __len__(self):
         return len(self.data)
@@ -26,4 +27,5 @@ class ASRDataset(Dataset):
         audio, sr = torchaudio.load(row['path'])
         if sr != self.sr:
             audio = torchaudio.transforms.Resample(sr, self.sr)(audio)
-        return audio, row['text']
+        text = self.tokenizer.encode(row['text'])
+        return audio.squeeze(0), text
