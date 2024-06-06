@@ -25,7 +25,10 @@ def collate(batch, tokenizer):
     # inputs['attention_mask'] es una máscara booleana que indica dónde se padeó
     # puede ser mejor que usar texts_lens en prepare_input de LLMASR
     max_audio_len = max(speech_lens)
-    audios = np.stack([np.pad(xi, (0,max_audio_len - xi.shape[0])) for xi in audios])
+    audios = np.stack([np.pad(xi, (0,max_audio_len - xi.shape[0])) for xi in audios], dtype=np.float32)
 
-    return torch.from_numpy(audios), LongTensor(inputs['input_ids']), LongTensor(speech_lens), LongTensor(texts_lens)
+    return {'speech': torch.from_numpy(audios), 
+            'transcription': LongTensor(inputs['input_ids']), 
+            'speech_lens': LongTensor(speech_lens), 
+            'transcription_lens': LongTensor(texts_lens)}
 
