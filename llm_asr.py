@@ -51,8 +51,8 @@ class LLMASR(pl.LightningModule):
         x = []
         speech = self.wav_model(speech)
         #Adapter muy sencillo para arrancar:
-        speech = torch.nn.functional.avg_pool1d(speech.transpose(1,2), kernel_size=8, stride=4).transpose(1,2)
-        speech_lens = speech_lens // (self.wav_model.downsampling*4)
+        speech = torch.nn.functional.avg_pool1d(speech.transpose(1,2), kernel_size=4, stride=4).transpose(1,2)
+        speech_lens = speech_lens // (self.wav_model.downsampling*4) - 1
         transcription = self.llm_model_lut(transcription)
         for s, sl, t, tl in zip(speech, speech_lens, transcription, transcription_lens):
             si = s[:sl]
@@ -79,4 +79,9 @@ class LLMASR(pl.LightningModule):
         return self.llm_model(xin[:, :-1], attention_mask=padding_mask[:,:-1]), response_mask[:, 1:], xin[:, 1:]
 
     def training_step(self, batch, batch_idx):
-        response_mask, logits, ytrue = self(batch)
+        ypred, response_mask, ytrue = self(batch)
+        yhat = ypred['logits'][response_mask]
+        yt = batch['transcription'][batch['text_padding_mask'].bool()]
+        loss = torch.nn.functional.cross_entropy(yhat,yt)
+        self.log('training_loss', loss)
+        return loss
