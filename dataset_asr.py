@@ -1,6 +1,7 @@
 from pandas import read_csv
 from torch.utils.data import Dataset
 import torchaudio
+import soundfile as sf
 
 
 class ASRDataset(Dataset):
@@ -14,7 +15,7 @@ class ASRDataset(Dataset):
     
     def __getitem__(self, idx):
         row = self.data.iloc[idx]
-        audio, sr = torchaudio.load(row['path'])
+        audio, sr = sf.read(row['path'])
         if sr != self.sr:
             audio = torchaudio.transforms.Resample(sr, self.sr)(audio)
-        return {'audio': audio.squeeze(0), 'transcription': row['text']}
+        return {'audio': audio, 'transcription': row['text']}
