@@ -15,20 +15,27 @@ def train(dataset, llm_model, wavlm_model, batch_size, epochs, lr, precision, sp
           sample_rate=16000, devices='0',lora_rank=8, grad_acc=1, warmup_steps=100):
     asr_dataset = ASRDataset(dataset, split, sample_rate)
     llm = GPTModel(llm_model)
+    llm_model = llm.get_model()
+    
     if lora_rank > 0:
         lora_config = LoraConfig(
                         r=lora_rank,
                         lora_alpha=16,
-                        target_modules=["q_proj", "v_proj", "k_proj"],
-                        lora_dropout=0.1
+                        target_modules=["q_proj", "v_proj", "k_proj", "o_proj"],
+                        lora_dropout=0.1,
+                        task_type='CAUSAL_LM'
                     )
-        llm = get_peft_model(llm, lora_config)
+        llm_model = get_peft_model(llm_model, lora_config)
+    llm.set_model(llm_model)
         
     wavlm = WavLM(wavlm_model)
     llm_asr = LLMASR(llm, wavlm, lr, warmup_steps=warmup_steps)
 
     if llm.tokenizer.pad_token is None:
         llm.tokenizer.pad_token = llm.tokenizer.eos_token
+
+    #if 'Qwen2' in llm_model:
+    #    llm.tokenizer.padding_side  = 'left'
     
     asr_loader = DataLoader(asr_dataset, batch_size=batch_size, shuffle=True, num_workers=workers,
                             collate_fn=partial(collate, tokenizer=llm.tokenizer))
@@ -75,3 +82,7 @@ if __name__ == '__main__':
     train(dataset_path, args.llm_model, args.wavlm_model, args.batch_size, args.epochs, args.lr, args.precision,
           args.split, args.workers, save_path, devices=args.devices, lora_rank=args.lora_rank, grad_acc=args.grad_acc,
           warmup_steps=args.warmup_steps)
+
+#Tokenizer: agregar separador
+#Codigo: modularizar
+#Val Loss: calcular

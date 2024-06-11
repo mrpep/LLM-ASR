@@ -18,4 +18,6 @@ class ASRDataset(Dataset):
         audio, sr = sf.read(row['path'])
         if sr != self.sr:
             audio = torchaudio.transforms.Resample(sr, self.sr)(audio)
-        return {'audio': audio, 'transcription': row['text']}
+        return {'audio': audio, 
+                'transcription': '### Response:\n{}'.format(row['text']),
+                'instruction': "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nGenerate transcription of the given speech input \n\n### Input:\n"}
