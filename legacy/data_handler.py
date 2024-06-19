@@ -36,4 +36,3 @@ def collate(batch, tokenizer):
             'transcription_lens': LongTensor(texts_lens),
             'text_padding_mask': LongTensor(inputs['attention_mask']),
             'instruction': LongTensor(instructions['input_ids'])}
-

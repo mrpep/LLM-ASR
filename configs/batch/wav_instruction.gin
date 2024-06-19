@@ -1,0 +1,18 @@
+INSTRUCTION = 'Transcribe the following audio:'
+
+datasets.DictDataset:
+    out_cols=['wav', 'transcription', 'instruction']
+    processors=[@processors.ReadAudioProcessor, @processors.AddConstantValue, @processors.PrependValue]
+
+processors.ReadAudioProcessor:
+    key_in = 'filename'
+    key_out = 'wav'
+
+processors.AddConstantValue:
+    key_out = 'instruction'
+    value = %INSTRUCTION
+
+processors.PrependValue:
+    key_in = 'transcription'
+    key_out = 'transcription'
+    value = 'Result:'

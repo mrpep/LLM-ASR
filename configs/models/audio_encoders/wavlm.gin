@@ -1,0 +1,6 @@
+WAVLM_CKPT='microsoft/wavlm-base-plus'
+WAV_DIM=768
+
+models.LLMASR.audio_encoder=@models.WavLM
+models.WavLM:
+    hf_path=%WAVLM_CKPT

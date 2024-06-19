@@ -1,0 +1,35 @@
+LORA_RANK=16
+LORA_ALPHA=16
+LORA_TARGET_MODULES=["q_proj", "v_proj", "k_proj", "o_proj"]
+LORA_DROPOUT=0.1
+LLM='Qwen/Qwen2-1.5B'
+LLM_DIM=1536
+WARMUP_STEPS=100
+TRAINING_STEPS=100000
+
+models.get_linear_schedule_with_warmup:
+    num_warmup_steps=%WARMUP_STEPS
+    num_training_steps=%TRAINING_STEPS
+tasks.fit_model.model_cls=@models.LLMASR
+models.LLMASR:
+    llm=@models.HFLLMModel
+    optimizer=@torch.optim.Adam
+    lr_scheduler=@models.get_linear_schedule_with_warmup
+torch.optim.Adam:
+    lr=%LR
+models.HFLLMModel:
+    hf_path=%LLM
+    lora_config=@lora_config/Config
+lora_config/Config:
+    r=%LORA_RANK
+    lora_alpha=%LORA_ALPHA
+    target_modules=%LORA_TARGET_MODULES
+    lora_dropout=%LORA_DROPOUT
+    task_type='CAUSAL_LM'
+
+
+
+
+
+
+

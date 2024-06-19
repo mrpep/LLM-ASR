@@ -1,0 +1,57 @@
+SEED=42
+GRAD_ACC=64
+TRAIN_DATALOADER_NUM_WORKERS=4
+VAL_DATALOADER_NUM_WORKERS=1
+TRAIN_BATCH_SIZE=8
+VAL_BATCH_SIZE=8
+DEVICE=[0,1]
+TOTAL_EPOCHS=8
+PRECISION='bf16-true'
+LR=0.0005
+
+execute_pipeline:
+    tasks = [@tasks.set_seed,
+             @tasks.load_dataset,
+             @tasks.load_tokenizer,
+             @tasks.get_dataloaders,
+             @tasks.fit_model]
+    execution_order = 'sequential'
+
+tasks.set_seed.seed=%SEED
+
+tasks.get_dataloaders:
+    dataset_cls={'train': @train/datasets.DictDataset, 'dev': @val/datasets.DictDataset}
+    dataloader_cls={'train': @train/torch.utils.data.DataLoader, 'dev': @val/torch.utils.data.DataLoader}
+    collate_fn=@datasets.InstructionCollator
+
+tasks.load_tokenizer.hf_path=%LLM
+
+train/torch.utils.data.DataLoader:
+    shuffle=True
+    batch_size=%TRAIN_BATCH_SIZE
+    num_workers=%TRAIN_DATALOADER_NUM_WORKERS
+    #collate_fn=@datasets.InstructionCollator
+    
+val/torch.utils.data.DataLoader:
+    shuffle=False
+    batch_size=%VAL_BATCH_SIZE
+    num_workers=%VAL_DATALOADER_NUM_WORKERS
+    #collate_fn=@datasets.InstructionCollator
+
+tasks.fit_model.trainer_cls=@pl.Trainer
+pl.Trainer:
+    logger=@pl.loggers.CSVLogger()
+    devices=%DEVICE
+    callbacks=[@pl.callbacks.ModelCheckpoint(), @pl.callbacks.LearningRateMonitor()]
+    max_epochs=%TOTAL_EPOCHS
+    accelerator='gpu'
+    accumulate_grad_batches=%GRAD_ACC
+    precision=%PRECISION
+    strategy='ddp_find_unused_parameters_true'
+
+pl.callbacks.ModelCheckpoint:
+    dirpath=%OUTPUT_DIR
+
+pl.loggers.CSVLogger:
+    save_dir=%OUTPUT_DIR
+    name='logs'

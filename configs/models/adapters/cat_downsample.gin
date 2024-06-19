@@ -1,0 +1,9 @@
+DOWNSAMPLE_RATE=4
+
+models.LLMASR.adapters+=[@models.CatDownsample]
+models.CatDownsample:
+    key_in='audio_features'
+    key_out='audio_features'
+    rate=%DOWNSAMPLE_RATE
+    hiddens=[1024, %LLM_DIM]
+    dim_in=%WAV_DIM
