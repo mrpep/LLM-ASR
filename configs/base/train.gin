@@ -9,6 +9,7 @@ TOTAL_EPOCHS=8
 PRECISION='bf16-true'
 LR=0.0005
 
+$keys_not_saved=['model']
 execute_pipeline:
     tasks = [@tasks.set_seed,
              @tasks.load_dataset,
