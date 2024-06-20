@@ -106,6 +106,7 @@ def load_dataset(state: Dict[str, Any],
     else:
         logger.info('Caching dataset metadata from state')
     
+    postprocessors = [p() for p in postprocessors]
     for f in postprocessors:
         state[key_out] = f(state[key_out])
 

@@ -46,6 +46,8 @@ class ReadAudioProcessor:
                 start = x['start']
             if 'stop' in x:
                 duration = x['stop'] - x['start']
+            if 'duration' in x:
+                duration = x['duration']
             x['start'] = start
             x['duration'] = duration
             wav, fs = librosa.core.load(x[self.key_in], offset=start, duration=duration, dtype=np.float32, sr=self.target_sr)
@@ -72,3 +74,17 @@ class PrependValue:
     def __call__(self, x):
         x[self.key_out] = self.value + x[self.key_in]
         return x
+
+class FilterByValue:
+    def __init__(self, column, value, mode):
+        self.column, self.value, self.mode = column, value, mode
+
+    def __call__(self, df):
+        if self.mode == 'lt':
+            return df.loc[df[self.column] < self.value]
+        elif self.mode == 'gt':
+            return df.loc[df[self.column] > self.value]
+        elif self.mode == 'eq':
+            return df.loc[df[self.column] == self.value]
+        else:
+            raise Exception(f'Unrecognized mode: {self.mode}. Available modes are: lt, gt and eq')

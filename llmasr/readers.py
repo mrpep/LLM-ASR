@@ -23,7 +23,9 @@ def read_mls(path):
     for f in tqdm(df['filename']):
         metadatas.append(extract_audio_metadata(f))
     metadatas = pd.DataFrame(metadatas)
-    return pd.merge(df, metadatas, left_on='filename', right_on='filename')
+    df = pd.merge(df, metadatas, left_on='filename', right_on='filename')
+    df['dataset'] = 'mls'
+    return df
 
 def read_tedlium(path):
     all_dfs = []
@@ -46,9 +48,9 @@ def read_tedlium(path):
         split_df = pd.DataFrame(audio_metadata).reset_index(names='idx')
         all_dfs.append(split_df)
     df = pd.concat(all_dfs)
+    df['dataset'] = 'tedlium'
     return df
         
-                
 def load_tedlium_transcripts(file_path):
     transcripts = []
     with file_path.open('r') as f:
