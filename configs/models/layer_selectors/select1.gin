@@ -1,7 +1,7 @@
 WAV_LAYER_IDX=10
 
-models.LLMASR.adapters+=[@models.InputSelector]
-models.InputSelector:
+models.LLMASR.adapters+=[@adapters.InputSelector]
+adapters.InputSelector:
     key_in='audio_features'
     key_out='audio_features'
     layer=%WAV_LAYER_IDX

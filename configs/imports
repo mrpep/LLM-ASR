@@ -3,6 +3,7 @@ llmasr.datasets: datasets
 llmasr.readers: readers
 llmasr.processors: processors
 llmasr.models: models
+llmasr.adapters: adapters
 torch.utils.data: torch.utils.data
 torch.optim: torch.optim
 pytorch_lightning: pl
