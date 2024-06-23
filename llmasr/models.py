@@ -1,9 +1,7 @@
 import torch
 from peft import get_peft_model, LoraConfig
-import pytorch_lightning as pl    
-from abc import abstractmethod
-from pytorch_lightning.utilities.types import OptimizerLRScheduler
-from transformers import AutoModelForCausalLM, AutoTokenizer, WavLMModel
+import pytorch_lightning as pl
+from transformers import AutoModelForCausalLM, WavLMModel
 from transformers import get_linear_schedule_with_warmup as get_linear_schedule_with_warmup_
 from transformers import GenerationConfig
 import gin
