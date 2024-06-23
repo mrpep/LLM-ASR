@@ -23,11 +23,12 @@ class HFLLMModel(torch.nn.Module):
         return self.model(inputs_embeds=x, attention_mask=attention_mask, **kwargs)
 
     def get_lut(self):
-        model = self.model
+        lut = self.model
         if self.model.__class__.__name__ == 'PeftModelForCausalLM':
-            model = self.model.model
-        if model.__class__.__name__ == 'Qwen2ForCausalLM':
-            return model.model.embed_tokens
+            lut = self.model.model
+        if self.model.__class__.__name__ == 'Qwen2ForCausalLM':
+            lut = model.model.embed_tokens
+        return lut
 
 class LLMASR(pl.LightningModule):
     def __init__(self, llm, audio_encoder, adapters, optimizer, lr_scheduler=None):
@@ -51,8 +52,12 @@ class LLMASR(pl.LightningModule):
             x['audio_features'] = self.audio_encoder(x['speech'])
             x['audio_feature_lens'] = x['speech_lens']//self.audio_encoder.downsampling - 1
             
+            print("-------------------")
+            print(x)
             for a in self.adapters:
                 a(x)
+            print(x)
+            print("-------------------")
             x['transcription_embeds'] = self.llm_model_lut(x['transcription'])
             x['instruction_embeds'] = self.llm_model_lut(x['instruction'])
 
