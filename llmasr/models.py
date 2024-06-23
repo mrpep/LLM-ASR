@@ -5,6 +5,8 @@ from abc import abstractmethod
 from pytorch_lightning.utilities.types import OptimizerLRScheduler
 from transformers import AutoModelForCausalLM, AutoTokenizer, WavLMModel
 from transformers import get_linear_schedule_with_warmup as get_linear_schedule_with_warmup_
+from transformers import GenerationConfig
+import gin
 
 def get_linear_schedule_with_warmup(*arg, **kwargs):
     return get_linear_schedule_with_warmup_(*arg, **kwargs)
@@ -39,11 +41,6 @@ class LLMASR(pl.LightningModule):
         self.adapters = torch.nn.ModuleList([a() for a in adapters])
         self.optimizer = optimizer
         self.lr_scheduler = lr_scheduler
-        #self.wav_projector = torch.nn.Sequential(torch.nn.Linear(self.wav_model.model.config.hidden_size, 1024),
-        #                                         torch.nn.ReLU(),
-        #                                         torch.nn.Linear(1024,self.llm_model.model.config.hidden_size))
-        #self.lr = lr
-        #self.warmup_steps = warmup_steps
 
     def prepare_input(self, x):
         with torch.no_grad():
@@ -90,6 +87,13 @@ class LLMASR(pl.LightningModule):
         self.log('training_loss', loss)
         return loss
 
+    def generate(self, x, tokenizer=None, gen_config=None):
+        if gen_config is None:
+            gen_config = GenerationConfig(max_new_tokens=128, do_sample=True, temperature=0.1, min_new_tokens=5, num_beams=4, eos_token_id=tokenizer.eos_token_id)
+        self.prepare_input(x)
+        outs = self.llm_model.model.model.generate(inputs_embeds=x['llm_in'][:,:-1], generation_config = gen_config, tokenizer=tokenizer)
+        return tokenizer.decode(outs[0])
+    
     def validation_step(self, batch, batch_idx):
         self(batch)
         loss = torch.nn.functional.cross_entropy(batch['llm_logits'].transpose(1,2),batch['llm_target'][:,:-1])

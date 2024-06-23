@@ -8,7 +8,9 @@ DEVICE=[0,1]
 TOTAL_EPOCHS=8
 PRECISION='bf16-true'
 LR=0.0005
+MAX_DURATION=20
 
+$keys_not_saved=['model']
 execute_pipeline:
     tasks = [@tasks.set_seed,
              @tasks.load_dataset,
@@ -18,7 +20,11 @@ execute_pipeline:
     execution_order = 'sequential'
 
 tasks.set_seed.seed=%SEED
-
+tasks.load_dataset.postprocessors=[@processors.FilterByValue]
+processors.FilterByValue:
+    column='duration'
+    value=%MAX_DURATION
+    mode='lt'
 tasks.get_dataloaders:
     dataset_cls={'train': @train/datasets.DictDataset, 'dev': @val/datasets.DictDataset}
     dataloader_cls={'train': @train/torch.utils.data.DataLoader, 'dev': @val/torch.utils.data.DataLoader}

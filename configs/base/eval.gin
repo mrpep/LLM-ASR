@@ -1,0 +1,12 @@
+SEED=42
+CKPT_PATH=None
+
+$keys_not_saved=['model']
+execute_pipeline:
+    tasks = [@tasks.set_seed,
+             @tasks.load_model,
+             @tasks.generate]
+    execution_order = 'sequential'
+
+tasks.set_seed.seed=%SEED
+tasks.load_model.ckpt_path=%CKPT_PATH
