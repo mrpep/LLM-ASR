@@ -3,9 +3,11 @@ from peft import get_peft_model, LoraConfig
 import pytorch_lightning as pl    
 from abc import abstractmethod
 from pytorch_lightning.utilities.types import OptimizerLRScheduler
-from transformers import AutoModelForCausalLM, AutoTokenizer, WavLMModel
+from transformers import AutoModelForCausalLM, AutoTokenizer, WavLMModel, AutoProcessor
 from transformers import get_linear_schedule_with_warmup as get_linear_schedule_with_warmup_
 from transformers import GenerationConfig
+from transformers import Wav2Vec2Model
+
 import gin
 
 def get_linear_schedule_with_warmup(*arg, **kwargs):
@@ -122,6 +124,19 @@ class WavLM(torch.nn.Module):
     def forward(self, x):
         with torch.no_grad():
             return torch.stack(self.model(x, output_hidden_states=True)['hidden_states'])
+
+class Wav2Vec2(torch.nn.Module):
+    def __init__(self, hf_path):
+        super().__init__()
+        self.model = Wav2Vec2Model.from_pretrained(hf_path, torch_dtype=torch.float16, attn_implementation="flash_attention_2")
+        self.downsampling = 320
+        #self.processor = AutoProcessor.from_pretrained(hf_path)
+
+    def forward(self, x):
+        with torch.no_grad():
+            #input_values = processor(x, return_tensors="pt").input_values
+            hidden_states = self.model(x,  output_hidden_states=True)['hidden_states']
+            return torch.stack(hidden_states)
 
 class InputSelector(torch.nn.Module):
     def __init__(self, layer, key_in, key_out):
