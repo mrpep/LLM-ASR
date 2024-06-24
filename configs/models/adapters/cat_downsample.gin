@@ -1,7 +1,7 @@
 DOWNSAMPLE_RATE=4
 
-models.LLMASR.adapters+=[@models.CatDownsample]
-models.CatDownsample:
+models.LLMASR.adapters+=[@adapters.CatDownsample]
+adapters.CatDownsample:
     key_in='audio_features'
     key_out='audio_features'
     rate=%DOWNSAMPLE_RATE
