@@ -1,5 +1,6 @@
 WAVLM_CKPT='microsoft/wavlm-base-plus'
 WAV_DIM=768
+NUM_AUDIO_LAYERS=13
 
 models.LLMASR.audio_encoder=@models.WavLM
 models.WavLM:

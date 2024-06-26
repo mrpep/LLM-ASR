@@ -30,13 +30,13 @@ class CatDownsample(torch.nn.Module):
 
 
 class LayerAverage(torch.nn.Module):
-    def __init__(self, key_in: str, key_out: str, audio_model_layers: int):
+    def __init__(self, key_in: str, key_out: str, num_layers: int):
         super().__init__()
         self.key_in, self.key_out = key_in, key_out
 
         self.avg_weights = torch.nn.Parameter(
             torch.ones(
-                len(audio_model_layers),
+                num_layers,
             )
         )
 
@@ -47,6 +47,6 @@ class LayerAverage(torch.nn.Module):
         w = torch.nn.functional.softmax(self.avg_weights, dim=0)
 
         x[self.key_out] = torch.sum(
-            x[self.key_in] * w[None, :, None, None],
-            dim=1,
+            x[self.key_in] * w[:, None, None, None],
+            dim=0,
         )

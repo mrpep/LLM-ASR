@@ -1,0 +1,5 @@
+models.LLMASR.adapters+=[@adapters.LayerAverage]
+adapters.LayerAverage:
+    key_in='audio_features'
+    key_out='audio_features'
+    num_layers=%NUM_AUDIO_LAYERS

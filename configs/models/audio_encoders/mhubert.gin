@@ -1,5 +1,6 @@
 AUDIO_CKPT='utter-project/mHuBERT-147'
 WAV_DIM=768
+NUM_AUDIO_LAYERS=13
 
 models.LLMASR.audio_encoder=@models.Wav2Vec2
 models.Wav2Vec2:
