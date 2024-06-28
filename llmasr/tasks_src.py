@@ -11,6 +11,12 @@ from llmasr.utils import get_model_config
 from ginpipe.core import gin_configure_externals
 import copy
 from .inference import get_model_for_inference
+from glob import glob
+from pandas import read_csv
+from jiwer import wer
+from nltk.translate.bleu_score import sentence_bleu
+import os
+
 
 def set_seed(state, seed=42):
     random.seed(seed)
@@ -165,13 +171,34 @@ def load_model(state, ckpt_path, device='cuda:0'):
     return state
 
 def generate(state):
-    x = {'filename': '/mnt/data/mls_spanish_opus/test/audio/676/567/676_567_000047.opus',
-         'transcription': ''}
-    for p in state['model'].input_processors:
-        x = p(x)
-    xin = state['model'].collate_fn([x])
-    xin = {k: v.to(state['model'].device) if isinstance(v, torch.Tensor) else v for k,v in xin.items()}
-    xin = {k: v.to(state['model'].dtype) if v.dtype not in [torch.int64, torch.int32, torch.int16] else v for k,v in xin.items()}
-    out = state['model'].generate(xin, tokenizer=state['tokenizer'])
-    print(f"Transcription: {out}")
+    experiment_name = state['output_dir']
+    save_folder = f"{experiment_name}_output/"
+    if not os.path.exists(save_folder):
+        os.makedirs(save_folder)
+    predictions = open(f"{save_folder}predictions.txt", "w")
+    results = open(f"{save_folder}results.txt", "w")
+    dataloader = state["dataloaders"]["test"]
+    wers = []
+    bleus = []
+    for batch in dataloader:
+        transcript = state["tokenizer"].batch_decode(batch["transcription"])
+        xin = batch
+        xin = {k: v.to(state['model'].device) if isinstance(v, torch.Tensor) else v for k,v in xin.items()}
+        xin = {k: v.to(state['model'].dtype) if v.dtype not in [torch.int64, torch.int32, torch.int16] else v for k,v in xin.items()}
+        out = state['model'].generate(xin, tokenizer=state['tokenizer'])
+        er = wer(reference=transcript, hypothesis=out)
+        bleu = sentence_bleu([transcript[0].split()], out.split())
+
+        transc = transcript[0].replace("\t", "")
+        prediction = out.replace("\t", "")
+        predictions.write(f"{transc}\t{prediction}\n")
+        wers.append(er)
+        bleus.append(bleu)
+
+    results.write(f"WER: {np.mean(wers)}\n")
+    results.write(f"BLEU: {np.mean(bleus)}\n")
+
+    results.close()
+    predictions.close()
+
     return state
