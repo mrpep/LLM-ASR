@@ -15,6 +15,7 @@ models.LLMASR:
     llm=@models.HFLLMModel
     optimizer=@torch.optim.Adam
     lr_scheduler=@models.get_linear_schedule_with_warmup
+    layerwise_config=[{'lr':0.5,'params':['*.avg_weights']}]
 torch.optim.Adam:
     lr=%LR
 models.HFLLMModel:

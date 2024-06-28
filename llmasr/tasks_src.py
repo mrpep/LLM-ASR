@@ -11,6 +11,10 @@ from llmasr.utils import get_model_config
 from ginpipe.core import gin_configure_externals
 import copy
 from .inference import get_model_for_inference
+from tqdm import tqdm
+import json
+from whisper_normalizer.basic import BasicTextNormalizer
+from jiwer import wer, cer
 
 def set_seed(state, seed=42):
     random.seed(seed)
@@ -165,13 +169,42 @@ def load_model(state, ckpt_path, device='cuda:0'):
     return state
 
 def generate(state):
-    x = {'filename': '/mnt/data/mls_spanish_opus/test/audio/676/567/676_567_000047.opus',
-         'transcription': ''}
-    for p in state['model'].input_processors:
-        x = p(x)
-    xin = state['model'].collate_fn([x])
-    xin = {k: v.to(state['model'].device) if isinstance(v, torch.Tensor) else v for k,v in xin.items()}
-    xin = {k: v.to(state['model'].dtype) if v.dtype not in [torch.int64, torch.int32, torch.int16] else v for k,v in xin.items()}
-    out = state['model'].generate(xin, tokenizer=state['tokenizer'])
-    print(f"Transcription: {out}")
+    if 'predictions' not in state:
+        df_metadata = state['dataset_metadata']
+        df_test = df_metadata.loc[df_metadata['partition']=='test']
+        predictions = []
+        for idx, row in tqdm(df_test.iterrows()):
+            x = {'filename': row['filename'],
+                'transcription': ''}
+            for p in state['model'].input_processors:
+                x = p(x)
+            xin = state['model'].collate_fn([x])
+            xin = {k: v.to(state['model'].device) if isinstance(v, torch.Tensor) else v for k,v in xin.items()}
+            xin = {k: v.to(state['model'].dtype) if v.dtype not in [torch.int64, torch.int32, torch.int16] else v for k,v in xin.items()}
+            out = state['model'].generate(xin, tokenizer=state['tokenizer'])
+            pred_i = {'prediction': out.replace('<|endoftext|>',''), 'transcription': row['transcription'], 'filename': row['filename'], 'idx': row['idx'], 'dataset': row['dataset']}
+            predictions.append(pred_i)
+            with open(Path(state['output_dir'], 'predictions.json'),'a') as f:
+                f.write(json.dumps(pred_i, indent=4))
+                f.write(',\n')
+
+        state['predictions'] = pd.DataFrame(predictions)
+    else:
+        logger.info('Caching generations')
+
+    return state
+
+def calculate_metrics(state):
+    df_predictions = state['predictions']
+    ypred = df_predictions['prediction'].values
+    ytrue = df_predictions['transcription'].values
+
+    normalizer = BasicTextNormalizer()
+    ypred = [normalizer(x) for x in ypred]
+    ytrue = [normalizer(x) for x in ytrue]
+
+    state['metrics'] = {'wer': wer(ytrue, ypred), 'cer': cer(ytrue, ypred)}
+    with open(Path(state['output_dir'], 'metrics.json'),'w') as f:
+        json.dump(state['metrics'],f,indent=4)
+    
     return state

@@ -8,6 +8,7 @@ from transformers import get_linear_schedule_with_warmup as get_linear_schedule_
 from transformers import GenerationConfig
 from transformers import Wav2Vec2Model
 
+import fnmatch
 import gin
 
 def get_linear_schedule_with_warmup(*arg, **kwargs):
@@ -34,7 +35,9 @@ class HFLLMModel(torch.nn.Module):
             return model.model.embed_tokens
 
 class LLMASR(pl.LightningModule):
-    def __init__(self, llm, audio_encoder, adapters, optimizer, lr_scheduler=None):
+    def __init__(self, llm, audio_encoder, adapters, 
+                 optimizer, lr_scheduler=None, layerwise_config=None):
+
         super().__init__()
         self.llm_model = llm()
         self.llm_model_lut = self.llm_model.get_lut()
@@ -42,6 +45,7 @@ class LLMASR(pl.LightningModule):
         self.adapters = torch.nn.ModuleList([a() for a in adapters])
         self.optimizer = optimizer
         self.lr_scheduler = lr_scheduler
+        self.layerwise_config = layerwise_config
 
     def prepare_input(self, x):
         with torch.no_grad():
@@ -86,7 +90,7 @@ class LLMASR(pl.LightningModule):
 
     def generate(self, x, tokenizer=None, gen_config=None):
         if gen_config is None:
-            gen_config = GenerationConfig(max_new_tokens=128, do_sample=True, temperature=0.1, min_new_tokens=5, num_beams=4, eos_token_id=tokenizer.eos_token_id)
+            gen_config = GenerationConfig(max_new_tokens=128, do_sample=True, temperature=0.1, min_new_tokens=5, num_beams=4, eos_token_id=tokenizer.eos_token_id, repetition_penalty=1.1)
         self.prepare_input(x)
         outs = self.llm_model.model.model.generate(inputs_embeds=x['llm_in'][:,:-1], generation_config = gen_config, tokenizer=tokenizer)
         return tokenizer.decode(outs[0])
@@ -97,7 +101,29 @@ class LLMASR(pl.LightningModule):
         self.log('validation_loss', loss)
 
     def configure_optimizers(self):
-        opt = self.optimizer(self.trainer.model.parameters())
+        if self.layerwise_config is not None:
+            params = []
+            used_params = []
+            param_names = [k for k,v in self.named_parameters()]
+            for l in self.layerwise_config:
+               target_params = []
+               for p in l['params']:
+                   match_params = fnmatch.filter(param_names, p)
+                   match_params = [x for x in match_params if x not in used_params]
+                   target_params.extend(match_params)
+                   used_params.extend(match_params)
+               lw_params = {'params': [kv for kv in self.named_parameters() if kv[0] in target_params]}
+               l.pop('params')
+               lw_params.update(l)
+               params.append(lw_params)
+            lw_base_params = {'params': [kv for kv in self.named_parameters() if kv[0] not in used_params]}
+            params.append(lw_base_params)
+            for p in params:
+                p['params'] = [k[1] for k in p['params'] if k[1].requires_grad]
+            opt = self.optimizer(params)
+        else:
+            opt = self.optimizer(self.trainer.model.parameters())
+            
         if self.lr_scheduler is not None:
             if self.lr_scheduler.__name__ == 'SequentialLR':
                 binds = gin.get_bindings('torch.optim.lr_scheduler.SequentialLR')

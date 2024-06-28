@@ -5,7 +5,9 @@ $keys_not_saved=['model']
 execute_pipeline:
     tasks = [@tasks.set_seed,
              @tasks.load_model,
-             @tasks.generate]
+             @tasks.load_dataset,
+             @tasks.generate,
+             @tasks.calculate_metrics]
     execution_order = 'sequential'
 
 tasks.set_seed.seed=%SEED
