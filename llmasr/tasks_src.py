@@ -14,6 +14,7 @@ from .inference import get_model_for_inference
 from tqdm import tqdm
 import json
 from whisper_normalizer.basic import BasicTextNormalizer
+from nemo_text_processing.text_normalization.normalize import Normalizer
 from jiwer import wer, cer
 
 def set_seed(state, seed=42):
@@ -200,8 +201,9 @@ def calculate_metrics(state):
     ytrue = df_predictions['transcription'].values
 
     normalizer = BasicTextNormalizer()
-    ypred = [normalizer(x) for x in ypred]
-    ytrue = [normalizer(x) for x in ytrue]
+    nemo_normalizer = Normalizer(input_case='cased', lang='es')
+    ypred = [normalizer(nemo_normalizer(x)) for x in ypred]
+    ytrue = [normalizer(nemo_normalizer(x)) for x in ytrue]
 
     state['metrics'] = {'wer': wer(ytrue, ypred), 'cer': cer(ytrue, ypred)}
     with open(Path(state['output_dir'], 'metrics.json'),'w') as f:
