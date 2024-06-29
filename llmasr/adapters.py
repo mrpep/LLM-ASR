@@ -35,8 +35,8 @@ class LayerAverage(torch.nn.Module):
         self.key_in, self.key_out = key_in, key_out
 
         self.avg_weights = torch.nn.Parameter(
-            torch.ones(
-                num_layers,
+            torch.zeros(
+                num_layers, requires_grad=True
             )
         )
 
@@ -45,6 +45,7 @@ class LayerAverage(torch.nn.Module):
         Layers weighted average
         """
         w = torch.nn.functional.softmax(self.avg_weights, dim=0)
+        
 
         x[self.key_out] = torch.sum(
             x[self.key_in] * w[:, None, None, None],

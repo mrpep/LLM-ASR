@@ -48,31 +48,31 @@ class LLMASR(pl.LightningModule):
         self.layerwise_config = layerwise_config
 
     def prepare_input(self, x):
-        with torch.no_grad():
-            X = []
-            Y = []
-            x['audio_features'] = self.audio_encoder(x['speech'])
-            x['audio_feature_lens'] = x['speech_lens']//self.audio_encoder.downsampling - 1
-            
-            for a in self.adapters:
-                a(x)
-            x['transcription_embeds'] = self.llm_model_lut(x['transcription'])
-            x['instruction_embeds'] = self.llm_model_lut(x['instruction'])
+        X = []
+        Y = []
+        x['audio_features'] = self.audio_encoder(x['speech'])
+        x['audio_feature_lens'] = x['speech_lens']//self.audio_encoder.downsampling - 1
+        
+        for a in self.adapters:
+            a(x)
 
-            for s, sl, t, te, tl, ins in zip(x['audio_features'], x['audio_feature_lens'], x['transcription'], x['transcription_embeds'], x['transcription_lens'], x['instruction_embeds']):
-                si = s[:sl]
-                ti = te[:tl]
-                xi = torch.cat([ins, si, ti], axis=0)
-                yi = torch.cat([torch.ones((sl + ins.shape[0],), device=xi.device, dtype=torch.long)*-100, t[1:tl], torch.tensor([-100], device=xi.device, dtype=torch.long)])
-                X.append(xi)
-                Y.append(yi)
-            xlens = [len(xi) for xi in X]
-            maxlen = max(xlens)
-            X = [torch.nn.functional.pad(xi, (0, 0, 0, maxlen - xi.shape[0])) for xi in X]
-            Y = [torch.cat([yi,torch.tensor([-100]*(maxlen-yi.shape[0]),dtype=yi.dtype,device=yi.device)]) for yi in Y]
+        x['transcription_embeds'] = self.llm_model_lut(x['transcription'])
+        x['instruction_embeds'] = self.llm_model_lut(x['instruction'])
 
-            xlens = torch.tensor(xlens, device=x['speech'].device)
-            padding_mask = torch.arange(0, maxlen, device=x['speech'].device)[None, :] < xlens[:, None]
+        for s, sl, t, te, tl, ins in zip(x['audio_features'], x['audio_feature_lens'], x['transcription'], x['transcription_embeds'], x['transcription_lens'], x['instruction_embeds']):
+            si = s[:sl]
+            ti = te[:tl]
+            xi = torch.cat([ins, si, ti], axis=0)
+            yi = torch.cat([torch.ones((sl + ins.shape[0],), device=xi.device, dtype=torch.long)*-100, t[1:tl], torch.tensor([-100], device=xi.device, dtype=torch.long)])
+            X.append(xi)
+            Y.append(yi)
+        xlens = [len(xi) for xi in X]
+        maxlen = max(xlens)
+        X = [torch.nn.functional.pad(xi, (0, 0, 0, maxlen - xi.shape[0])) for xi in X]
+        Y = [torch.cat([yi,torch.tensor([-100]*(maxlen-yi.shape[0]),dtype=yi.dtype,device=yi.device)]) for yi in Y]
+
+        xlens = torch.tensor(xlens, device=x['speech'].device)
+        padding_mask = torch.arange(0, maxlen, device=x['speech'].device)[None, :] < xlens[:, None]
 
         x['llm_in'] = torch.stack(X)
         x['llm_target'] = torch.stack(Y)
@@ -86,6 +86,9 @@ class LLMASR(pl.LightningModule):
         self(batch)
         loss = torch.nn.functional.cross_entropy(batch['llm_logits'].transpose(1,2),batch['llm_target'][:,:-1])
         self.log('training_loss', loss)
+        #for k,v in self.state_dict().items():
+        #    if v.grad is not None:
+        #        print(k)
         return loss
 
     def generate(self, x, tokenizer=None, gen_config=None):
@@ -146,20 +149,22 @@ class WavLM(torch.nn.Module):
         super().__init__()
         self.model = WavLMModel.from_pretrained(hf_path)
         self.downsampling = 320
+        for p in self.model.parameters():
+            p.requires_grad=False
 
     def forward(self, x):
-        with torch.no_grad():
-            return torch.stack(self.model(x, output_hidden_states=True)['hidden_states'])
+        return torch.stack(self.model(x, output_hidden_states=True)['hidden_states'])
 
 class Wav2Vec2(torch.nn.Module):
     def __init__(self, hf_path):
         super().__init__()
         self.model = Wav2Vec2Model.from_pretrained(hf_path, torch_dtype=torch.float16, attn_implementation="flash_attention_2")
         self.downsampling = 320
+        for p in self.model.parameters():
+            p.requires_grad=False
         #self.processor = AutoProcessor.from_pretrained(hf_path)
 
     def forward(self, x):
-        with torch.no_grad():
-            #input_values = processor(x, return_tensors="pt").input_values
-            hidden_states = self.model(x,  output_hidden_states=True)['hidden_states']
-            return torch.stack(hidden_states)
+        #input_values = processor(x, return_tensors="pt").input_values
+        hidden_states = self.model(x,  output_hidden_states=True)['hidden_states']
+        return torch.stack(hidden_states)
