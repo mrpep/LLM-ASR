@@ -1,0 +1,1013 @@
+,gt,pred,wer,cer
+0, ustedes alguna vez se imaginaron cómo llamar o nombrar a alguien que no tiene nombre ni apellido, ustedes alguna vez se imaginaron cómo llamar o nombrar a alguien que no tiene nombre ni apellido ,0.0,0.0
+1, che, hm ,1.0,0.6666666666666666
+2, vos, bus ,1.0,0.6666666666666666
+3,ese vocablo que nos identifica tanto a los argentinos che ,ese vocablo que nos identifica tanto a los argentinos che ,0.0,0.0
+4,pero yo estoy pensando en otro alguien que no tiene nombre ni apellido,pero yo estoy pensando en otro alguien que no tiene nombre y apellido ,0.07692307692307693,0.02857142857142857
+5,estoy pensando en ese alguien que perdió su nombre y su apellido que desapareció su nombre y su apellido su identidad,estoy pensando en ese alguien que perdió su nombre y su apellido que desapareció su nombre y su apellido su identidad ,0.0,0.0
+6,ahora en argentina está desapareciendo gente,ahora en argentina está desapareciendo gente ,0.0,0.0
+7,en el mundo ahora en este momento miles de personas desaparecen,en el mundo ahora en este momento miles de personas desaparecen ,0.0,0.0
+8,algunos son desaparecidos que están vivos producto de tráfico de niños robo de bebés tráfico de personas adopciones ilegales,algunos son desaparecidos que están vivos producto de tráfico de niños robo de bebés tráfico de personas adopciones ilegales ,0.0,0.0
+9,otros son desaparecidos que han muerto secuestros guerras narcoviolencia ataques terroristas accidentes naturales y otros no tan naturales,otros son desaparecidos que han muerto secuestros guerras narcoviolencia ataques terroristas accidentes naturales y otros no tan naturales ,0.0,0.0
+10,es necesario devolverles su identidad reescribir su nombre y su apellido,es necesario a ellos devolverle su identidad reescribir su nombre y su apellido ,0.2727272727272727,0.125
+11,porque todos tenemos una identidad tenemos una individualidad una identidad de individuo afectiva de familia cultural de grupo de país pero también tenemos una identidad genética,porque todos tenemos una identidad tenemos una individualidad una identidad de individuo afectiva de familia cultural de grupo de país pero también tenemos una identidad genética ,0.0,0.0
+12,está escrita en nuestros genes nuestra identidad,que está escrito en nuestros genes nuestra identidad ,0.2857142857142857,0.10416666666666667
+13,nuestro genoma el genoma humano está constituido por cuatro letras que se repiten tres mil millones de veces,nuestro genoma el genoma humano está constituido por cuatro letras que se repiten tres mil millones de veces ,0.0,0.0
+14, increíble,increíble ,0.0,0.0
+15,pero somos casi iguales,pero somos casi iguales ,0.0,0.0
+16, casi iguales,casi iguales ,0.0,0.0
+17,para ser exacto nuestro genoma es noventa y nueve coma nueve por ciento idéntico entre nosotros,para ser exactos nuestro genoma es noventa y nueve coma nueve por ciento idéntico entre nosotros ,0.0625,0.010526315789473684
+18,solo el cero coma uno por ciento de nuestro genoma permite distinguirnos o identificarnos,solo el cero coma uno por ciento de nuestro genoma permite distinguirnos o identificarnos ,0.0,0.0
+19,ahora bien el cero coma uno por ciento de tres mil millones de letras es nada menos que tres millones de letras y eso es un número,ahora bien el cero coma uno por ciento de tres mil millones de letras es nada menos que tres millones de letras y eso es un número ,0.0,0.0
+20,se pueden escribir algunos libros con tres millones de letras,se pueden escribir algunos libros con tres millones de letras ,0.0,0.0
+21,y de eso se trata de utilizando las letras de nuestro genoma reescribir las letras del nombre y apellido de aquellos que perdieron su identidad,y de eso se trata de utilizando las letras de nuestro genoma reescribir las letras del nombre y apellido de aquellos que perdieron su identidad ,0.0,0.0
+22, cómo lo hacemos, cómo lo hacemos ,0.0,0.0
+23,usando la genética comparando,usando la genética comparando,0.0,0.0
+24,identificar necesariamente es comparar,identificar necesariamente es comparar ,0.0,0.0
+25,para comparar un padre y un hijo para saber si están vinculados en ese parentesco tengo que compararlos,yo para comparar un padre y un hijo para saber si están vinculados en ese parentesco tengo que compararlos ,0.05555555555555555,0.02912621359223301
+26,y saber que hay una proporción de esas letras que tienen en común de acuerdo a ese parentesco,y saber que hay una proporción de esas letras que tienen en común acuerdo a ese parentesco ,0.05555555555555555,0.03225806451612903
+27,en los ochenta yo venía trabajando en el hospital de clínicas en la genética de los trasplantes buscando la máxima compatibilidad genética entre donantes y receptores de órganos para evitar el rechazo del injerto,en los ochenta yo venía trabajando en el hospital de clínicas en la genética de los trasplantes buscando la máxima compatibilidad genética entre donantes y receptores de órganos para evitar el rechazo del injerto ,0.0,0.0
+28,y ustedes se preguntarán y eso qué tiene que ver con la identidad,y ustedes se preguntarán y eso qué tiene que ver con la identidad ,0.0,0.0
+29,tiene que ver y mucho,tiene que ver y mucho ,0.0,0.0
+30, y cuánto, y cuánto ,0.0,0.0
+31,porque nuestro organismo nuestro sistema inmune es profundamente xenófobo,porque nuestro organismo nuestro sistema inmune es profundamente xenófobo ,0.0,0.0
+32,se autoreconoce como tal y se tolera y rechaza todo lo extraño,se autorreconoce como tal y se tolera y rechaza todo lo extraño ,0.08333333333333333,0.016129032258064516
+33,y por eso rechazamos un virus una bacteria cuánto más vamos a rechazar un órgano entero,y por eso rechazamos un virus una bacteria cuánto más vamos a rechazar un órgano entero ,0.0,0.0
+34,por eso buscábamos esas compatibilidades para evitar esos rechazos,por eso buscábamos esas compatibilidades para evitar esos rechazos ,0.0,0.0
+35,pero también esos genes nos permitían justamente porque lo hacíamos entre familiares emparentados analizar y establecer vínculos de parentesco,pero también esos genes nos permitían justamente porque lo hacíamos entre familiares emparentados analizar y establecer vínculos de parentesco ,0.0,0.0
+36,teníamos un problema en los ochenta necesitábamos células vivas de las dos personas que íbamos a comparar no podíamos analizar un hueso,teníamos un problema en los ochenta necesitábamos células vivas de las dos personas que íbamos a comparar no podíamos analizar un hueso ,0.0,0.0
+37,ese era un escollo,esa era una excusa ,0.75,0.3888888888888889
+38,pero una década después llegó una revolución a los laboratorios ahora podíamos comparar moléculas,pero una década después llegó una revolución a los laboratorios ahora podíamos comparar moléculas ,0.0,0.0
+39,podíamos extraer moléculas de una célula viva o muerta y compararlas,podíamos extraer moléculas de una célula viva o muerta y compararla ,0.09090909090909091,0.014705882352941176
+40,entonces dimos un paso hacia adelante y podíamos entonces identificar una célula muerta dentro de un cuerpo o un resto óseo,y entonces ahora dimos un paso hacia adelante y podíamos entonces identificar una célula muerta dentro de un cuerpo o un resto óseo ,0.09523809523809523,0.06504065040650407
+41,y ganamos alguna experiencia,ganamos alguna experiencia,0.25,0.07142857142857142
+42,una década después precisamente en el año dos mil tres pasó algo que a mí me cambió la vida en gran parte en lo profesional y también en la motivación,una década después precisamente en el año dos mil tres pasó algo que a mí me cambió la vida en gran parte en lo profesional y también en la motivación ,0.0,0.0
+43,llegó a córdoba un grupo de mujeres y hombres antropólogos y antropólogas del equipo argentino de antropología forense que venían caminando por argentina exhumando fosas buscando causas de muerte analizando esos huesos tratando de identificarlos y restituirlos a las familias,llegó a acuerdo a un grupo de mujeres y hombres antropólogos y antropólogas del equipo argentino de antropología forense que venían caminando por argentina exhumando fosas buscando causas de muerte analizando esos huesos tratando de identificarlos y restituirlos a las familias ,0.05,0.014545454545454545
+44,ellos venían caminando no solo en la argentina sino por muchos países del mundo,ellos venían caminando no solo en argentina sino por muchos países del mundo ,0.07142857142857142,0.0379746835443038
+45,y llegaron a córdoba a exhumar una fosa masiva del cementerio municipal de san vicente,y llegaron a córdoba a exhumar una fosa masiva del cementerio municipal de san vicente ,0.0,0.0
+46,un amigo en común nos reunió en su casa,un amigo común nos juntó nos reunió en su casa ,0.3333333333333333,0.28205128205128205
+47, qué hicimos,muchísimo ,1.0,0.5454545454545454
+48,lo que hacemos muchos argentinos cuando nos juntamos nos comimos un asado y había vino también,lo que hacemos muchos argentinos cuando contamos en una casa nos comimos un asadazo y había vino también ,0.3125,0.1595744680851064
+49,y entonces tomando unas copas de vino yo estaba impactado por las historias que me contaban estos antropólogos porque el equipo argentino de antropología forense es una ong que trabaja sobre casos de violación de derechos humanos universales tratando de identificar gente,entonces tomando unas copas de vino yo estaba impactado por las historias que me contaban estos antropólogos porque el equipo argentino de antropología forense es una ong que trabaja sobre casos de violación de derechos humanos universales tratando de identificar gente ,0.023809523809523808,0.007380073800738007
+50,me contaron historias de todos los países pero ahí en esa reunión en ese asado con ese vino nos dimos cuenta que estaban en un escollo había un punto muerto necesitaban incorporar una tecnología nueva a este proceso complejo de la identificación y era la genética,me contaron historias de todos los países pero ahí en esa reunión en ese asado con ese vino nos dimos cuenta de que estaban en un escollo había un punto muerto necesitaban incorporar una tecnología nueva a este proceso complejo de la identificación y era la genética ,0.021739130434782608,0.011406844106463879
+51,entonces pensamos en unir esfuerzos y hacer algo en común,y entonces pensamos en unir esfuerzos y hacer algo común ,0.2,0.08771929824561403
+52,recuerdo que en ese momento nos planteamos intentemos con el resto peor preservado de la fosa de san vicente con el resto más degradado más deteriorado,yo recuerdo que en ese momento nos planteamos intentemos de la fosa de san vicente con el resto peor preservado con el resto más degradado más deteriorado ,0.4230769230769231,0.31788079470198677
+53,si nos va bien con ese seguramente nos va a ir bien con los otros,si nos va bien con ese seguramente nos va a ir bien con los otros ,0.0,0.0
+54,y nos fue muy bien,fue muy bien ,0.4,0.3333333333333333
+55,y surgió la primera identificación de un resto óseo de la dictadura en la argentina en la fosa de san vicente en córdoba,y surgió la primera identificación de un resto ocio de la dictadura en argentina en la fosa de san vicente en córdoba ,0.08695652173913043,0.05
+56,eso nos llenó de alegría y dijimos pongamos un laboratorio y así se hizo,eso nos llenó de alegría y dijimos pongamos un laboratorio y así se hizo ,0.0,0.0
+57,montamos un laboratorio de genética donde hay chicos jóvenes que están trabajando yo lo sé muchísimo,montamos un laboratorio de genética donde hay chicos jóvenes que están trabajando yo lo sé muchísimo ,0.0,0.0
+58,y empezamos a caminar convocamos familiares empezamos a cruzar letras para reescribir nombres,y empezamos a caminar convocamos familiares empezamos a cruzar letras para reescribir nombres ,0.0,0.0
+59,pero no solo en argentina porque en argentina produjimos algunas identificaciones otras más del cementerio de san vicente del centro de tortura y muerte de la perla la identificación de algunas de las madres fundadoras de plaza de mayo que habían sido arrojadas al mar y que el mar las había devuelto,pero no solo en argentina porque en argentina produjimos algunas identificaciones otras más del cementerio de san vicente del centro de tortura y muerte de la perla la identificación de algunas de las madres fundadoras de plaza de mayo que habían sido arrojadas al mar y que el mar las había devuelto ,0.0,0.0
+60,salimos también a caminar el camino que venían caminando ellos uruguay paraguay bolivia donde también hubieron dictaduras y desaparecieron nombres e identidades,salimos también a caminar el camino que venían caminando ellos uruguay paraguay bolivia donde también hubieron dictaduras y desaparecieron nombres e identidades ,0.0,0.0
+61,y más al norte en centroamérica el salvador la guerra de los ochenta y aún más al norte en el méxico actual donde desaparecen miles de migrantes todos los años de muchos países que atravesando méxico quieren lograr llegar al sueño del país del norte,y más al norte en centroamérica el salvador la guerra de los ochenta y aún más al norte en la méxico actual donde desaparecen miles de migrantes todos los años de muchos países que atravesando méxico quieren lograr llegar al sueño del país del norte ,0.022222222222222223,0.008032128514056224
+62,también en otros continentes áfrica por ejemplo la sudáfrica que encarceló a mandela,también en otros continentes áfrica por ejemplo la sudáfrica que encarceló a mandela ,0.0,0.0
+63,y en asia,gracias ,1.0,0.7777777777777778
+64,parece todo maravilloso no,parece todo maravilloso no ,0.0,0.0
+65,todo nos fue bien,tú no fue bien ,0.5,0.23529411764705882
+66,pero no es así,pero no es así ,0.0,0.0
+67,muchísimas veces nos quedamos en la mitad,muchísimas veces nos quedamos en la mitad ,0.0,0.0
+68,muchas veces tenemos los restos pero han pasado tantos años que los familiares ya no están,muchas veces tenemos los restos pero han pasado tantos años que los familiares ya no están ,0.0,0.0
+69,y otras veces tenemos los familiares pero no se encuentran los restos,y otras veces tenemos los familiares pero no se encuentran los restos ,0.0,0.0
+70,y otras veces aun teniendo los restos están tan deteriorados que no podemos descifrar las letras para compararlas con los familiares,y otras veces aún teniendo los restos están tan deteriorados que no podemos descifrar las letras para compararlas con los familiares ,0.047619047619047616,0.007575757575757576
+71,eso genera una gran frustración realmente,eso genera una gran frustración realmente ,0.0,0.0
+72,yo estoy seguro que conocen una serie de televisión sumamente conocida muy famosa popular csi nueva york los ángeles miami,yo estoy seguro que conocen una serie de televisión sumamente conocida muy famosa popular csi new york los ángeles miami ,0.05,0.02459016393442623
+73,en esas series los investigadores en horas días resuelven unos casos dificilísimos,en esa serie los investigadores en horas días resuelven unos casos dificilísimos ,0.16666666666666666,0.024390243902439025
+74,eso no es verdad eso es ficción,esto no es verdad eso es ficción ,0.14285714285714285,0.03225806451612903
+75,la realidad es otra,la realidad es otra ,0.0,0.0
+76,nosotros le llamamos a eso efecto csi porque generan una imagen distorsionada del complejo proceso de identificación,nosotros le llamamos a eso efecto csi porque genera una imagen distorsionada del complejo proceso de identificación ,0.058823529411764705,0.008620689655172414
+77,lo más preocupante es que no lo hacen solamente sobre la gente popularmente sino que algunas autoridades de los gobiernos también creen que es tan fácil,lo más preocupante es que no lo hacen solamente sobre la gente popularmente sino que algunas autoridades de los gobiernos también creen que es tan fácil ,0.0,0.0
+78,encima ellos son todos modelos,encima de ello son todos modelos ,0.4,0.13333333333333333
+79,la realidad nuestra es un poco distinta,la realidad nuestra es un poco distinta ,0.0,0.0
+80, estoy recordando hace unos cuatro o cinco años atrás me tocó participar en una convocación que habíamos hecho en méxico a familiares,yo recuerdo yo recuerdo estoy recordando hace unos cuatro o cinco años atrás me tocó participar en una convocación que habíamos hecho en méxico a familiares ,0.18181818181818182,0.18181818181818182
+81,era una convocatoria a una cantidad de familias que venían a donar sus muestras de sangre para hacer un banco de sangre y comparar los datos con la cantidad de fosas que se iban descubriendo,hacer una convocatoria a una cantidad de familias que venían a donar su muestra de sangre para hacer un banco de sangre y comparar los datos con la cantidad de fosas que se iban descubriendo ,0.08571428571428572,0.031578947368421054
+82,era un ambiente muy solemne,era un ambiente muy solemne ,0.0,0.0
+83,los familiares estaban serios venían a donar sus muestras de sangre,los familiares estaban en serio venían a dar su muestra de sangre ,0.45454545454545453,0.11940298507462686
+84,en un momento terminé de tomarle muestra a una madre,en un momento terminé de tomarle muestra a una madre ,0.0,0.0
+85,se paró,separo ,1.0,0.2857142857142857
+86,yo le iba a extender la mano para dársela,yo quiero extender la mano para dársela,0.3333333333333333,0.17073170731707318
+87,la miré era pequeñita bien nativa vestida con su traje típico,la mire era pequeñita bien nativa vestida con su traje típico ,0.09090909090909091,0.01639344262295082
+88,le extendí la mano y ella me la tomó con las dos y la trajo acá así y me dijo doctorcito por favor encuéntremelo ,le extendí la mano y ella me la tomó con las dos me la trajo a casa y me dijo doctorcito por favor encuéntremelo ,0.125,0.05357142857142857
+89, ese pedido es un mandato,ese pedido es un mandato,0.0,0.0
+90,por ese pedido mandato es que vale la pena insistir e insistir en esos casos complejos que no podemos resolver,por ese pedido mandato es que vale la pena insistir e insistir en esos casos complejos que no podemos resolver ,0.0,0.0
+91,obsesivamente insistir para tratar de producir una nueva identidad para poder reescribir de nuevo un nombre devolverlo a una familia terminar con los años de espera de incertidumbre de angustia y para que esa madre pequeñita se pueda encontrar de nuevo con su hijo aun estando ya su hijo muerto,obsesivamente insistir para tratar de producir una nueva identidad para poder reescribir de nuevo un nombre devolverlo a una familia terminar con los años de espera de incertidumbre de angustia y para que esa madre pequeñita se pueda encontrar de nuevo con su hijo aún estando ya su hijo muerto ,0.02,0.003401360544217687
+92,muchas gracias,muchas gracias ,0.0,0.0
+93, ovación,gracias ,1.0,0.5714285714285714
+94,cuando tenía cinco años y empezaba a leer mi querido abuelo carlos felipe me regaló un libro de aventuras,cuando tenía cinco años y empezaba a leer mi querido abuelo carlos felipe me regaló un libro de aventuras ,0.0,0.0
+95, los cazadores de microbios de paul de kruif,los cazadores de microbios de paul decliffe ,0.25,0.13953488372093023
+96,en sus capítulos estaban leeuwenhoek spallanzani koch el del bacilo pasteur hombres que con microscopios rudimentarios buscaban derrotar al enemigo invisible,en sus capítulos estaban leeuwenhoek sparanzani koch paster hombres que con microscopios rudimentarios buscaban derrotar al enemigo invisible ,0.23809523809523808,0.10828025477707007
+97,el libro no despertó en mí la vocación por la medicina o la química pero sí mi pasión por la historia,no despertó en mí la vocación por la medicina o la química pero sí mi pasión por la historia ,0.09523809523809523,0.0891089108910891
+98,y como viajero frecuente al pasado quería contarles algo de las pandemias que azotaron a la humanidad,como viajero frecuente al pasado quería contarles algo de las pandemias que azotaron a la humanidad ,0.058823529411764705,0.019801980198019802
+99,podríamos hablar del feroz cólera de la segunda mitad del siglo diecinueve o de la viruela que tanto costó dominar,vamos a hablar del feroz cólera de la segunda mitad del siglo diecinueve de la viruela que tanto tanto costó dominar ,0.2,0.13157894736842105
+100,pero hay dos pandemias que quedaron muy marcadas por sus consecuencias fatales,pandemias que quedaron muy marcadas por sus consecuencias fatales,0.25,0.16666666666666666
+101,en el siglo catorce la peste negra provocada por un piojo que se movía en las ratas,el siglo catorce la peste negra provocada por un piojo que se movía en las ratas ,0.058823529411764705,0.03614457831325301
+102,empezó en asia y de allí pasó a venecia el puerto más cosmopolita de su tiempo,empezó en asia y de allí pasó a venecia el puerto más cosmopolita de su tiempo ,0.0,0.0
+103,así se metió en europa,se metió en europa ,0.2,0.18181818181818182
+104,la mortandad fue de entre veinticinco y cincuenta millones,su importandad fue de entre veinticinco millones,0.4444444444444444,0.27586206896551724
+105,de cada cuatro europeos a uno se lo llevó la peste,de cada cuatro europeos a uno se lo llevó la peste ,0.0,0.0
+106,los números en asia fueron bastante similares,los números en asia fueron bastante similares ,0.0,0.0
+107,más cerca en el tiempo en el siglo veinte el siglo de las gripes tuvimos en mil novecientos dieciocho la gripe española,más cerca en el tiempo en el siglo veinte el siglo de las gripes tuvimos en mil novecientos dieciocho la gripe española ,0.0,0.0
+108,gripe española que comenzó en ee uu con soldados norteamericanos preparándose para ir al final de la primera guerra mundial y que contagiaron a las poblaciones de los puertos de francia donde se embarcaban,la guerra española que comenzó en estados unidos con soldados norteamericanos preparándose para ir al final de la primera guerra mundial y que contagiaron a las poblaciones de los puertos de francia donde se embarcaban de allende ,0.17647058823529413,0.14634146341463414
+109,de allí se esparció por todo el continente,se esparció por todo el continente ,0.25,0.19047619047619047
+110,empezó en ee uu y llegó a europa por francia,si son estados unidos llegó a europa por francia ,0.5,0.38636363636363635
+111, por qué le decimos gripe española, por qué le decimos gripe española ,0.0,0.0
+112,bueno eso fue un fake news ,eso fue un fake news ,0.16666666666666666,0.23076923076923078
+113,el gobierno y la prensa de españa decidieron enfrentar el mal poniendo en la superficie las estadísticas,el gobierno y la prensa de españa decidieron enfrentar el mal poniendo en la superficie las estadísticas ,0.0,0.0
+114,por ese sinceramiento de los datos y de los números terminaron siendo señalados como responsables de algo que no les correspondía,sinceramiento de los datos y de los números terminaron siendo señalados como responsables de algo que no les correspondía ,0.09523809523809523,0.06201550387596899
+115,en aquella oportunidad uno de cada cinco infectados murió,aquella oportunidad uno de cada cinco infectados murió ,0.1111111111111111,0.05263157894736842
+116,miren en la primera guerra mundial murieron entre diez y treinta millones de personas,en la primera guerra mundial murieron entre diez y treinta millones de personas ,0.07142857142857142,0.07058823529411765
+117,la gripe universal mató a cincuenta millones,la gripe universal mató a cincuenta millones ,0.0,0.0
+118,la población mundial se redujo entre dos coma cinco por ciento y cinco por ciento por culpa de esa pandemia,la población mundial se redujo en entre dos coma cinco y cinco por ciento por culpa de esta pandemia ,0.2,0.14018691588785046
+119,hablamos del cólera la viruela la peste negra la gripe universal y también podríamos agregar la fiebre amarilla de mil ochocientos setenta y un que azotó a las ciudades de corrientes y de buenos aires,hablamos de el cólera la viruela la peste negra la gripe universal y también podríamos agregar la fiebre amarilla de mil ochocientos setenta y un que azotó a las ciudades de corrientes y de buenos aires ,0.05714285714285714,0.01
+120, qué tuvieron en común todas ellas, qué tuvieron en común todas ellas ,0.0,0.0
+121,que cuando nos atacaron no estábamos advertidos,cuando nos atacaron no estábamos advertidos ,0.14285714285714285,0.0851063829787234
+122,no estábamos preparados,estamos preparados ,0.6666666666666666,0.21739130434782608
+123,para colmo en muchos de los casos no se sabía de dónde venía el contagio,a colmo en muchos de los casos no se sabía de dónde venía el contagio ,0.06666666666666667,0.041666666666666664
+124,por lo tanto las respuestas y las reacciones no eran efectivas para contrarrestar el mal,tanto las respuestas y las reacciones no eran efectivas para contrarrestar el mal ,0.13333333333333333,0.07954545454545454
+125, qué aprendimos de todas aquellas fatalidades, qué aprendimos de todas aquellas fatalidades ,0.0,0.0
+126,algo muy importante que la peligrosidad del virus se potencia con la desinformación,muy importante que la peligrosidad del virus se potencia con la desinformación ,0.07692307692307693,0.060240963855421686
+127,se los explico,se explicó ,0.6666666666666666,0.35714285714285715
+128,en el siglo catorce en vez de ocuparse de las ratas y de la falta de higiene se sostenía que el estilo de vida pecaminoso de muchos había desatado la ira divina,en el siglo catorce en vez de ocuparse de las ratas y de la falta de higiene se sostenía que el estilo de vida pecaminoso de muchos había desatado la ira divina ,0.0,0.0
+129,en el siglo veinte en vez de mostrar las verdaderas causales de aquella gripe se distorsionó la realidad y el bicho estuvo fuera de control,siglo veinte en vez de mostrar las verdaderas causales de aquella gripe se distorsionó la realidad y el bicho estuvo fuera de control ,0.08,0.04316546762589928
+130,de esa manera se desparramó por los cinco continentes,manera se desparramó por los cinco continentes ,0.2222222222222222,0.1320754716981132
+131,por lo tanto podemos haber aprendido de una vez que debemos manejarnos con la verdad,por lo tanto podemos haber aprendido de una vez que la verdad es con la cual debemos manejarnos ,0.4,0.39285714285714285
+132,por más que nos duela,márquenos hoy no ,1.0,0.6190476190476191
+133,otra de las grandes enseñanzas en aquella oportunidad fue que vamos a tener que mantenernos en guardia aún después de que pase la tormenta,de las grandes enseñanzas en aquella oportunidad fue que vamos a tener que mantenernos en guardia aún después de que pase la tormenta ,0.041666666666666664,0.036231884057971016
+134,porque siempre ha habido segundas y terceras oleadas que se han llevado a los desprevenidos,que siempre ha habido segundas y terceras oleadas que se han llevado a los desprevenidos ,0.06666666666666667,0.03296703296703297
+135,pero sobre todo podemos aventurar tiempos maravillosos de crecimiento,pero sobre todo podemos aventurar tiempos maravillosos de crecimiento ,0.0,0.0
+136,porque luego de la peste negra surgió el renacimiento,porque luego de la peste negra surgió el renacimiento ,0.0,0.0
+137,porque luego de la gripe universal llegó la década de mil novecientos veinte la más fructífera y vanguardista de todos los tiempos,que luego de la gripe universal llegó la década de mil novecientos veinte la más fructífera y vanguardista de todos los tiempos ,0.045454545454545456,0.023076923076923078
+138,sí al final del túnel nos espera el sol,al final del túnel nos espera el sol,0.1111111111111111,0.07692307692307693
+139,gracias,gracias ,0.0,0.0
+140,tengo dos pasiones una el fútbol,tengo dos pasiones una el fútbol ,0.0,0.0
+141,soy un megafan a ver si adivináis de qué equipo,soy mega fan a ver si lo adivináis de qué equipo ,0.3,0.14893617021276595
+142, por supuesto soy megafan del real madrid,por supuesto soy mega fan del real madrid ,0.2857142857142857,0.025
+143,también soy portero en el equipo de fútbol sala de villanubla,también soy portero en el equipo de futbol sala de villanueva ,0.18181818181818182,0.04918032786885246
+144,la otra pasión es los ordenadores los videojuegos y la programación que es de lo que vengo a hablaros hoy,la otra pasión es los ordenadores los videojuegos y la programación que es de lo que vengo a hablaros hoy ,0.0,0.0
+145,a la hora de jugar a los niños nos vuelve locos la wii la psp la nintendo,a la hora de jugar a los niños nos vuelve locos la wii la psp la nintendo ,0.0,0.0
+146,siempre intentamos ganarnos unas partidas extras acabando antes los deberes ordenando nuestra habitación lo que sea por pasar al siguiente nivel o superar nuestra puntuación anterior,siempre intentamos ganarnos unas partidas extras acabando antes los deberes ordenando nuestra habitación lo que sea por pasarla al siguiente nivel o superar nuestra puntuación anterior ,0.038461538461538464,0.01098901098901099
+147,un día pensé y si en vez de solo jugar a esos juegos pudiera crear mis propias pantallas héroes y malos golpes y piruetas vidas extras,un día pensé y si en vez de solo jugar a esos juegos pudiera crear mis propias pantallas héroes y malos golpes y piruetas vidas extras ,0.0,0.0
+148, imposible,imposible,0.0,0.0
+149,no no,no no ,0.0,0.0
+150,un niño de mi edad puede hacerlo,un niño de mi edad puede hacerlo ,0.0,0.0
+151,mientras las nuevas tecnologías están por todas partes y los mayores las utilizáis para cosas de mayores a ver ordenadores a bordo de los coches móviles consultar el correo mandar mensajes comprar navegar por internet los niños las utilizamos para jugar que para eso somos niños y es lo que más nos gusta,mientras las nuevas tecnologías están por todas partes y los mayores las utilizáis para cosas de mayores a ver ordenadores a bordo de los coches aunque mis padres a veces se siguen perdiendo móviles consultar el correo mandar mensajes comprar navegar por internet los niños los utilizamos para jugar que para eso somos niños y es lo que más nos gusta ,0.16981132075471697,0.15460526315789475
+152,pero todos sabemos que a nosotros los niños se nos da mucho mejor cómo decirlo esos aparatos del demonio que a muchos mayores quizá porque no tenemos miedo a toquetearlos a experimentar con ellos a ver qué hay aquí o a estropearlos ya que luego están los padres para arreglarlo todo,pero todos sabemos que a nosotros los niños se nos da mucho mejor cómo decirlo esos aparatos del demonio que a muchos mayores quizá porque no tenemos miedo a toquetearlos a experimentar con ellos a ver qué hay aquí o a estropearlos ya que luego están los padres para arreglarlo todo ,0.0,0.0
+153, esta curiosidad que tenemos los niños me ayudó a ser creador de mis propios juegos y me di cuenta de que podía aprender jugando y jugar aprendiendo,esta curiosidad que tenemos los niños me ayudó a ser creador de mis propios juegos me di cuenta de que podía aprender jugando y jugar aprendiendo ,0.037037037037037035,0.013605442176870748
+154,podía experimentar crear compartir entender y razonar cómo están hechas las cosas para luego utilizarlo con lo que estábamos estudiando,podía experimentar crear compartir entender y razonar cómo están hechas las cosas para luego utilizarlo con lo que estábamos estudiando ,0.0,0.0
+155,y resulta que todo eso que yo estaba aprendiendo es lo que los mayores llaman informática creativa ,y resulta que todo eso que yo estaba aprendiendo es lo que los mayores llaman informática creativa ,0.0,0.0
+156,una vez me dijeron que programar es como una obra de teatro tenemos nuestro escenario donde están nuestros actores que actuarán entre sí según les digamos podemos disfrazarlos para conseguir animaciones o añadir imágenes sonidos etc pensaréis tiene muy buena pinta pero un niño solo en su habitación programando no es muy social que digamos,una vez me dijeron que programar es como una obra de teatro tenemos nuestro escenario donde están nuestros actores que actuarán entre sí según les digamos podemos disfrazarlos para conseguir animaciones o añadir imágenes sonidos etc pensaréis tiene muy buena pinta pero un niño solo en su habitación programando no es muy social que digamos ,0.0,0.0
+157,pero es que es mucho más,pero es que es mucho más ,0.0,0.0
+158,es una comunidad pública y abierta a nivel mundial a la que podemos pertenecer y donde podemos publicar nuestros programas o descargar los programas ya hechos para jugar con ellos ver cómo los han hecho modificarlos o mejorarlos,es una comunidad pública y abierta a nivel mundial a la que podemos pertenecer y donde podemos publicar nuestros programas o descargarnos programas ya hechos para jugar con ellos ver cómo los han hecho modificarlos o mejorarlos ,0.05263157894736842,0.008771929824561403
+159,y es que actualmente en esta comunidad hay más de diez mil programas compartidos y a ella pertenecemos niños no tan niños y profesores de colegios institutos y universidades,y es que actualmente en esta comunidad hay más de diez mil programas compartidos y ahí ya pertenecemos niños no tan niños y profesores de colegios institutos y universidades ,0.06896551724137931,0.023121387283236993
+160,cada vez me iba apasionando más,cada vez me iba apasionando más ,0.0,0.0
+161,hice nuevos amigos con los que compartía creaciones y fui pensando que si se lo enseñaba a los niños del cole ellos también podrían disfrutar como yo lo hacía,hice nuevos amigos con los que compartía creaciones y fui pensando que si se lo enseñaba a los niños del cole ellos también podrían disfrutar como yo lo hacía ,0.0,0.0
+162,además programar también me ayudaba para aprender de una forma más divertida lo que estábamos dando en el cole,además programar también me ayudaba para aprender de una forma más divertida lo que estábamos dando en el cole ,0.0,0.0
+163,así que lo tuve claro,así que lo tuve claro ,0.0,0.0
+164,el año pasado cuando estábamos dando los huesos del cuerpo humano en clase se me ocurrió hacer un juego de preguntas y respuestas que es este os voy a enseñar este juego que hice sobre los huesos del cuerpo humano para mi colegio cuando lo estábamos dando el año pasado en el que el cuerpo humano te pregunta dónde están sus huesos,el año pasado cuando estábamos dando los huesos del cuerpo humano en clase se me ocurrió hacer un juego de preguntas y respuestas que es este os voy a enseñar este juego que hice sobre los en el que el cuerpo humano te pregunta dónde están sus huesos ,0.22580645161290322,0.24471299093655588
+165,damos a la bandera verde lo ponemos en pantalla grande para que se vea mejor y te dice dónde está la mandíbula,le damos a la bandera verde lo ponemos en pantalla grande para que se vea mejor y te dice dónde está la mandíbula ,0.045454545454545456,0.02727272727272727
+166,tú tienes que responder con el número correcto si es el diez el once el un el dos el tres pues respondes con el diez que es el correcto y te dice biennnn pero si respondes mal te dice ua ua ua ,tú tienes que responder con el número correcto si es el diez el once el un el dos el tres pues respondes con el diez que es el correcto y te dice bien pero si respondes mal te dice bien ,0.09523809523809523,0.057291666666666664
+167,los sonidos los he grabado yo y los he añadido al juego también y he hecho que haya aciertos y fallos que aquí ponga los números de los aciertos y de los fallos para así poder hacer competiciones con mis amigos para ver quién se sabe mejor los huesos del cuerpo humano,los sonidos los he grabado yo y los he añadido al juego también y he hecho que haya aciertos y fallos que aquí ponga los números de los aciertos y de los fallos para así poder hacer competiciones con mis amigos para ver quién se sabe mejor los huesos del cuerpo humano ,0.0,0.0
+168, me divertí tanto programándolo y me ayudaba tanto para aprendérmelo que se lo dije a mi profesora y le pedí si podíamos verlo en clase que quería mostrárselo a todos, bien me divertí tanto programándolo y me ayudaba tanto para aprendérmelo que se lo dije a mi profesora y le pedí si podíamos verlo en clase que quería mostrárselo a todos ,0.03333333333333333,0.030303030303030304
+169,y así fue,y así fue,0.0,0.0
+170,organizamos un día en el que yo les enseñaba esos proyectos y más a mis compañeros de curso y les enseñé que ellos también podían hacerlo al igual que lo había hecho yo,organizamos un día en el que yo les enseñaba esos proyectos y más a mis compañeros del curso y les enseñé que ellos también podían hacerlo al igual que lo había hecho yo ,0.030303030303030304,0.005952380952380952
+171,como no podía ser de otra forma les encantó,pero no podía ser de otra forma les encantó ,0.1111111111111111,0.06976744186046512
+172,les gustó tanto a niños y a profesores que este año hemos fundado el club de programación el páramo de villanubla donde ya somos veintiséis niños los que disfrutamos y programamos programas individualmente o en equipo,les gustó tanto a niños y a profesores que este año hemos fundado el club de programación el páramo de villanueva donde ya somos veintiséis niños los que disfrutamos y programamos programas individualmente o en equipo ,0.027777777777777776,0.009216589861751152
+173,ahora estoy preparando este juego sobre el espacio os voy a enseñar este juego que he hecho sobre los planetas del sistema solar con el sensor de vídeo en el que tú tienes que dar con la cabeza a los planetas para que no caigan al mar,ahora estoy preparando este juego sobre el espacio os voy a enseñar este juego que he hecho sobre los planetas del sistema solar con el sensor de vídeo en el que tú tienes que dar con la cabeza a los planetas para que no caigan al mar ,0.0,0.0
+174,lo ponemos en pantalla grande,una masión pantalla grande,0.6,0.3448275862068966
+175,he puesto fallos y aciertos y aquí está el mar,y aquí está el mar ,0.5,0.6086956521739131
+176,van cayendo los planetas y tú apuntas hacia la cámara te mueves y les vas dando,van cayendo los planetas y tú te apuntas hacia la cámara te mueves y les vas dando,0.0625,0.0379746835443038
+177,cuando les das se cambia el planeta por su nombre y lo dice y se suma un acierto,cuando nos das se cambia el planeta por su nombre y lo dice y se suma una cierta,0.16666666666666666,0.0625
+178,pero cuando no les das suena el sonido del agua y se suma un fallo,pero cuando no les das suena el sonido del agua y se suma un fallo ,0.0,0.0
+179,bueno creo que ya habéis visto cómo funciona,bueno creo que ya habéis visto cómo funciona ,0.0,0.0
+180, a que es muy chulo,aunque es muy chulo ,0.4,0.1111111111111111
+181,pues lo he hecho yo y eso me mola más,pues lo he hecho yo y eso me mola más ,0.0,0.0
+182,además se lo voy a pasar a los niños de cinco años de mi cole que están haciendo un programa sobre los planetas del sistema solar y seguro que con él se los aprenden todos y eso me hace sentir más feliz porque sé que mis juegos sirven para más cosas que para divertirme a mí solo,además se lo voy a pasar a los niños de cinco años de mi cole que están haciendo un programa sobre los planetas del sistema solar y seguro que con él se los aprenden todos y eso me hace sentir más feliz porque sé que mis juegos sirven para más cosas que para divertirme a mí solo ,0.0,0.0
+183,pero no es la primera vez que hago algo para los peques de mi colegio,pero no es la primera vez que hago algo para los peques en mi colegio ,0.06666666666666667,0.028985507246376812
+184,como mis padres veían que me gustaba tanto y me iba tan bien con los estudios cuando cumplí los siete años me regalaron una cosa que cuando la vi dije qué es esto,como mis padres veían que me gustaba tanto y me iba tan bien con los estudios cuando cumplí los siete años me regalaron una cosa que cuando la vi dije qué es esto ,0.0,0.0
+185, unos cables,unos cables,0.0,0.0
+186,y me dijeron con esos cables vas a poder hacer magia ,y me dijeron con esos cables vas a poder hacer magia ,0.0,0.0
+187,y tenían razón y os lo voy a demostrar hoy,y tenían razón yo les voy a demostrar hoy ,0.3,0.09523809523809523
+188,se trataba de una placa llamada makey makey que al conectarla con un cable al ordenador podías ir pinchando más cables a cosas tan originales como gominolas plastilina frutas grafito de lápiz agua o tan solo tocándolos hacer que funcionaran programas y juegos de forma mágica,se trataba de una placa llamada makey makey que al conectarla con un cable al ordenador podías ir pinchando más cables a cosas tan originales como gominolas plastilina frutas grafito de lápiz agua o tan solo tocándolos hacer que funcionaran programas y juegos de forma mágica ,0.0,0.0
+189,se lo dije a marga la profesora de niños de cuatro años de mi cole y me pidió si podíamos hacer un proyecto especial sobre la música y los instrumentos de una orquesta,se lo dije a marga la profesora de niños de cuatro años de mi cole y me pidió si podíamos hacer un proyecto especial sobre la música y los instrumentos de una orquesta ,0.0,0.0
+190,los niños y sus profes se encargarían de hacer los instrumentos de cartón y goma eva mientras yo tenía que hacer los programas necesarios para que esos instrumentos cobraran vida y sonaran de verdad,los niños y sus profes se encargarían de hacer los instrumentos de cartón y goma eva mientras yo tenía que hacer los programas necesarios para que esos instrumentos cobraran vida y sonaran de verdad ,0.0,0.0
+191,así que se lo dije a juanje un amigo mío y entre los dos nos pusimos manos a la obra,así que se lo dije a juan g un amigo mío y entre los dos nos pusimos manos a la obra ,0.1,0.023809523809523808
+192,nos pareció un proyecto muy interesante pero era un reto muy difícil porque teníamos que hacer que niños muy pequeños nos escucharan a nosotros otros niños,nos pareció un proyecto muy interesante pero era un reto muy difícil porque teníamos que hacer que niños muy pequeños nos escucharan a nosotros otros niños ,0.0,0.0
+193,cuando lo tuvimos todo preparado juntamos a todos los peques del ciclo de infantil y les enseñamos cómo sus instrumentos sonaban de verdad,cuando lo tuvimos todo preparado juntamos a todos los peques del ciclo infantil y les enseñamos cómo sus instrumentos sonaban de verdad ,0.043478260869565216,0.021739130434782608
+194,incluso les enseñamos que ellos también tenían música en su interior,incluso les enseñamos que ellos también tenían música en su interior ,0.0,0.0
+195, fue alucinante,fue alucinante,0.0,0.0
+196,los pequeños se portaron genial,los pequeños se portaron genial ,0.0,0.0
+197,les fuimos organizando en turnos para que todos pudieran tocar sus instrumentos,les fuimos organizando en turnos para que todos pudieran tocar sus instrumentos ,0.0,0.0
+198,de verdad nos miraban como si fuéramos magos que con unos simples cables y un ordenador habíamos dejado boquiabiertos a pequeños y mayores,de verdad nos miraban como si fuéramos magos que con unos simples cables y un ordenador habíamos dejado boquiabiertos a pequeños y mayores ,0.0,0.0
+199,bueno queréis ver cómo lo hicimos,bueno queréis ver cómo lo hicimos ,0.0,0.0
+200,pues os lo voy a demostrar a continuación,os lo voy a mostrar a continuación ,0.25,0.17073170731707318
+201,hoy he traído aquí algunos de esos instrumentos que por cierto doy gracias a mi colegio por dejármelos para enseñaros un poco de esa magia y lo que cualquier niño podría hacer con un poco de imaginación unos cables y un ordenador,hoy he traído aquí algunos de esos instrumentos que por cierto doy gracias a mi colegio por dejármelos para enseñaros un poco de esa magia y lo que cualquier niño podría hacer con un poco de imaginación unos cables y un ordenador ,0.0,0.0
+202,para tocar este súper piano hecho por niños de cuatro años tengo que quitarme los zapatos,para tocar este super piano hecho por niños de cuatro años tengo que quitarme los zapatos ,0.0625,0.011235955056179775
+203, tengo los pies limpios eh,tengo los pies limpios sí ,0.2,0.08
+204, a ver si os suena esta canción,a ver si os suena esta canción ,0.0,0.0
+205, y ahora os voy a enseñar cómo el agua puede hacer más sonidos que el que hace cuando sale del grifo,la segunda parte y y ahora os voy a enseñar cómo el agua puede hacer más sonidos que el que hace cuando sale del grifo ,0.19047619047619047,0.1919191919191919
+206,esta canción se la voy a dedicar a mi abuela que para la próxima semana va a ser su cumple,esta canción se la voy a dedicar a mi abuela que para la próxima semana va a ser su cumple ,0.0,0.0
+207, y a continuación voy a necesitar cuatro voluntarios porque aquí y ahora vamos a ver a qué suenan,aplausos y a continuación voy a necesitar cuatro voluntarios porque aquí y ahora vamos a ver a qué suenan ,0.05555555555555555,0.09375
+208,a ver vosotros cuatro de ahí que estáis muy cerca,a ver vosotros cuatro que estáis muy cerca ,0.2,0.14285714285714285
+209, ponte por ahí tú coge este y tú coge este, gracias ,1.0,0.9024390243902439
+210,a ver a qué instrumento suenas anda tú suenas a un ruido,a ver a qué instrumento suenas anda tú suenas a un guiru ,0.08333333333333333,0.05357142857142857
+211, y tú a unos platillos,y tú no estás viviendo ,0.6,0.6666666666666666
+212,no no suenas,no nos suenas ,0.3333333333333333,0.08333333333333333
+213, suenas a un tambor,sonas a un tambor,0.25,0.1111111111111111
+214,y tú a ver a qué instrumento suenas,tú obrador que instrumentos suenas ,0.75,0.3142857142857143
+215, uy si se nos ha colado un caballo, uy sí se nos ha colado un caballo ,0.125,0.030303030303030304
+216, espero que os haya gustado todo lo que os he contado,espero que os haya gustado todo lo que os he contado ,0.0,0.0
+217, veis como no os engañaba, veis cómo nos engañaba ,0.6,0.125
+218,imaginas creas y compartes y todo con unos cables un poco de imaginación y un ordenador,imaginas creas y compartes y todo con unos cables un poco de imaginación y un ordenador ,0.0,0.0
+219, animaos chicos y chicas, animaos chicos y chicas ,0.0,0.0
+220,dejad de ser solo jugadores de juegos y convertiros en creadores de historias juegos programas proyectos musicales ,dejad de ser solo jugadores de juegos y convertiros en creadores de historias juegos programas proyectos musicales ,0.0,0.0
+221,no hay límite solo el de nuestra imaginación,no hay límite solo el de nuestra imaginación ,0.0,0.0
+222,pero no os quedéis ahí enseñádselo al mundo mandadlo a la web para que cada vez seamos más los que disfrutemos no solo jugando sino también sabiendo que nosotros los niños también podemos decidir cómo queremos que estén hechas las cosas,pero no os quedéis ahí enseñádselo al mundo mandadlo a la web para que cada vez seamos más los que disfrutemos no solo jugando sino también sabiendo que nosotros los niños también podemos decidir cómo queremos que estén hechas las cosas ,0.0,0.0
+223,y a vosotros los padres os pido por favor que montéis talleres de programación en los colegios para que ningún niño se quede sin aprender todo esto,y a vosotros los padres os pido por favor que montéis talleres de programación en los colegios para que ningún niño se quede sin aprender todo esto ,0.0,0.0
+224,es importante para vuestros hijos,es importante para vuestros hijos ,0.0,0.0
+225, y no olvidéis nunca y creed siempre que no hay nada imposible todo depende de nuestro esfuerzo y ganas de superarnos y aunque seamos muy pequeños también tenemos muchas cosas que enseñar a los demás,y no olvidéis nunca y creer siempre que no hay nada imposible todo depende de nuestro esfuerzo y ganas de superarnos y aunque seamos muy pequeños también tenemos muchas cosas que enseñar a los demás ,0.02857142857142857,0.005050505050505051
+226,muchas gracias por vuestra atención,muchas gracias por vuestra atención ,0.0,0.0
+227,hasta pronto,hasta pronto,0.0,0.0
+228, aplausos, gracias ,1.0,0.75
+229,sin identidad no podemos ser en sociedad,sin identidad no podemos ser en sociedad ,0.0,0.0
+230,lo primero que pierden las personas con discapacidad cuando nacen es su identidad,lo primero que pierden las personas con discapacidad cuando nacen es su identidad ,0.0,0.0
+231,son etiquetadas renombradas por un diagnóstico que no habla de la persona,son etiquetadas renombradas por un diagnóstico que no habla de la persona ,0.0,0.0
+232,despojar de identidad es el comienzo de una serie de humillaciones de acuerdo a la cultura al contexto a las circunstancias que se repite a lo largo de la historia de la humanidad,despojar de identidad es el comienzo de una serie de humillaciones de acuerdo a la cultura al contexto a las circunstancias que se repiten a lo largo de la historia de la humanidad ,0.030303030303030304,0.00558659217877095
+233,y la escuela reproduce lo que los espartanos cuando se pregunta ante la presencia de un alumno con discapacidad qué tiene,y la escuela reproduce lo que los espartanos cuando se pregunta ante la presencia de un alumno con discapacidad qué tiene ,0.0,0.0
+234,pero nombrar es un acto de resistencia,pero nombrar es un acto de resistencia ,0.0,0.0
+235,y así el cuerpo se vuelve signo,y así el cuerpo se vuelve signo ,0.0,0.0
+236,y nuestros niños y nuestros jóvenes pueden ser reconocidos,y nuestros niños y nuestros jóvenes pueden ser reconocidos ,0.0,0.0
+237,entonces la pregunta correcta es quién es,entonces la pregunta correcta es quién es ,0.0,0.0
+238,la escuela tiene el poder de nombrar,la escuela tiene el poder de nombrar ,0.0,0.0
+239,la escuela devuelve identidad,la escuela devuelve identidad ,0.0,0.0
+240,tiene el poder de devolver la condición de persona,tiene el poder de devolver la condición de persona ,0.0,0.0
+241,tan simple como eso la escuela dignifica,tan simple como eso la escuela dignifica ,0.0,0.0
+242,entonces si soñamos con una sociedad inclusiva la clave está en la escuela,entonces si soñamos con una sociedad inclusiva la clave está en la escuela ,0.0,0.0
+243, vítores,aplausos,1.0,1.0
+244,tengo una hija que tiene trece años pero en el dos mil doce cuando fue el colapso financiero que se cayeron todas las bolsas del mundo y todo eso tenía cinco menos que ahora tendría ocho nueve años,tengo una hija que tiene trece años pero en el dos mil doce cuando fue el colapso financiero que se cayeron todas las bolsas del mundo y todo eso tenía cinco menos que ahora tendría ocho o nueve años ,0.02631578947368421,0.01015228426395939
+245,y estábamos viendo el noticiero estábamos almorzando y viendo el noticiero y apareció un tipo de corbata pelado un periodista que siempre daba malas noticias fue el que vaticinó el tsunami y que se cayó un avión y ese día dijo último momento se desplomó la bolsa en todo el mundo ,y estábamos viendo el noticiero estábamos almorzando viendo el noticiero y apareció un tipo de corbata pelado un periodista que siempre daba malas noticias fue el que vaticinó el tsunami y que se cayó un avión y ese día dijo último momento se desplomó la bolsa en todo el mundo ,0.0196078431372549,0.007168458781362007
+246,y mi hija me miró así y yo me puse pálido,y mi hija me miró así y yo me puse pálido ,0.0,0.0
+247,y siguió el tipo dice se disparó el valor nominal del bono por no poder sostener las obligaciones de deuda ,y siguió el tipo dice se disparó el valor nominal del bono por no poder sostener las obligaciones de deuda ,0.0,0.0
+248,y mi hija me miraba,y mi hija me miraba ,0.0,0.0
+249, la banca de inversión colapsó dijo se están suicidando los accionistas ,la banca de inversión colapsó dijo el tipo se están suicidando los accionistas ,0.18181818181818182,0.11428571428571428
+250,y mi hija abrió los ojos grandes y yo también,y mi hija abrió los ojos grandes yo también ,0.1,0.044444444444444446
+251,obviamente me asusté porque estaba pasando algo grave,obviamente me asusté porque estaba pasando algo grave ,0.0,0.0
+252,y entonces nina mi hija que siempre me preguntaba qué es el tsunami qué es el avión que se cayó y era fácil de explicar lo del tsunami es el epicentro de una cosa en el mar que después se mueren los filipinos es simple,y entonces nina mi hija que siempre me preguntaba qué es el tsunami qué es el avión que se cayó y era fácil explicar lo del tsunami es el epicentro de una cosa en el mar que después se muere en los filipinos es simple ,0.06666666666666667,0.022935779816513763
+253, me preguntó qué es esto que pasó ahora papá es grave ,me preguntó qué es esto que pasó ahora papá es grave ,0.0,0.0
+254,y yo me di cuenta de que no tenía la menor idea de cómo explicarle a un chico qué cosa era eso,y yo me di cuenta que no tenía la menor idea de cómo explicarle a un chico qué cosa era eso ,0.045454545454545456,0.031914893617021274
+255,un terremoto se explica fácil pero cómo le explican a un nene el colapso del sistema financiero,un terremoto se explica fácil pero cómo le explicas a un nene el colapso del sistema financiero ,0.058823529411764705,0.010526315789473684
+256,no se lo podés explicar porque es intangible más que nada,no se lo podés explicar porque es intangible más que nada ,0.0,0.0
+257,pero como soy cabeza dura y en ratos libres soy escritor también me propuse hacerlo así que escribí un cuento infantil,pero como soy cabezadura y en ratos libres soy escritor también me propuse hacerlo así que escribí un cuento un cuento infantil ,0.19047619047619047,0.09322033898305085
+258,y al día siguiente cuando estábamos mirando de vuelta el noticiero y me volvió a preguntar le conté una historia que quiero compartir con ustedes le dije a nina ese día que había una vez un pueblo muy tranquilo y que había un muchacho que se llamaba pepe el protagonista que vivía en la casa más alejada del pueblo,y al día siguiente cuando estábamos mirando de vuelta el noticiero y me volvió a preguntar lo que hice fue contarle una historia que quiero compartir con ustedes le digo al de virgen y a nina ese día que había una vez un pueblo muy tranquilo y que había un muchacho que se llamaba pepe el protagonista que vivía en la casa más alejada del pueblo ,0.1694915254237288,0.10509554140127389
+259,una tarde pepe salió a caminar y le agarró sed,una tarde pepe salió a caminar y le agarró sed ,0.0,0.0
+260,cuando volvió a su casa abrió una botella de vino y mientras tomaba el vino descubrió una cosa que nadie había descubierto nunca no había bares en el pueblo,cuando volvió a su casa abrió una botella de vino y mientras tomaba el vino descubrió una cosa que nadie había descubierto nunca no había bares en el pueblo ,0.0,0.0
+261,no había ni un bar,no había ni un bar ,0.0,0.0
+262,pepe pensó que si abría un bar podría hacer felices a otros dándoles de tomar y además también pensó que podía ganar alguna moneda,pepe pensó que si abría un bar podía hacer felices a otros dándoles de tomar y además también pensó que podía ganar alguna moneda ,0.041666666666666664,0.007692307692307693
+263,y se puso contento con la idea de abrir un bar,y se puso contento con la idea de abrir un bar ,0.0,0.0
+264,esa tarde su amigo moncho pasó por la casa de pepe y le dio un buen nombre para el bar,esa tarde su amigo moncho pasó por la casa de pepe y le dio un buen nombre para el bar ,0.0,0.0
+265,y ya se sabe que cuando una idea trasnochada tiene un nombre ya empieza a caminar esa idea,y ya se sabe que cuando una idea trasnochada tiene un nombre ya empieza a caminar esa idea ,0.0,0.0
+266,entonces pepe hizo una lista de necesidades para abrir el primer bar del pueblo,entonces pepe hizo una lista de necesidades para abrir el primer bar del pueblo ,0.0,0.0
+267,nina me miraba con los ojos abiertos el cuento estaba bien hasta ahora,nina me miraba con los ojos abiertos el cuento estaba bien hasta ahora ,0.0,0.0
+268,pepe se dio cuenta de que había que comprar mesas sillas copas pintura un palenque para que los clientes del bar pusieran sus caballos y pudieran entrar a tomar,pepe se dio cuenta que había que comprar mesas sillas copas pintura un palenque para que los clientes del bar pusieran sus caballos y pudieran entrar a tomar ,0.034482758620689655,0.01875
+269,y sacó las cuentas y todo eso le iba a costar unas diez mil monedas,y sacó las cuentas y todo eso le iba a costar unas diez mil monedas ,0.0,0.0
+270,por supuesto pepe no tenía diez mil monedas porque era pobre pero durante la noche se le ocurrió una manera de conseguir esas diez mil monedas,por supuesto pepe no tenía diez mil monedas porque era pobre pero durante la noche se le ocurrió una manera de conseguir esas diez mil monedas ,0.0,0.0
+271,pepe recortó mil papelitos y escribió en cada papelito la frase próximamente bar de pepe mil veces escribió eso,pepe recortó mil papelitos y escribió en cada papelito la frase próximamente va de pepe mil veces escribió eso ,0.05263157894736842,0.018018018018018018
+272,y el domingo después de misa se fue a la plaza del pueblo vestido con su mejor traje y le dijo a todos los vecinos en la plaza queridos vecinos voy a abrir un bar en las afueras del pueblo ,y el domingo después de misa se fue a la plaza del pueblo vestido con su mejor traje y le dijo a todos los vecinos en la plaza queridos vecinos voy a abrir un bar en las afueras del pueblo ,0.0,0.0
+273,todo el mundo lo miró,todo el mundo lo miró ,0.0,0.0
+274, qué buena idea , qué buena idea ,0.0,0.0
+275,dijeron algunos,dijeron algunos ,0.0,0.0
+276,pepe se sintió muy bien con la atención de todos y entonces mostró en abanico los mil papelitos recortados y dijo esto es importante nina le dije yo dijo pepe cada uno de estos mil papelitos cuesta diez monedas ,pepe se sintió muy bien con la atención de todos y entonces mostró en abanico los mil papelitos recortados y dijo esto es importante nina le dije yo dijo pepe cada uno de estos mil papelitos cuesta diez monedas ,0.0,0.0
+277,los vecinos lo miraban,los vecinos lo miraban ,0.0,0.0
+278, el que me compre un papelito va a tener que guardarlo porque dentro de un mes cuando yo abra mi bar voy a pagar doce monedas por cada papelito que ustedes me devuelvan ,el que me compre un papelito va a tener que guardarlo porque dentro de un mes cuando yo abra mi bar voy a pagar doce monedas por cada papelito que ustedes me devuelvan ,0.0,0.0
+279,entonces hubo susurros en toda la plaza y moncho que era el tonto del pueblo preguntó pará pepe,entonces hubo susurros en toda la plaza y moncho que era el tonto del pueblo preguntó pará pepe ,0.0,0.0
+280,pero no cuesta diez monedas cada papelito,pero no cuesta diez monedas cada papelito ,0.0,0.0
+281, por qué vas a regalar después dos monedas más , por qué vas a regalar después dos monedas más ,0.0,0.0
+282,y pepe dijo no es regalar mocho es compensar,y pepe dijo no es regalar moncho es compensar ,0.1111111111111111,0.022727272727272728
+283,voy a compensar con dos monedas más a los que me ayuden a cumplir mi sueño que es abrir un bar ,voy a compensar con dos monedas más a los que me ayuden a cumplir mi sueño que es abrir un bar ,0.0,0.0
+284,entonces el alcalde que estaba por ahí se acercó y dijo tiene sentido,entonces el alcalde que estaba por ahí se acercó y dijo tiene sentido ,0.0,0.0
+285,tiene mucho sentido,tiene mucho sentido ,0.0,0.0
+286, muy bien pepe ,muy bien pepe ,0.0,0.0
+287,y ernesto que era rico y entendía de negocios dijo a mí la idea me parece muy bien ,y ernesto que era rico y entendía de negocios dijo a mí la idea me parece muy bien ,0.0,0.0
+288,y el cura ricardo sacando algunas monedas de abajo de su sotana dijo es una idea muy cristiana,y el cura ricardo sacando algunas monedas de abajo de su sotana dijo es una idea muy cristiana ,0.0,0.0
+289,yo quiero algunos de tus papelitos ,yo quiero algunos de tus papelitos ,0.0,0.0
+290,y todos empezaron a comprar papelitos de pepe,y todos empezaron a comprar papelitos de pepe ,0.0,0.0
+291,de esa manera tan simple y en una sola mañana pepe consiguió la plata para abrir su bar,de esa manera tan simple y en una sola mañana pepe consiguió la plata para abrir su bar ,0.0,0.0
+292,entre todos los vecinos le compraron los mil papelitos,entre todos los vecinos le compraron los mil papelitos ,0.0,0.0
+293, yo le compré dos dijo sabino que era pobre pero optimista,yo le compré dos dijo sabino que era pobre pero optimista ,0.0,0.0
+294, yo le compré treinta y seis gritaba quique que era codicioso y altanero,yo le compré treinta y seis gritaba a quique que era codicioso y altanero ,0.07692307692307693,0.028169014084507043
+295,pepe se fue a su casa con diez mil monedas en la mochila y se durmió pensando en su sueño abrir un bar,pepe se fue a su casa con diez mil monedas en la mochila y se durmió pensando en su sueño abrir un bar ,0.0,0.0
+296,al día siguiente era lunes y pepe viajó a la ciudad y compró madera para construir un mostrador y compró pintura volvió a su casa y se puso a trabajar,al día siguiente era lunes y pepe viajó a la ciudad y compró madera para construir un mostrador y compró pintura volvió a su casa y se puso a trabajar ,0.0,0.0
+297,no pasó por la plaza del pueblo en las siguientes cuatro semanas,no pasó por la plaza del pueblo en las siguientes cuatro semanas ,0.0,0.0
+298,es decir le dije a nina pepe no se enteró del desastre que se iba a armar por culpa de sus papelitos,es decir le dije a nina pepe no se enteró del desastre que se iba a armar por culpa de sus papelitos ,0.0,0.0
+299,en ese momento del cuento yo frené y me quedé mirando a mi hija para ver si estaba entendiendo la historia,en ese momento del cuento yo frené y me quedé mirando a mi hija para ver si estaba entendiendo la historia ,0.0,0.0
+300,siempre hay que testear las metáforas con los chicos sobre todo cuando son ideas complejas y ella me dijo papá esto no tiene nada que ver con lo que dijo el señor pelado de la tele pero está bueno seguí ,siempre hay que testear las metáforas con los chicos sobre todo cuando son ideas complejas y ella me dijo papá esto no tiene nada que ver con lo que dijo el señor pelado de la tele pero está bueno seguí ,0.0,0.0
+301, entonces le conté,entonces le conté,0.0,0.0
+302,le conté lo que pasó en el pueblo durante la primera semana,le conté lo que pasó en el pueblo durante la primera semana ,0.0,0.0
+303,ese lunes la plaza estaba llena de gente mucho más que en un lunes normal,ese lunes la plaza estaba llena de gente mucho más de un lunes normal ,0.13333333333333333,0.0684931506849315
+304,muchos vecinos habían pasado la noche entera recortando sus propios papelitos porque también habían descubierto tenían proyectos que no podían cumplir por falta de monedas,muchos vecinos habían pasado la noche entera recortando sus propios papelitos porque también habían descubierto que tenían proyectos que no podían cumplir por falta de monedas ,0.04,0.023391812865497075
+305,unos papelitos decían en breve heladería de horacio ,unos papelitos decían en breve heladería de horacio ,0.0,0.0
+306,otros papelitos decían muy pronto peluquería de carmen ,otros papelitos decían muy pronto peluquería de carmen ,0.0,0.0
+307,e incluso había unos papelitos escritos por moncho con faltas de ortografía que decían a fin de mes aré biajes a la luna ,este incluso había unos papelitos escritos por moncho con faltas de ortografía que decían a fin de mes haré viajes a la luna ,0.13043478260869565,0.041666666666666664
+308, de pronto los vecinos se subían a las farolas de la plaza para que los otros vecinos pudieran comprar esos papelitos,de pronto los vecinos se subían a las farolas de la plaza para que los otros vecinos pudieran comprar esos papelitos,0.0,0.0
+309,se trepaban a la fuente para intercambiar papelitos por monedas,se trepaban a la fuente para intercambiar papelitos por monedas ,0.0,0.0
+310,el martes fue todavía peor y el miércoles ya no se podía caminar por la plaza del quilombo que había,el martes fue todavía peor y el miércoles ya no se podía caminar por la plaza del quilombo que había ,0.0,0.0
+311,el alcalde tuvo que poner orden y habilitó un lugar cerrado en la municipalidad para que los vecinos pudieran reunirse a intercambiar papelitos sin destrozar la plaza,el alcalde tuvo que poner orden y habilitó un lugar cerrado en la municipalidad para que los vecinos pudieran reunirse a intercambiar papelitos sin destrozar la plaza ,0.0,0.0
+312,este pequeño local se inauguró el jueves y fue bautizado con el nombre de el salón de los papelitos ,este pequeño local se inauguró el jueves y fue bautizado con el nombre del salón de los papelitos ,0.10526315789473684,0.020202020202020204
+313,y así fue que el viernes todos los que tenían un proyecto ya habían conseguido las monedas necesarias para llevarlo a cabo y se habían puesto a trabajar,y así fue que el viernes todos los que tenían un proyecto ya habían conseguido las monedas necesarias para llevarlo a cabo y se habían puesto a trabajar ,0.0,0.0
+314,horacio ya buscaba leche crema hielo para su heladería pepe ya estaba serruchando la madera para el mostrador del bar,horacio ya buscaba leche crema hielo para su heladería pepe ya estaba cerruchando la madera para el mostrador del bar ,0.05,0.008547008547008548
+315,carmen afilaba las tijeras para su flamante peluquería y moncho había comprado dos caballos flacos para hacer viajes a la luna,carmen afilaba las tijeras para su flamante peluquería y moncho había comprado dos caballos flacos para hacer viajes a la luna ,0.0,0.0
+316, solamente quedaba en el salón de los papelitos un grupo de vecinos a los que nunca en la vida se les había ocurrido ningún proyecto interesante,solamente quedaban en el salón de los papelitos un grupo de vecinos a los que nunca en la vida se les había ocurrido ningún proyecto interesante ,0.038461538461538464,0.006993006993006993
+317,lo único que tenían estos vecinos eran papelitos de otra gente,lo único que tenían estos vecinos eran papelitos de otra gente ,0.0,0.0
+318,uno de estos vecinos ramón se quejó en voz alta caramba ,uno de estos vecinos ramón se quejó en voz alta caramba ,0.0,0.0
+319,dijo,dijo,0.0,0.0
+320, ahora necesito monedas para comprar cigarros y no tengo,ahora necesito monedas para comprar cigarros y no tengo ,0.0,0.0
+321,hace unos días cambié mis últimas diez monedas por un papelito de pepe y ahora necesito fumar ,hace unos días cambié mis últimas diez monedas por un papelito de pepe y ahora necesito fumar ,0.0,0.0
+322, a mí me pasa lo mismo dijo luis quiero ir al cine no tengo una moneda ,a mí me pasa lo mismo dijo luis quiero ir al cine no tengo una moneda ,0.0,0.0
+323,las quejas fueron cada vez mayores hasta que sabino que era astuto levantó su papelito y dijo a ver muchachos dentro de tres semanas pepe le va a pagar doce monedas al que le devuelva este papelito que yo compré a diez,las quejas fueron cada vez mayores hasta que sabino que era astuto levantó su papelito y dijo a ver muchachos dentro de tres semanas pepe le va a pagar doce monedas al que le devuelva este papelito que yo compré a diez ,0.0,0.0
+324, vendo mi papelito ahora mismo por ocho monedas ,vendo mi papelito ahora mismo por ocho monedas ,0.0,0.0
+325,y los otros lo miraron dijeron oh ,y los otros lo miraron y ,0.2857142857142857,0.30303030303030304
+326, trato hecho dijo ernesto que era rico pero quería ser todavía más rico y le sacó de las manos por ocho monedas el papelito,trato hecho dijo ernesto que era rico pero quería ser todavía más rico y le sacó de las manos por ocho monedas el papelito ,0.0,0.0
+327,ramón y luis también vendieron sus papelitos por menos de diez monedas y mientras uno corría a comprar cigarros y el otro se iba al cine los demás vecinos vieron que aquella era una nueva forma de hacer negocios aunque nunca en la vida se les hubiera ocurrido una idea de verdad,ramón y luis también vendieron sus papelitos por menos de diez monedas y mientras uno corría a comprar cigarro y el otro se iba al cine los demás vecinos vieron que aquella era una nueva forma de hacer negocios aunque nunca en la vida se les hubiera ocurrido una idea de verdad ,0.019230769230769232,0.0035971223021582736
+328,algunos se subieron a las sillas otros a las mesas,algunos se subieron a las sillas otros se subieron a las mesas ,0.2,0.24
+329,empezaron a ofrecer lo que tenían e incluso el cura ricardo llegó de la iglesia triste y dijo amigos el día que moncho puso a la venta sus papelitos yo que soy cristiano le compré unos cuantos porque es tonto,y empezaron a ofrecer lo que tenían incluso el cura ricardo llegó de la iglesia triste y dijo amigos el día que moncho puso a la venta sus papelitos yo que soy cristiano le compré unos cuantos porque es tonto ,0.05,0.019230769230769232
+330,ahora moncho los vende a siete monedas y dice que va a devolver veinte monedas pero es tonto y quiere hacer viajes a la luna,ahora moncho los vende a siete monedas y dice que va a devolver veinte monedas pero es tonto y quiere hacer viajes a la luna ,0.0,0.0
+331,yo ahora necesito monedas para arreglar el campanario y nadie me quiere comprar los papelitos de moncho ,yo ahora necesito monedas para arreglar el campanario y nadie me quiere comprar los papelitos de moncho ,0.0,0.0
+332, lo siento padre ricardo dijeron todos no podemos comprar,lo siento padre ricardo le dijeron todos no podemos comprar,0.1111111111111111,0.05357142857142857
+333, cómo va a ir a la luna ese muchacho , cómo hubiera la luna ese muchacho ,0.4444444444444444,0.2
+334,entonces el cura se fue del salón con los papelitos de moncho cabizbajo y fue la primera vez en muchos años que nadie lo estaba ayudando a reparar la iglesia,entonces el cura se fue del salón con los papelitos de moncho cabizbajo y fue la primera vez en muchos años que nadie lo estaba ayudando a reparar la iglesia ,0.0,0.0
+335,y así pasó la primera semana,y así pasó la primera semana ,0.0,0.0
+336,entonces la miré a nina que me dijo ahora me parece que empieza a parecerse a lo que dijo el pelado de la tele ,entonces la mirada linda que me dijo ahora me parece que empieza a parecerse lo que dijo el pelado de la tele ,0.16666666666666666,0.05454545454545454
+337,y yo le digo claro,y yo le digo claro ,0.0,0.0
+338,en el mundo real el salón de los papelitos se llama la bolsa de valores mientras que los papelitos pueden tener dos nombres,en el mundo real el salón de los papelitos se llama la bolsa de valores mientras que los papelitos pueden tener dos nombres ,0.0,0.0
+339,se pueden llamar bonos en algunos países en otros países se llaman obligaciones ,se pueden llamar bonos en algunos países en otros países se llaman obligaciones ,0.0,0.0
+340,las doce monedas que va a pagar pepe cuando el bar funcione o las veinte monedas que dice moncho que va a pagar cuando haga viajes a la luna se llaman valor nominal del bono ,las doce monedas que va a pagar pepe cuando el bar funcione o las veinte monedas que dice moncho que va a pagar cuando haga viajes a la luna se llaman valor nominal del bono ,0.0,0.0
+341,y nina me miró así,y nino me miró así ,0.2,0.05555555555555555
+342, abrió los ojos grandes porque entendía la chica ochos años,abrió los ojos grandes porque entendía a la chica ocho años ,0.2,0.05172413793103448
+343,entonces le conté lo que pasó la segunda semana en el pueblo,entonces le conté lo que pasó la segunda semana en el pueblo ,0.0,0.0
+344,le conté que la casa de pepe ya no parecía una casa la casa de pepe parecía otra cosa,le conté que la casa de pepe ya no parecía una casa la casa de pepe parecía otra cosa ,0.0,0.0
+345,en el comedor había una barra de madera el baño se había convertido en dos baños uno para damas otro para caballeros,en el comedor había una barra de madera el baño se había convertido en dos baños uno para damas otro para caballeros ,0.0,0.0
+346,las paredes estaban a medio pintar de azul marino y pepe estaba contentísimo con los progresos de su bar,las paredes estaban a medio pintar de azul marino y pepe estaba contentísimo con los progresos de su barco ,0.05263157894736842,0.019230769230769232
+347,como todavía no había ido al pueblo pepe él seguía sin saber que la vida de sus vecinos era un quilombo de papelitos que iban y venían cambiando de precio y de dueño,como todavía no había ido al pueblo pepe él seguía sin saber que la vida de sus vecinos era un quilombo de papelitos que iban y venían cambiando de precio y de dueño ,0.0,0.0
+348,incluso el alcalde después de hablarlo con su secretario decidió sumarse a la nueva moda,incluso el alcalde después de hablarlo con su secretario decidió sumarse a la nueva moda ,0.0,0.0
+349,una mañana de martes el alcalde salió al balcón con megáfono y dijo vecinos la plaza quedó estropeada después del furor de los papelitos,una mañana de martes el alcalde salió al balcón con megáfono y dijo vecinos la plaza quedó estropeada después del furor de los papelitos ,0.0,0.0
+350,necesito recaudar fondos para arreglar los destrozos de las farolas para renovar la fuente y para comprarme un coche a motor,necesito recaudar fondos para arreglar los destrozos de las farolas para renovar la fuente y para comprarme un coche a motor ,0.0,0.0
+351,desde este momento pongo a la venta mil papelitos oficiales ,desde este momento pongo a la venta mil papelitos oficiales ,0.0,0.0
+352, cuántas monedas cuestan , cuántas monedas cuestan ,0.0,0.0
+353,preguntó sabino,preguntó sabino ,0.0,0.0
+354, nada de monedas ,nada demonios ,0.6666666666666666,0.26666666666666666
+355,dijo el alcalde mis papelitos cuestan un caballo,dijo el alcalde mis papelitos cuestan un caballo,0.0,0.0
+356,cuando la fuente eche agua cuando las farolas vuelvan a dar luz y yo tenga un coche a motor voy a devolver dos caballos por papelito,cuando la fuente eche agua cuando las farolas vuelvan a dar luz y yo tenga un coche a motor voy a devolver dos caballos por papelito ,0.0,0.0
+357,los papelitos oficiales están a la venta desde ahora corran que se acaban ,los papelitos oficiales están a la venta desde ahora corran que se acaban ,0.0,0.0
+358,los papelitos del alcalde se vendieron en tiempo récord,los papelitos del alcalde se vendieron en tiempo récord ,0.0,0.0
+359,todos en el pueblo entregaron sus caballos al alcalde y desde ese día las tareas se empezaron a hacer a pie,todos en el pueblo entregaron sus caballos al alcalde y desde ese día las tareas se empezaron a hacer a pie ,0.0,0.0
+360,mientras tanto el intercambio de papelitos siguió en aumento y ya no alcanzaban los lápices para anotar quién era dueño de qué,mientras tanto el intercambio de papelitos siguió en aumento y ya no alcanzaban los lápices para notar quién era dueño de qué ,0.045454545454545456,0.007936507936507936
+361,algunos papelitos eran muy deseados por ejemplo los de pepe que trabajaba día y noche en la concreción de su bar pero a otros papelitos no los quería nadie por ejemplo los de moncho porque su artefacto para hacer viajes a la luna por el momento solamente constaba de dos caballos y un carro,algunos papelitos eran muy deseados por ejemplo los de pepe que trabajaba día y noche en la concreción de su bar pero a otros papelitos no los quería nadie por ejemplo los de moncho porque su artefacto para hacer viajes a la luna por el momento solamente constaba de dos caballos y un carro ,0.0,0.0
+362,nadie creía que eso empezara a levantar vuelo,nadie creía que eso empezara a levantar vuelo ,0.0,0.0
+363,ernesto el vecino rico que había comprado muchos papelitos durante la primera semana ahora se quería sacar de encima los papelitos de moncho,ernesto el vecino rico que había comprado muchos papelitos durante la primera semana ahora se quería sacar de encima los papelitos de moncho ,0.0,0.0
+364,y como también tenía papelitos de pepe inventó algo buenísimo a lo que bautizó los fajos de ernesto ,y como también tenía papelitos de pepe inventó algo buenísimo a lo que bautizó los fajos de ernesto ,0.0,0.0
+365,eran paquetes cerrados con cien papelitos de todos colores,eran paquetes cerrados con cien papelitos de todos colores ,0.0,0.0
+366,por ejemplo había diez papelitos del bar de pepe arriba veinte papelitos de la heladería de horacio al medio y setenta papelitos del proyecto lunar de moncho abajo sin que nadie los viera,por ejemplo había diez papelitos del bar de pepe arriba veinte papelitos de la heladería de horacio al medio y setenta papelitos del proyecto lunar de moncho abajo sin que nadie viera ,0.030303030303030304,0.0213903743315508
+367,el jueves de la segunda semana los fajos de ernesto tuvieron un gran éxito entre los vecinos que buscaban como locos papelitos de pepe o del alcalde pero el viernes quique descubrió el truco y dijo cuidado vecinos cuidado,el jueves de la segunda semana los fajos de ernesto tuvieron gran éxito entre los vecinos que buscaban como locos papelitos de pepe o del alcalde pero el viernes quique descubrió el truco y dijo cuidado vecinos cuidado ,0.02564102564102564,0.013574660633484163
+368,los fajos de ernesto a veces vienen con papelitos de pepe o del alcalde en la parte de arriba y eso está bien pero al fondo del paquete hay muchos papelitos de moncho que nunca en la puta vida va a hacer ningún viaje a la luna,los fajos de ernesto a veces vienen con papelitos de pepe o del alcalde en la parte de arriba y eso está bien pero al fondo del paquete hay un montón de papelitos de moncho que nunca en la puta vida va a hacer ningún viaje a la luna ,0.06382978723404255,0.048672566371681415
+369,así que antes de comprar fajos de ernesto busquen mi consejo,así que antes de comprar fajos de ernesto busquen mi consejo ,0.0,0.0
+370,mi tarifa por cada consejo es dos monedas ,mi tarifa por cada consejo es dos monedas ,0.0,0.0
+371, desde entonces los compradores de papelitos consultaron siempre a quique antes de comprarle fajos a ernesto,desde entonces los compradores de papelitos consultaron siempre a quique antes de comprarle fajos a ernesto ,0.0,0.0
+372,ernesto y quique que habían sido amigos durante muchos años dejaron de hablarse para siempre,ernesto y quique que habían sido amigos durante muchos años dejaron de hablarse para siempre ,0.0,0.0
+373,y así pasó la segunda semana,y así pasó la segunda semana ,0.0,0.0
+374,a esa altura nina ya era casi una experta en todo este asunto,a esa altura nina ya era casi una experta en todo este asunto ,0.0,0.0
+375,yo le expliqué que en el mundo real los papelitos oficiales del alcalde se llaman títulos de deuda pública ,yo le expliqué que en el mundo real los papelitos oficiales del alcalde se llaman títulos de deuda pública ,0.0,0.0
+376,le expliqué que los fajos de ernesto reciben el nombre de obligaciones de deuda mientras que la casa de quique el lugar a donde van los vecinos para saber si confían o no en los fajos de ernesto se llama banca de inversión ,le expliqué que los fascos de ernesto reciben el nombre de obligaciones de deuda mientras que la casa de quique el lugar a donde van los vecinos para saber si confían o no en los fascos de ernesto se llaman banca de inversión ,0.06976744186046512,0.02252252252252252
+377,entonces le conté a nina que cuando empezó la tercera semana en el pueblo algunos proyectos ya estaban casi terminados y en cambio otros seguían en pañales,entonces le conté a nina que cuando empezó la tercera semana en el pueblo algunos proyectos ya estaban casi terminados y en cambio otros seguían en pañales ,0.0,0.0
+378,a pepe solamente le faltaba clavar el palenque para que los caballos de los vecinos pastaran fuera del bar,a pepe solamente le faltaba clavar el palenque para que los caballos de los vecinos pastaran fuera del bar ,0.0,0.0
+379,horacio había conseguido batir leche y frutas para su heladería y nomás le quedaba traer barras de hielo desde la ciudad,horacio había conseguido batir leche y frutas para su heladería y nomás le quedaba traer barras de hielo desde la ciudad ,0.0,0.0
+380,en cambio carmen todavía no había encontrado un buen local para instalar su peluquería aunque ya tenía docenas de tijeras afiladas,en cambio carmen todavía no había encontrado un buen local para instalar su peluquería aunque ya tenía docenas de tijeras afiladas ,0.0,0.0
+381,y qué decir de moncho, y qué decir de moncho ,0.0,0.0
+382,pobre moncho,pobre moncho ,0.0,0.0
+383,sus caballos estaban cada vez más flacos y tristes aunque los cepillaba día y noche y no parecía que su artefacto pudiera volar en menos de una semana,sus caballos estaban cada vez más flacos y tristes aunque los cepillaba él día y noche y no parecía que su artefacto pudiera volar en menos de una semana ,0.03571428571428571,0.02
+384,los vecinos que tenían papelitos de moncho o de carmen estaban inquietos y ya no podían vendérselos a nadie,los vecinos que tenían papelitos de moncho o de carmen estaban inquietos y ya no podían vendérselos a nadie ,0.0,0.0
+385,hasta que apareció quique con una gran idea,hasta que apareció quique con una gran idea ,0.0,0.0
+386, oigan , uy ,1.0,1.0
+387,dijo quique,dijo quique ,0.0,0.0
+388, los que todavía tengan papelitos de moncho no se preocupen,los que todavía tengan papelitos de moncho no se preocupen ,0.0,0.0
+389,yo les puedo vender tranquilidad de quique para esos papelitos,y yo les puedo vender tranquilidad de quique para esos papelitos ,0.1,0.03225806451612903
+390, y eso qué es, eso qué es ,0.25,0.16666666666666666
+391, preguntó sabino que tenía muchos papelitos de moncho,preguntó sabino que tenía muchos papelitos de moncho ,0.0,0.0
+392, muy fácil dijo quique,muy fácil dijo quique ,0.0,0.0
+393, el que tenga papelitos de moncho me paga dos monedas cada noche de acá a fin de mes y si moncho no consigue hacer viajes a la luna yo pago las veinte monedas prometidas por moncho ,el que tenga papelitos de moncho me paga dos monedas cada noche de acá a fin de mes y si moncho no consigue hacer viajes a la luna yo pago las veinte monedas prometidas por moncho ,0.0,0.0
+394, aunque moncho fracase ,aunque muchos fracasen,0.6666666666666666,0.19047619047619047
+395,preguntaron todos,preguntaron todos,0.0,0.0
+396, aunque fracase,aunque fracase,0.0,0.0
+397, dijo quique,dijo quique ,0.0,0.0
+398, tremenda idea, tremenda idea ,0.0,0.0
+399, dijo sabino así vamos a sentir mucha más tranquilidad y podremos comprar más papelitos del tonto del pueblo ,dijo sabino así nos vamos a sentir mucha más tranquilidad y podremos comprar más papelitos del tonto del pueblo ,0.05555555555555555,0.037383177570093455
+400, por eso mi idea se llama tranquilidad de quique dijo quique,por eso mi idea se llama tranquilidad de quique dijo quique ,0.0,0.0
+401,y muchos vecinos empezaron a pagarle a quique dos monedas por noche para asegurar el proyecto de moncho,y muchos vecinos empezaron a pagarle a quique dos monedas por noche para asegurar el proyecto de moncho ,0.0,0.0
+402,en el medio de la euforia por estas nuevas ideas nadie en el pueblo notó que el alcalde nunca había arreglado las farolas ni la fuente de la plaza,en el medio de la euforia por estas nuevas ideas nadie en el pueblo notó que el alcalde nunca había arreglado las farolas ni la fuente de la plaza ,0.0,0.0
+403,el alcalde había cumplido con una parte solamente de la promesa había escapado del pueblo con un coche a motor,el alcalde ya cumplido con una parte solamente de la promesa había escapado del pueblo con un coche a motor ,0.05,0.03636363636363636
+404,era todo lo que había hecho,era todo lo que había hecho ,0.0,0.0
+405,y los únicos caballos que quedaban en el pueblo eran los de moncho,en los únicos caballos que quedaban en el pueblo eran los de monchot ,0.15384615384615385,0.045454545454545456
+406,todos los demás se los había llevado el alcalde,todos los demás se los había llevado el alcalde ,0.0,0.0
+407,el secretario que había sido mano derecha del alcalde y conocía la estafa desde el principio decidió hacer algo para que nadie descubra la ausencia de su jefe,el secretario que había sido mano derecha del alcalde y conocía la estafa desde el principio decidió hacer algo para que nadie descubra la ausencia de su jefe ,0.0,0.0
+408,y su idea fue estupenda trajo al salón de los papelitos una pizarra y empezó a ponerle nota del uno al diez a cada proyecto,y su idea fue estupenda trajo al salón de los papelitos una pizarra y empezó a poner de nota del un al diez a cada proyecto ,0.12,0.024390243902439025
+409,al bar de pepe le puso un ocho a la peluquería de carmen le puso un cinco a la heladería de horacio un siete,al bar de pepe le puso un ocho a la peluquería de carmen le puso un cinco a la heladería de horacio un siete ,0.0,0.0
+410,al vehículo para hacer viajes a la luna de moncho le puso un dos y haciéndose el distraído a las reformas de la plaza del alcalde les puso un nueve con cincuenta,al vehículo para hacer viajes a la luna de moncho le puso un dos y haciéndose el distraído a las reformas de la plaza del alcalde les puso un nueve y cincuenta ,0.03125,0.018633540372670808
+411, qué significan estos números, qué significan estos números ,0.0,0.0
+412, preguntó sabino,lo pregunto sabino ,1.0,0.26666666666666666
+413,y el secretario dijo son las posibilidades de concreción de cada proyecto,y el secretario dijo son las posibilidades de concreción de cada proyecto ,0.0,0.0
+414,es para ayudar yo lo hago por ustedes y así pasó la tercera semana,es para ayudar yo lo hago por ustedes y así pasó la tercera semana ,0.0,0.0
+415,en este punto yo le expliqué a nina que en el mundo real la idea de quique de ofrecer tranquilidad sobre los papelitos de moncho se llama seguros de impago de deuda y la gran pizarra donde el secretario le pone una nota a cada proyecto en el mundo real se llama agencias de calificación que a veces se equivocan sin querer y a veces se equivocan queriendo,en este punto yo le expliqué a nina que en el mundo real la idea de quique de ofrecer tranquilidad sobre los papelitos de moncho se llama seguros de impago de deuda y la gran pizarra donde el secretario le pone una nota a cada proyecto en el mundo real se llama agencias de calificación que a veces se equivocan sin querer y a veces se equivocan queriendo ,0.0,0.0
+416,entonces nina me preguntó si finalmente pepe había logrado abrir su bar porque ya estábamos en la cuarta semana y le conté el final de la historia,entonces nina me preguntó si finalmente pepe había logrado abrir su bar porque ya estábamos en la cuarta semana y le conté el final de la historia ,0.0,0.0
+417,el final de la historia dice así cuando llegó la cuarta semana y se cumplió el mes pepe se levantó muy temprano y caminó tranquilo hasta el pueblo,el final de la historia dice así cuando llegó la cuarta semana y se cumplió el mes pepe se levantó muy temprano y caminó tranquilo hasta el pueblo ,0.0,0.0
+418,de lejos se vio la fachada de su bar con el cartel luminoso a todo trapo,de lejos se vio la fachada de su bar con el cartel luminoso a todo trapo ,0.0,0.0
+419,el bar se llamaba la luna como lo había bautizado moncho el primer día,el bar se llamaba la luna como lo había bautizado moncho el primer día ,0.0,0.0
+420,ahora solamente faltaba que llegaran los vecinos a caballo con las gargantas muertas de sed,ahora solamente faltaba que llegaran los vecinos a caballo con las gargantas muertas de sed ,0.0,0.0
+421,pepe recorrió las cinco leguas hasta el pueblo poniendo carteles en todos los árboles del camino bar la luna abierto todas las noches ,pepe recorrió las cinco leguas hasta el pueblo poniendo carteles en todos los árboles del camino bar la luna abierto todas las noches ,0.0,0.0
+422,cada cartel que ponía se iba lejos y se quedaba orgulloso mirando el cartel,cada cartel que ponía se iba lejos y se quedaba orgulloso mirando el cartel ,0.0,0.0
+423,sin embargo cuando llegó a la plaza del pueblo no entendió nada de lo que estaba pasando,sin embargo cuando llegó a la plaza del pueblo no entendió nada de lo que estaba pasando ,0.0,0.0
+424,pensó que se había equivocado de camino y estaba en un pueblo diferente,pensó que sería equivocado de camino y que estaba en un pueblo diferente,0.23076923076923078,0.11267605633802817
+425,parecía que por ese pueblo hubiera pasado la guerra,parecía que por ese pueblo hubiera pasado la guerra ,0.0,0.0
+426,las farolas y la fuente de la plaza estaban destrozadas no había un solo caballo en las calles y los vecinos caminaban en redondo hablando solos,las farolas y las fuentes de la plaza estaban destrozadas no había un solo caballo en las calles y los vecinos caminaban en redondo hablando solos ,0.07692307692307693,0.013888888888888888
+427, qué pasó acá , qué pasó acá ,0.0,0.0
+428,le preguntó pepe a horacio cuando lo vio,le preguntó pepe a horacio cuando lo vio ,0.0,0.0
+429, ay,ay ,0.0,0.0
+430,pepe dijo horacio llorando,pepe dijo horacio llorando ,0.0,0.0
+431, ay pepe,ay pepe ,0.0,0.0
+432,todo el mundo enloqueció con los papelitos con los míos con los de carmen con los tuyos con todos,todo el mundo enloqueció con los papelitos con los míos con los de carmen con los tuyos con todos ,0.0,0.0
+433,de repente empezó a haber más papelitos que monedas y el alcalde se escapó del pueblo,de repente empezó a haber más papelitos que monedas y el alcalde se escapó del pueblo ,0.0,0.0
+434,después ya no hubo monedas,después ya no hubo monedas ,0.0,0.0
+435,más tarde desaparecieron los caballos,más tarde desaparecieron los caballos ,0.0,0.0
+436,los vendedores de fajos de ernesto quebraron,los vendedores de fajo de ernesto quebraron,0.14285714285714285,0.022727272727272728
+437,los revendedores de tranquilidad de quique no pudieron pagarle a nadie y se escaparon a la noche,los revendedores de tranquilidad de aquí que no pudieron pagarle a nadie y se escaparon a la noche ,0.11764705882352941,0.03125
+438,estamos en la ruina pepe ,estamos en la ruina pepe ,0.0,0.0
+439, y tu proyecto de helado ,y tu proyecto de helado,0.0,0.0
+440,preguntó pepe,preguntó pepe,0.0,0.0
+441, y la peluquería de carmen ,y la peluquería de carmen,0.0,0.0
+442, no lo mío fue un fracaso dijo horacio,no lo mío fue un fracaso dijo horacio ,0.0,0.0
+443, no hay caballos para ir a buscar hielo a la ciudad y el helado se derrite,no hay caballos por ir a buscar hielo a la ciudad y el helado se derrite,0.0625,0.0273972602739726
+444,y carmen no tiene clientes,y carmen no tiene cliente ,0.2,0.038461538461538464
+445,está todo el mundo arrancándose los pelos solo,que está todo el mundo arrancándose los pelos solo,0.125,0.08695652173913043
+446, para qué quieren peluquera , para qué quieren peluquera ,0.0,0.0
+447,pepe se quedó en silencio no podía creer lo que le estaban contando,pepe se quedó en silencio no podía creer lo que le estaban contando ,0.0,0.0
+448,entonces horacio dijo ay por dios,entonces horacio dijo ay por dios ,0.0,0.0
+449,necesito algo fuerte ,necesito algo fuerte ,0.0,0.0
+450,y luis dijo yo también tengo la garganta seca ,y luis dijo yo también tengo la garganta seca,0.0,0.0
+451,y sabino preguntó pepe abriste o no el bar que querías abrir ,y sabino preguntó pepe abriste o no abriste el bar que querías abrir ,0.08333333333333333,0.13333333333333333
+452,y otros también se acercaron a preguntar por el bar,y otros también se acercaron a preguntar por el bar,0.0,0.0
+453,pepe descubrió entonces que sin caballo nadie iba a poder ir nunca a su bar en las afueras del pueblo y entendió también que jamás podría devolver las diez mil monedas a nadie,pepe descubrió entonces que sin caballo nadie iba a poder ir nunca a su bar en las afueras del pueblo y entendió también que jamás podría devolver las diez mil monedas a nadie ,0.0,0.0
+454,y entonces vio en el medio de la plaza a moncho,y entonces vio en el medio de la plaza a moncho ,0.0,0.0
+455,los dos caballos flacos de moncho eran los únicos animales que quedaban y arrastraban tres carros con dos ruedas cada uno en forma de tren,los dos caballos flacos de moncho eran los únicos animales que quedaban y arrastraban tres carros con dos ruedas cada uno en forma de tren ,0.0,0.0
+456,a esos carros se iban subiendo muchos vecinos y otros hacían una fila larga esperando para subir,a esos carros se iban subiendo muchos vecinos y otros hacían una fila larga esperando para subir ,0.0,0.0
+457, moncho ,mucho,1.0,0.3333333333333333
+458,preguntó pepe a dónde va toda esta gente ,y me pregunto pepe a dónde va toda esta gente ,0.375,0.15
+459,y moncho dijo a dónde va a ser,y moncho dijo a dónde va a ser ,0.0,0.0
+460, a tu bar, actuar ,1.0,0.375
+461,a la luna ,a la luna ,0.0,0.0
+462,pepe vio un cartel colgado en la fuente rota que decía moncho hace viajes a la luna,pepe vio un cartel colgado en la fuente rota que decía moncho hace viajes a la luna ,0.0,0.0
+463,salidas una moneda,salidas una moneda ,0.0,0.0
+464,regreso gratis ,regreso gratis ,0.0,0.0
+465, pero moncho ,pero mancha ,0.5,0.18181818181818182
+466,preguntó pepe vos sabías que todos se iban a quedar sin caballo ,y me preguntó pepe vos sabías que todos iban a quedar sin caballos ,0.3333333333333333,0.14285714285714285
+467, no dijo moncho yo solamente sé una cosa yo lo que sé es que la gente puede ir a un bar a caballo pero nadie puede volver borracho y montando un caballo ,no dijo moncho yo solamente sé una cosa yo lo que sé es que la gente puede ir a un bar a caballo pero nadie puede volver borracho y montando un caballo ,0.0,0.0
+468, y como yo no tomo pensé que mi negocio podría ser llevarlos y traerlos de la luna ,y como yo no tomo pensé que mi negocio podría ser llevarlos y traerlos de la luna ,0.0,0.0
+469,entonces pepe abrazó a moncho se subió al primer carro y gritó vamos todos a la luna,entonces pepe abrazó a moncho se subió al primer carro y gritó vamos todos a la luna ,0.0,0.0
+470,bebidas gratis la primera noche y todo el pueblo subió y aplaudió,bebidas gratis la primera noche y todo el pueblo subió y aplaudió ,0.0,0.0
+471,nina incluso aplaudió contenta el final de la historia,nina incluso aplaudió contenta el final de la historia,0.0,0.0
+472,y entonces yo le dije a mi hija que tuviera cuidado porque en el mundo real las historias de los pepes que intentan abrir bares o las historias de los monchos que quieren hacer viajes a la luna y nadie los entiende son casi siempre proyectos que no suelen tener final feliz como en los cuentos infantiles,y entonces yo le dije a mi hija que tuviera cuidado porque en el mundo real las historias de los pepes que intentan abrir bares o las historias de los monchos que quieren hacer viajes a la luna y nadie los entiende son casi siempre proyectos que no suelen tener final feliz como en los cuentos infantiles ,0.0,0.0
+473,porque en el medio aparecen quiques aparecen alcaldes aparecen ernestos y secretarios y lo echan siempre todo a perder,porque en el medio aparecen quiques aparecen alcaldes aparecen ernestos y secretarios y lo echan siempre todo a perder ,0.0,0.0
+474,pero cuando alguno de estos proyectos sí funciona le dije a mi hija para terminar cuando estos proyectos funcionan cuando algo mágico pasa y funcionan se llaman sueños y suelen ser maravillosos,pero cuando alguno de estos proyectos sí funciona le dije a mi hija para terminar cuando estos proyectos funcionan cuando algo mágico pasa y funcionan se llaman sueños y suelen ser maravillosos ,0.0,0.0
+475, muchas gracias,muchas gracias ,0.0,0.0
+476, aplausos,aplausos ,0.0,0.0
+477,probablemente recuerdan esta imagen de la cancillera angela merkel haciéndose un selfie con un refugiado,probablemente recuerdan esta imagen de la canciller angela merkel haciéndose un selfie con un refugiado ,0.06666666666666667,0.009615384615384616
+478,esta imagen y otras semejantes levantaron ampollas en el parlamento alemán y en muchos parlamentos europeos poniendo en jaque a la unión europea,esta imagen y otras semejantes levantaron ampollas en el parlamento alemán y en muchos parlamentos europeos poniendo en jaque a la unión europea ,0.0,0.0
+479,desde el principio no hubo consenso entre la población alemana ante tal avalancha de refugiados procedentes de oriente medio camino de europa,desde el principio no hubo consenso entre la población alemana ante tal avalancha de refugiados procedentes de oriente camino de europa ,0.045454545454545456,0.0425531914893617
+480,la cultura de bienvenida fomentada por angela merkel desde un principio no fue siempre valorada por todos,la cultura de bienvenida que fomentaba angela merkel desde un principio no fue siempre valorada por todos ,0.11764705882352941,0.08571428571428572
+481,desde un principio había gente que la apoyó y otras personas que no,desde un principio había gente que la apoyó y otras personas que no ,0.0,0.0
+482,las personas que no la apoyan actualmente cada vez son más cada vez hay más detractores y esto le va a pasar factura a angela merkel obviamente,las personas que no la apoyan actualmente cada vez hay más detractores y esto le va a pasar factura a angela merkel obviamente ,0.14814814814814814,0.11888111888111888
+483,no quiero entrar en detalles acerca del futuro político de angela merkel pero sí que me gustaría mencionar que ella para mí es una de las personas políticas en la actualidad que tiene una autoridad moral a pesar de sus errores de la que carece la mayoría de los políticos actuales,no quiero entrar en detalles acerca del futuro político de angela merkel pero sí que me gustaría mencionar que ella para mí es una de las personas políticas en la actualidad que tiene una autoridad moral a pesar de sus errores de la que carece la mayoría de los políticos actuales ,0.0,0.0
+484,esta es una gráfica que muestra el número de refugiados que entraron en alemania durante el año pasado,esta es una gráfica donde muestra el número de refugiados que entraron en alemania durante el año pasado ,0.05555555555555555,0.0392156862745098
+485,el primer grupo es de siria seguido por el grupo que vino de irak y el grupo que vino de afganistán,el primer grupo es de siria seguido por el grupo que vino de irak y el grupo que vino de afganistán ,0.0,0.0
+486,según un informe de unicef publicado hace escasas dos semanas la mitad de las personas que huyen de la guerra son menores de edad,según un informe de unicef publicado hace escasas dos semanas la mitad de las personas que huyen de la guerra son menores de edad ,0.0,0.0
+487,el discurso en contra de los refugiados es bastante conocido nos van a islamizar ,el discurso en contra de los refugiados es bastante conocido nos van a islamizar ,0.0,0.0
+488, estamos dejando entrar a terroristas ,estamos dejando entrar a terroristas ,0.0,0.0
+489, estamos perdiendo la identidad ,estamos perdiendo la identidad ,0.0,0.0
+490,y es verdad que también hay personas que están muy a favor o empatizan con las personas que huyen de la guerra pero también puedo constatar que entre esas personas hay una especie de escudarse ante los errores de los políticos para no actuar para no participar en iniciativas que puedan si no resolver por lo menos paliar estos dramas personales tan graves,y es verdad que también hay personas que están muy a favor o empatizan con las personas que huyen de la guerra pero también puedo constatar que entre esas personas hay una especie de escudarse ante los errores de los políticos para no actuar para no participar en iniciativas que puedan si no resolver por lo menos paliar estos traumas personales tan graves ,0.015873015873015872,0.0056179775280898875
+491,en el discurso oficioso y en el discurso oficial se destaca como algo clave para la integración de los refugiados el aprendizaje del alemán,en el discurso oficioso y en el discurso oficial se destaca como algo clave para la integración de los refugiados el aprendizaje del alemán ,0.0,0.0
+492,yo soy de barcelona yo soy lingüista,yo soy de barcelona yo soy lingüista ,0.0,0.0
+493,desde hace cuatro años vivo en colonia en alemania y para mí también es un factor clave el aprendizaje de la lengua para poderse integrar pero no solo para los refugiados es un factor clave sino para todos los inmigrantes en general,desde hace cuatro años vivo en colonia en alemania y para mí también es un factor clave el aprendizaje de la lengua para poderse integrar pero no solamente para los refugiados es un factor clave sino para todos los inmigrantes en general ,0.023809523809523808,0.02586206896551724
+494,investigo diferentes aspectos de la lengua en entornos multilingües desde hace varios años y para mí la lengua no es un producto final que se pueda llegar a dominar,investigo diferentes aspectos de la lengua en entornos multilingües desde hace varios años para mí la lengua no es un producto final que se pueda llegar a dominar ,0.034482758620689655,0.012195121951219513
+495,para mí la lengua es un proceso que va cambiando a lo largo de la vida a lo largo de las experiencias personales que vamos teniendo,la lengua es un proceso que va cambiando a lo largo de la vida a lo largo de las experiencias personales que vamos teniendo ,0.07692307692307693,0.061068702290076333
+496,obviamente la lengua es un poderoso instrumento de integración de inclusión pero también un poderoso instrumento de exclusión social,y obviamente la lengua es un poderoso instrumento de integración de inclusión pero también un poderoso instrumento de exclusión social ,0.05263157894736842,0.015151515151515152
+497,si por ejemplo tienes una pobre competencia lingüística o tienes un acento extranjero o un dialecto determinado de una región o a lo mejor tienes algún tipo de discapacidad que te afecta a la producción de la lengua oral como por ejemplo la tartamudez todos estos son ejemplos que influyen en cómo las personas te van a aceptar o te van a marginar en una sociedad,si por ejemplo tienes una pobre competencia lingüística o tienes un acento extranjero un dialecto determinado de una región o a lo mejor tienes algún tipo de discapacidad que te afecta la producción de la lengua oral como por ejemplo la tartamudez estos son ejemplos que influyen en cómo las personas te van a aceptar o te van a marginar en una sociedad ,0.045454545454545456,0.027548209366391185
+498,la utilización de la lengua y la identidad no es algo estático es algo que va cambiando,la utilización de la lengua y la identidad no es algo estático es algo que va cambiando ,0.0,0.0
+499,no es como las huellas dactilares que es lo que te acompaña toda la vida,no es como las huellas dactilares que es lo que te acompaña toda la vida ,0.0,0.0
+500,la identidad es algo que se crea o se forja en función de los valores y las creencias que te da tu familia te dan tus amigos y también va en función de lo que tú realmente quieres ser y lo que tú quieres realmente ser va en función de tu motivación del sentimiento de pertenencia que tienes con otros grupos con los que te sientes afín o identificado y también en función de las interacciones con grupos que son totalmente diferentes a ti,la identidad es algo que se crea o se forja en función de los valores y las creencias que te da tu familia te dan tus amigos también y también va en función de lo que tú realmente quieres ser y lo que tú quieres realmente ser va en función de tu motivación del sentimiento de pertenencia que tienes con otros grupos con los que te sientes afines o identificados y también en función de las interacciones con grupos que son totalmente diferentes a ti ,0.03571428571428571,0.0273972602739726
+501,en los centros de refugiados en alemania se ofrecen clases de alemán gratuitas y uno podría pensar es natural pensar que estas personas deberían estar contentas de poder recibir estos cursos de alemán y también que deberían estar agradecidas,en los centros de refugiados en alemania se ofrecen clases de alemán gratuitas y uno podría pensar que es natural pensar que estas personas deberían estar contentos de poder recibir estos cursos de alemán y también que deberían estar agradecidos,0.07692307692307693,0.024896265560165973
+502,pero es realmente significativa la ausencia de las chicas adolescentes en estos grupos de alemán en estas actividades,pero es realmente significativa la ausencia de las chicas adolescentes en estos grupos de alemán en estas actividades ,0.0,0.0
+503,pónganse en situación estas chicas llevan mucha carga muchos trastornos postraumáticos debido a un éxodo a una tierra que nadie les había prometido han visto cómo asesinaban a sus seres queridos han visto cómo incendiaban o bombardeaban sus casas otras desgraciadamente también han sido testigos o víctimas de violaciones en su particular trasiego desde afganistán irak y siria camino a europa o camino en este caso de alemania,pónganse en situación estas chicas han experimentado llevan mucha carga muchos trastornos postraumáticos debido a un éxodo a una tierra que nadie les había prometido que nadie les había prometido han visto cómo asesinaban a sus seres queridos han visto cómo incendiaban o bombardeaban sus casas otras desgraciadamente también han sido testigos o víctimas de violaciones en su particular trasiego desde afganistán irak e irán camino a europa o camino en este caso de alemania ,0.1323529411764706,0.12177985948477751
+504,si ustedes se ponen en su piel tendrían ganas de hacer clases de alemán o de cualquier otra cosa,si ustedes se ponen en su piel tendrían ganas de hacer unas clases de alemán o de cualquier otra cosa ,0.05263157894736842,0.052083333333333336
+505,para más inri las familias de estas chicas los padres los hermanos u otros familiares les impiden que participen en estas actividades porque piensan que a lo mejor les van a dañar aún más,para más henry las familias de estas chicas los padres los hermanos u otros familiares las impiden que participen en estas actividades porque piensan que a lo mejor las van a dañar aún más ,0.08823529411764706,0.026737967914438502
+506,y la pregunta es qué hacer para que estas chicas empiecen a participar en esta nueva sociedad y que se puedan integrar,y la pregunta es qué hacer para que estas chicas empiecen a participar en esta nueva sociedad y que se puedan integrar ,0.0,0.0
+507,esta es la pregunta que nos hicimos cuatro amigos con el jersey rojo sandra luego estoy yo lina y peter,esta es la pregunta que nos hicimos cuatro amigos por el jersey rojo sandra luego estoy yo lina y peta ,0.1,0.038834951456310676
+508,los cuatro por razones diferentes tenemos mucho que ver con la adolescencia,los cuatro por razones diferentes tenemos mucho que ver con la adolescencia ,0.0,0.0
+509,peter y yo por tener hijas quinceañeras,peta y yo por tener niñas hijas quinceañeras ,0.2857142857142857,0.20512820512820512
+510,y sandra y lina por trabajar también con este grupo la adolescencia,y sandra y lina por trabajar también con este grupo de la adolescencia ,0.08333333333333333,0.04477611940298507
+511,nosotros pensamos y si hacemos un proyecto donde no solamente sea atractivo para las chicas refugiadas sino también atractivo para las chicas alemanas,nosotros pensamos bueno y si hacemos un proyecto donde no solamente sea atractivo para las chicas refugiadas sino también atractivo para las chicas alemanas ,0.043478260869565216,0.04
+512, podríamos conseguir unirlas, podríamos conseguir unirlas ,0.0,0.0
+513, podríamos crear un espacio para que ellas interactuaran y quizá con ello que se pudiera contribuir a transformar su identidad, podríamos crear un espacio para que ella se interactuara y quizá con ello se pudiera contribuir a transformar su identidad ,0.2,0.056
+514,así nació la inicativa de hallofoto ,así nació la iniciativa de halofoto ,0.3333333333333333,0.05714285714285714
+515,es un proyecto intercultural para chicas adolescentes entre trece y diecisiete años,es un proyecto intercultural para chicas adolescentes entre trece y diecisiete años ,0.0,0.0
+516,los objetivos de este proyecto eran desarrollar bueno primero crear estos espacios de interacción para poder con ello desarrollar las competencias comunicativas,los objetivos de este proyecto eran desarrollar bueno primero crear esos espacios de interacción para poder con ello desarrollar las competencias comunicativas,0.045454545454545456,0.00625
+517,y las competencias creativas de las chicas,y las competencias creativas de las chicas ,0.0,0.0
+518,nosotros pensábamos si desarrollamos ambas cosas seguro que vamos a crear la posibilidad de que desarrollen también competencias interculturales,nosotros pensamos si desarrollamos ambas cosas seguro que vamos a crear la posibilidad de que se desarrollen también competencias interculturales ,0.10526315789473684,0.034722222222222224
+519,evidentemente para desarrollar las competencias comunicativas había que pasar por el aprendizaje del alemán no quedaba otra y utilizamos un método novedoso los tableros de comunicación aumentativa,evidentemente para desarrollar las competencias comunicativas había que pasar por el aprendizaje de alayman no quedaba otra y utilizamos un método novedoso los tableros de comunicación aumentativa ,0.07407407407407407,0.02040816326530612
+520,los tableros de comunicación aumentativa son ayudas para las personas que no son verbales es decir personas que no tienen lenguaje oral,los tableros de comunicación aumentativa son ayudas para las personas que no son verbales es decir personas que no tienen lenguaje oral ,0.0,0.0
+521,esta condición se puede dar desde el nacimiento por ejemplo en el caso de niños con trastornos del espectro autista severos o por ejemplo en niños con parálisis cerebral,esta condición se puede dar desde el nacimiento por ejemplo en el caso de niños con trastornos del espectro autista severos o por ejemplo niños con discapacidades con parálisis cerebral ,0.10344827586206896,0.11834319526627218
+522,también esta condición se pueda dar cuando ya eres adulto porque tienes un ictus o porque tienes un accidente o porque sufres una enfermedad neurodegenerativa como es el párkinson,también esta condición se puede dar cuando eres adulto porque tienes un ictus o porque tienes un accidente o porque sufres una enfermedad neurodegenerativa como es el parkinson ,0.10344827586206896,0.027932960893854747
+523,estos tableros que utilizamos para el proyecto se componen de pictogramas y del vocabulario núcleo,estos tableros que utilizamos para el proyecto se componen de pictogramas y del vocabulario núcleo ,0.0,0.0
+524,el vocabulario núcleo son las palabras que se repiten más en la lengua espontánea y esto sucede no solamente en alemán sino también en español en catalán en vasco en inglés etc,el vocabulario núcleo son las palabras que se repiten más en la lengua espontánea y esto sucede no solamente en alemán sino también en español en catalán en vasco en inglés etcétera ,0.03125,0.028409090909090908
+525,la verdad es que las niñas aceptaron muy bien estos instrumentos y los datos recogidos en el proyecto demuestran que sí que lo valoran positivamente,la verdad es que las niñas aceptaron muy bien esos instrumentos y los datos recogidos en el proyecto demuestran que sí que lo valoran positivamente ,0.04,0.006756756756756757
+526,de todas maneras para ellas esto no es lo determinante para aprender alemán para tener sueños para estar motivadas para querer realmente participar en esta nueva sociedad,de todas maneras para ellas esto no es lo determinante para aprender alemán para tener sueños para estar motivadas para querer realmente participar en esta nueva sociedad ,0.0,0.0
+527,para ellas lo realmente significativo son los encuentros que formamos que organizamos en hallofoto en nuestro proyecto,para ellas lo realmente significativo son los encuentros que formamos que organizamos en halofoto en nuestro proyecto ,0.058823529411764705,0.00847457627118644
+528,son encuentros interculturales porque estábamos fomentando la interacción cara a cara de grupos con marcos de referencia totalmente diferentes,son encuentros interculturales porque estamos fomentando la interacción cara a cara de grupos con marcos de referencia totalmente diferentes ,0.05263157894736842,0.014084507042253521
+529,esto por ejemplo es la imagen de uno de los encuentros,este por ejemplo es la imagen de uno de los encuentros,0.09090909090909091,0.018518518518518517
+530,nosotros organizamos estos encuentros interculturales por temas y los temas los decidieron ellas,nosotros organizamos estos encuentros interculturales por temas y los temas los decidieron ellas ,0.0,0.0
+531,este es el tema maquillaje y peluquería ,y este es el tema maquillaje y peluquería ,0.14285714285714285,0.05128205128205128
+532,en otro de los encuentros nos fuimos a un centro de aventuras donde había tirolinas había juegos de equilibrios túneles,en otro de los encuentros nos fuimos a un centro de aventuras donde había tirolinas había juegos de equilibrios túneles ,0.0,0.0
+533,el tema no era crear miedo sino superar el miedo,el tema no era crear miedo sino superar el miedo ,0.0,0.0
+534,de forma conjunta se iban ayudando y no era cuestión de quién tenía más miedo o menos miedo qué grupo era el que tenía más miedo o menos era simplemente cada una en su expresión,de forma conjunta se iban ayudando y no era una cuestión quién tenía más miedo o menos miedo qué grupo era el que tenía más miedo o menos era simplemente cada uno en su expresión,0.08571428571428572,0.04519774011299435
+535,ya lo ven en las caras no lo pueden definir quién es quién la que tiene miedo,ya lo ven en las caras no lo pueden definir quién es quién la que tiene miedo ,0.0,0.0
+536,el caso es que en este junto con otros encuentros este es el encuentro que hicimos sobre cocina ellas ven significado,el caso es que este junto con otros encuentros este es el encuentro que hicimos sobre cocina ellas ven significado ,0.047619047619047616,0.02564102564102564
+537,y es en esa construcción de significado lo que genera una sensación de mestizaje una sensación de crear vínculos unos desarrollos interculturales que van más allá de las etiquetas,y es en esa construcción de significado lo que genera una sensación de mestizaje una sensación de crear vínculos unos desarrollos interculturales que van más allá de las etiquetas ,0.0,0.0
+538,las etiquetas lo único que hacen es generar estereotipos y generar prejuicios que no dan cuenta de la riqueza tan grande que somos cada uno de nosotros o que tenemos cada uno de nosotros,las etiquetas lo único que hacen es generar estereotipos y generar prejuicios que no dan cuenta de la riqueza tan grande que somos cada uno de nosotros o que tenemos cada uno de nosotros ,0.0,0.0
+539,además de las competencias comunicativas también quisimos desarrollar las competencias creativas,además de las competencias comunicativas también quisimos desarrollar las competencias creativas ,0.0,0.0
+540,la creatividad es la expresión afectiva y cognitiva de cada individuo,y la creatividad es la expresión afectiva y cognitiva de cada individuo ,0.09090909090909091,0.028985507246376812
+541,y si nosotros activamos esa expresión de forma conjunta primero se desarrolla un espacio para generar cosas primeramente impensables que son mestizajes de expresiones donde ya se puede empezar a ver cómo se está forjando una competencia intercultural,y si nosotros activamos esa expresión de forma conjunta primero se desarrolla un espacio para generar cosas primeramente impensables que son mestizajes de expresiones donde ya se puede empezar a ver cómo se está forjando una competencia intercultural ,0.0,0.0
+542,para eso se hicieron estos talleres de fotografía para generar esta creatividad,para esto se hicieron estos talleres de fotografía para generar esta creatividad ,0.08333333333333333,0.012658227848101266
+543,los talleres de fotografía los hicieron peter y sandra que son los fotógrafos del grupo,los talleres de fotografía los hicieron peta y sandra que son los fotógrafos del grupo ,0.06666666666666667,0.022988505747126436
+544,y estas son las fotos que las chicas se hicieron a lo largo del proyecto,y estas son las fotos que las chicas se hicieron a lo largo del proyecto ,0.0,0.0
+545,a veces posaron y a veces fueron fotógrafas ellas lo decidieron,a veces posaron y a veces fueron fotógrafas ellas lo decidieron ,0.0,0.0
+546,y cuando una ve estas fotos piensa dónde está el ellas ,y cuando uno ve estas fotos piensa dónde están ellas ,0.2727272727272727,0.07407407407407407
+547, dónde está el nosotras , dónde están nosotras ,0.5,0.13636363636363635
+548,las fronteras están como muy diluidas,las fronteras están como muy diluidas ,0.0,0.0
+549, cómo nos definimos, nos definimos ,0.3333333333333333,0.2777777777777778
+550,las fotos nos parecieron tan preciosas que pensamos que deberíamos hacer una exposición,las fotos nos parecían tan preciosas que pensamos que debíamos hacer una exposición ,0.15384615384615385,0.06896551724137931
+551,pero no queríamos hacer una exposición al uso no queríamos hacer una exposición en un museo o en una galería de arte,pero no queríamos hacer una exposición al uso no queríamos hacer una exposición en un museo o en una galería de arte ,0.0,0.0
+552,queríamos trasladar nuestras fotos nuestra exposición a un espacio urbano y teníamos una visión,queríamos trasladar nuestras fotos nuestra exposición a un espacio urbano y pensamos bueno teníamos una visión ,0.14285714285714285,0.15789473684210525
+553,esta es la recreación por ordenador de nuestra visión queríamos que nuestras chicas estuvieran en un tranvía el tranvía del deseo,esta es la recreación por ordenador de nuestra visión queríamos que nuestras chicas estuvieran en un tranvía el tranvía del deseo,0.0,0.0
+554,nuestro deseo era tener una plataforma una plataforma que fuera una declaración política en contra del sexismo y en contra de la xenofobia,nuestro deseo era tener una plataforma una plataforma que fuera una declaración política en contra del sexismo y en contra de la xenofobia ,0.0,0.0
+555,se lo presentamos a los transportes públicos de colonia y se entusiasmaron bastante con el proyecto,se lo presentamos a los transportes públicos de colonia y se entusiasmaron bastante con el proyecto ,0.0,0.0
+556,y a principios de julio del pasado julio se presentó el tranvía con las fotos de las chicas,a principios de julio el pasado julio se presentó el tranvía con las fotos de las chicas ,0.1111111111111111,0.03296703296703297
+557, el proyecto tuvo muchísimo más éxito de lo que nos imaginábamos,aplausos el proyecto tuvo muchísimo más éxito de lo que nos imaginábamos ,0.09090909090909091,0.14285714285714285
+558,de hecho la prensa nos destacó como proyecto ejemplar para contrarrestar las tendencias xenófobas que tristemente cada vez son más no solamente en alemania sino en toda europa,de hecho la prensa nos destacó como proyecto ejemplar para contrarrestar las tendencias xenófobas que tristemente cada vez son más no solamente en alemania sino en toda europa ,0.0,0.0
+559,así mismo fueron muchas las personas que nos preguntaron si podían replicar el proyecto si ellos podían hacer su especial hallofoto ,asimismo fueron muchas las personas que nos preguntaron si podían replicar el proyecto si ellos podían hacer su especial halofoto ,0.14285714285714285,0.022900763358778626
+560,y por esta razón pensamos lo vamos a licenciar para que todo el mundo lo pueda utilizar,y por esta razón pensamos pues bueno lo vamos a licenciar para que todo el mundo lo pueda utilizar ,0.11764705882352941,0.12643678160919541
+561,por eso el proyecto está en creative commons y desde este escenario desde tedxvalladolid les invito a todos los que quieran participar y poner en marcha su propio proyecto que lo hagan,por eso el proyecto está en creative commons y desde este escenario desde tedxfalladolid les invito a todos los que quieran participar poner en marcha su propio proyecto que lo hagan ,0.0625,0.016304347826086956
+562, y no es lo que nosotros hemos enseñado las cuatro personas del equipo sino lo que nos han enseñado las chicas, aplausos y no es lo que nosotros hemos enseñado las cuatro personas del equipo sino lo que nos han enseñado las chicas ,0.047619047619047616,0.08256880733944955
+563,todas las participantes del grupo nos han mostrado formas de comunicarse y formas de interactuar,todas las participantes del grupo nos han mostrado formas de comunicarse y formas de interactuar,0.0,0.0
+564,primero que rompen estereotipos,primero que rompen estereotipos ,0.0,0.0
+565,segundo que crean puentes,y segundo que crean puentes,0.25,0.08
+566,que han generado también unas identidades transformadas poderosas e interculturales y estas identidades interculturales no se basan en el consenso pero sí en el respeto mutuo en ese respeto mutuo de empatizar con la otra de ponerse en la piel de la otra para así tener ese sentimiento de pertenencia,que han generado también unas identidades transformadas poderosas e interculturales y estas identidades interculturales no se basan en el consenso pero sí en el respeto mutuo en ese respeto mutuo de ponerse de empatizar con la otra de ponerse en la piel de la otra para así tener ese sentimiento de pertenencia ,0.04,0.03678929765886288
+567,y ese sentimiento de pertenencia es el que he estado sintiendo ante ustedes mientras les estaba contando todo esto y por esto les estoy muy agradecida,y ese sentimiento de pertenencia es el que he estado sintiendo ante ustedes mientras les estaba contando todo esto y por esto les estoy muy agradecida ,0.0,0.0
+568, aplausos,aplausos,0.0,0.0
+569, qué os viene a la mente cuando escucháis las palabras trastorno de estrés postraumático, qué os viene a la mente cuando escucháis las palabras trastorno de estrés postraumático ,0.0,0.0
+570,quizás palabras como guerra violencia o ejército,quizás palabras como guerra violencia o ejército,0.0,0.0
+571,el trastorno de estrés postraumático es un trastorno mental que puede desarrollarse luego de experimentar o presenciar eventos que ponen en peligro la vida como la guerra accidentes agresiones o desastres naturales,el trastorno de estrés postraumático es un trastorno mental que puede desarrollarse después de experimentar o presenciar eventos que ponen en peligro la vida como la guerra accidentes agresiones o desastres naturales ,0.03125,0.03271028037383177
+572,los síntomas pueden incluir pesadillas reviviscencias dificultad para concentrarse dificultad para dormir evitar cosas y lugares y pensamientos negativos qué os viene a la mente cuando os pregunto qué es la salud mental,los síntomas pueden incluir pesadillas flashbacks dificultad para condensarse dificultad para dormir evitar cosas y lugares y pensamientos negativos qué os viene a la mente cuando os pregunto qué es la salud mental ,0.06060606060606061,0.0639269406392694
+573,tal vez estáis pensando en deprimida yo,tal vez estáis pensando en deprimida yo ,0.0,0.0
+574, no tengo eso,no tengo eso ,0.0,0.0
+575,hospital o cómo funciona nuestra mente,hospital o cómo funciona nuestra mente ,0.0,0.0
+576,durante el verano del dos mil dieciséis viajé sola a amsterdam antes de estudiar en salamanca en españa,durante el verano de dos mil dieciséis viajé sola a amsterdam antes de estudiar en salamanca en españa ,0.05555555555555555,0.009708737864077669
+577,visité la casa de ana frank,visité la casa de anne frank ,0.16666666666666666,0.07407407407407407
+578,mientras caminaba por los pasillos y los pisos miraba las imágenes y las historias,mientras caminaba por los pasillos y los pisos miraba las imágenes y las historias ,0.0,0.0
+579,en un momento determinado simplemente me quedé allí y lloré,en un momento determinado simplemente me quedé allí y lloré ,0.0,0.0
+580,me conmovía lo que veía y leía,me conmovía lo que veía y leía ,0.0,0.0
+581,nadie pensó que esto fuese extraño ni me habló cuando me vió llorar,nadie pensó que esto fuese extraño ni me habló cuando me vio llorar ,0.07692307692307693,0.014925373134328358
+582,en este espacio me sentí como si pudiera hacerlo y me quedé allí todo el tiempo que pude,en este espacio me sentí como si pudiera hacerlo y me quedé allí todo el tiempo que pude ,0.0,0.0
+583,nadie sabía que mi razón para entrar en este sitio fuese encontrar un lugar donde llorar donde nadie me preguntara el porqué,nadie sabía que mi razón para entrar en este sitio fuese encontrar un lugar donde llorar donde nadie me preguntara el por qué ,0.09090909090909091,0.008064516129032258
+584,nadie sabía en ese momento que yo estaba llorando porque había sido agredida sexualmente,nadie sabía en ese momento que yo estaba llorando porque había sido agredida sexualmente ,0.0,0.0
+585,este sentimiento de miedo vergüenza me llevaba a permanecer en silencio encontrar consuelo en un lugar donde llorar parecía estar bien,este sentimiento de miedo y vergüenza me llevaba a permanecer en silencio encontrar consuelo en un lugar donde llorar parecía estar bien ,0.047619047619047616,0.014925373134328358
+586,regresé a casa queriendo borrar este recuerdo para siempre pero todo cambió rápidamente,regresé a casa queriendo borrar ese recuerdo para siempre pero todo cambió rápidamente ,0.07692307692307693,0.011494252873563218
+587,comencé a experimentar ataques de pánico a menudo se originaban imágenes lugares y noticias que me recordaban el asalto,comencé a experimentar ataques de pánico a menudo se originaban imágenes lugares y noticias que me recordaban el asalto ,0.0,0.0
+588,me sentía culpable y avergonzada me sentía vacía y sola,me sentía culpable y avergonzada me sentía vacía y sola ,0.0,0.0
+589,y aunque me veía a mí misma como alguien que tenía todo bajo control en lo más profundo de mi interior me estaba desmoronando,y aunque me veía a mí misma como alguien que tenía todo bajo control en lo más profundo de mi interior me estaba desmoronando ,0.0,0.0
+590,no lo cuentes van a pensar que estás loca,no lo cuentes van a pensar que estás loca ,0.0,0.0
+591, por qué caminaste sola, por qué caminaste sola ,0.0,0.0
+592, por qué viajaste sola, por qué viajaste sola ,0.0,0.0
+593, pero por qué te pusiste en esta situación,pero por qué te pusiste en esta situación ,0.0,0.0
+594, cómo estás hoy, cómo estás hoy ,0.0,0.0
+595,esto,eso ,1.0,0.25
+596,esto me ayudó a decidir buscar ayuda,eso me ayudó a decidir buscar ayuda ,0.14285714285714285,0.027777777777777776
+597,cuando comencé a tener pensamientos suicidas mi mejor amiga me dijo que había ayuda disponible y me conectó a los servicios sanitarios y psicológicos en la universidad,cuando comencé a tener pensamientos suicidas mi mejor amiga me dijo que había ayuda disponible y me conectó a los servicios sanitarios y psicológicos en la universidad ,0.0,0.0
+598,cuando tuve ataques de pánico tenía amigos que estaban a solamente un mensaje o llamada de distancia,cuando tuve ataques de pánico tenía amigos que estaban a solamente un mensaje o llamada de distancia ,0.0,0.0
+599,no tenían que decir nada solamente escuchaban,no tenían que decir nada solamente escuchaban ,0.0,0.0
+600,el apoyo la aceptación y tener alguien cerca me permitieron buscar esa ayuda,el apoyo la aceptación y tener a alguien cerca me permitieron buscar esa ayuda ,0.07692307692307693,0.02631578947368421
+601,con el tiempo recibí la ayuda que necesitaba y pude recuperarme del trastorno de estrés postraumático,con el tiempo recibí la ayuda que necesitaba y pude recuperarme del trastorno de estrés postraumático ,0.0,0.0
+602,según la organización mundial de la salud cerca de ochocientos cerocerocero personas mueren por suicidio cada año,según la organización mundial de la salud cerca de ochocientos coma cero cero cero personas mueren por suicidio cada año ,0.23529411764705882,0.061946902654867256
+603,en dos mil dieciséis hubo tres mil quinientos sesenta y nueve suicidios en españa según el instituto nacional de estadística,en dos mil dieciséis hubo tres coma quinientos sesenta y nueve suicidios en españa según el instituto nacional de estadística ,0.05,0.03225806451612903
+604,casi diez personas al día una cada dos horas y media,casi diez personas al día una cada dos horas y media ,0.0,0.0
+605,el suicidio se puede prevenir y aunque no todos somos expertos psicólogos ni psiquiatras todos tenemos el poder de marcar la diferencia en la vida de alguien y jugamos un papel crítico en la creación de cambios,el suicidio se puede prevenir y aunque no todos somos expertos psicólogos ni psiquiatras todos tenemos el poder de marcar la diferencia en la vida de alguien y jugamos un papel crítico en la creación de cambios ,0.0,0.0
+606,puede ser tan simple como escuchar,puede ser tan simple como escuchar,0.0,0.0
+607,sí es importante arriesgarnos hablar en alto para quien ha vivido o está viviendo el trauma,sí es importante arriesgarnos a hablar en alto para quien ha vivido o está viviendo el trauma ,0.0625,0.02197802197802198
+608,pero si mi amiga no se hubiese arriesgado a preguntarme que tal estaba a lo mejor yo no habría hablado nunca,pero si mi amiga no se hubiese arriesgado a preguntarme qué tal estaba a lo mejor yo no hubiese hablado nunca ,0.09523809523809523,0.05555555555555555
+609,te reto a romper la barrera entre los que están luchando y los que no lo están porque nadie tiene que sentirse avergonzado de no estar bien,te reto a romper la barrera entre los que están luchando y los que no lo están porque nadie tiene que sentirse avergonzado de no estar bien ,0.0,0.0
+610,cada uno de nosotros tenemos que arriesgarnos y tender la mano y preguntar cómo estás hoy,cada uno de nosotros tenemos que arriesgarlos y tender la mano y preguntar cómo estás hoy ,0.0625,0.011235955056179775
+611,gracias,gracias ,0.0,0.0
+612, aplausos,aplausos ,0.0,0.0
+613,qué lindo estar acá,qué lindo estar acá ,0.0,0.0
+614, siempre me he preguntado dónde está el ritmo,siempre me he preguntado dónde está el ritmo ,0.0,0.0
+615, estará en el oído, era en el oído ,0.25,0.23529411764705882
+616, estará en lo que escucho, estará lo que escucho ,0.2,0.125
+617, o está en lo que veo, oeste están lo que veo ,0.5,0.25
+618,y entonces hablando por teléfono conmigo me doy cuenta cómo,y entonces hablando por teléfono conmigo me doy cuenta cómo ,0.0,0.0
+619,que en lo que veo,quien lo que vio ,0.6,0.17647058823529413
+620,alrededor mío hay tanta cantidad de ritmos,alrededor mío hay tanta cantidad de ritmos ,0.0,0.0
+621,y si yo fuera sorda no me podría mover,y si yo fuera sorda no me podría mover ,0.0,0.0
+622, claro que sí maría,claro que sí maría ,0.0,0.0
+623,porque el ritmo está afuera en lo que ves,porque el ritmo está fuera en lo que ves ,0.1111111111111111,0.024390243902439025
+624,y está dentro de tu cuerpo,y está dentro de tu cuerpo ,0.0,0.0
+625,se me está cayendo algo,si me está cayendo algo,0.2,0.043478260869565216
+626,sí los pantalones,sí los pantalones ,0.0,0.0
+627,me han puesto tantos cables para hablar con ustedes,me han puesto tantos cables para hablar con ustedes ,0.0,0.0
+628, pero se olvidaron de que yo tengo pantalones, pero se olvidaron de que yo tengo pantalón ,0.125,0.06818181818181818
+629, sí los tengo,sí lo sé ,0.6666666666666666,0.5
+630,quiero decirles que no hay nada como una sonrisa,quiero decirles que no hay nada como una sonrisa ,0.0,0.0
+631,cuando alguien se acerca y me dice quiero danzar ,cuando alguien se acerca y me dice que quiero danzar ,0.1111111111111111,0.08333333333333333
+632,claro,chau ,1.0,0.6
+633,ya podés danzar,ya podés danzar ,0.0,0.0
+634, con qué,gracias ,1.0,1.0
+635,con lo que tenés,con lo que estén eh ,0.5,0.375
+636, ay, ay ,0.0,0.0
+637,veo un espejo en mi mano,veo un espejo en mi mano ,0.0,0.0
+638, ah,adiós ,1.0,2.0
+639,el espejo me dice que sí podés,el espejo me dice que sí podés ,0.0,0.0
+640, y qué es el tiempo, qué es el tiempo ,0.2,0.1111111111111111
+641,el tiempo está en el hacer y en dar,el tiempo está en el hacer y en dar ,0.0,0.0
+642,no sirve para nada lo que tengo dentro si no tengo posibilidad de dar al otro,no sirve para nada lo que tengo dentro si no tengo posibilidad de dar al otro ,0.0,0.0
+643,para que a su vez encuentre caminos y movimiento,para que a su vez encuentre caminos y movimiento ,0.0,0.0
+644,maría y el ritmo,maría y el ritmo ,0.0,0.0
+645,está dentro tuyo,está dentro tuyo ,0.0,0.0
+646,cuando respirás ya tenés ritmo adentro,cuando respirás ya tenés ritmo adentro ,0.0,0.0
+647,cuando ves el ritmo está afuera,cuando ves el ritmo está fuera ,0.16666666666666666,0.03225806451612903
+648,estoy llena de lucecitas de colores que me hablan son estrellas,estoy llena de lucecitas de colores que me hablan son estrellas ,0.0,0.0
+649,estrellas que iluminan iluminan esta tarde,estrellas que iluminan iluminan esta tarde ,0.0,0.0
+650,no maría es el día,no maría es el día ,0.0,0.0
+651,no parece noche,no parece noche ,0.0,0.0
+652,porque las estrellas alumbran cuando es la noche,porque las estrellas alumbran cuando es la noche ,0.0,0.0
+653, y qué es el día, y qué es el día ,0.0,0.0
+654,tener estrellas en las manos que nos miran y nos hablan,tener estrellas en las manos que nos miran y nos hablan ,0.0,0.0
+655, se puede dar esto, se puede dar esto ,0.0,0.0
+656, claro que sí,claro que sí ,0.0,0.0
+657,porque está dentro tuyo,porque está dentro tuyo ,0.0,0.0
+658,está dentro de cada mirada,está dentro de cada mirada ,0.0,0.0
+659,en cada movimiento que hacemos está el ritmo que has creado,en cada movimiento que hacemos este ritmo que has creado,0.18181818181818182,0.05084745762711865
+660,el ritmo está fuera de tu cuerpo pero qué hermoso lo que tengo en el suelo,el ritmo está fuera de tu cuerpo pero qué hermoso lo que tengo en el suelo ,0.0,0.0
+661,es un círculo,es un círculo,0.0,0.0
+662,qué maravilla, qué maravilla ,0.0,0.0
+663,no tiene puertas,no tiene puerta ,0.3333333333333333,0.0625
+664,el círculo no tiene puertas,el círculo no tiene puerta ,0.2,0.037037037037037035
+665,no sé por dónde salir,por dónde salir,0.4,0.2857142857142857
+666,pero cómo estoy acá arriba, pero cómo estoy acá arriba ,0.0,0.0
+667,me han traído,me han traído,0.0,0.0
+668,me han traído acá para que me acerque a ustedes,me han traído acá para que me acerque a ustedes ,0.0,0.0
+669,y decirles que se puede,y decirle que se puede ,0.2,0.043478260869565216
+670,no tengan miedo,no tengan miedo ,0.0,0.0
+671,si no puedo hacer esto puedo hacer otro,si no puedo hacer esto puedo hacer otro ,0.0,0.0
+672,si no puedo hacer otro puedo hacer el otro,si no puedo hacer otro puedo hacer el otro ,0.0,0.0
+673,yo soy el otro,yo soy el otro ,0.0,0.0
+674,estoy acá para darles lo que no se dice que se tiene,estoy acá para darles lo que no se dice que se tiene ,0.0,0.0
+675, qué es lo que tenés,lo que tenés ,0.4,0.3684210526315789
+676,la vida,la vida ,0.0,0.0
+677, qué es la vida,la vida ,0.5,0.5
+678,es lo que no sé,es lo que no sé ,0.0,0.0
+679,es lo que quiero encontrar, qué es lo que quiero encontrar ,0.2,0.15384615384615385
+680,es lo que quiero buscar,es lo que quiero buscar ,0.0,0.0
+681,y únicamente el movimiento me va a ayudar,y únicamente el movimiento me va a ayudar ,0.0,0.0
+682,por eso les pido si la palabra es movimiento y en mi cuerpo existe el ritmo que no escucho saben,por eso les digo si la palabra es movimiento y en mi cuerpo existe el ritmo que no escucho saben ,0.05,0.020833333333333332
+683,soy sorda,soy sorda ,0.0,0.0
+684,no sé lo que es el sonido de la palabra,no sé lo que es el sonido de la palabra ,0.0,0.0
+685,pero sé sorda como estoy puedo sentir el ritmo infinito que mueve mi cuerpo,pero sí sorda como estoy puedo sentir el ritmo infinito que mueve mi cuerpo ,0.07142857142857142,0.013333333333333334
+686,y me gusta danzar saben,y me gusta danzar saben ,0.0,0.0
+687,siempre he querido danzar,siempre he querido danzar ,0.0,0.0
+688,porque siempre veo el movimiento,que siempre vivo el movimiento ,0.4,0.15625
+689,el movimiento saben cuándo comienza,el movimiento sabe cuándo comienza ,0.2,0.02857142857142857
+690,cuando abro los ojos a la mañana y digo qué hermoso el día que me está esperando ,cuando abro los ojos a la mañana y digo qué hermoso el día que me está esperando ,0.0,0.0
+691,hoy es mi día,hoy es mi día ,0.0,0.0
+692,gracias,gracias ,0.0,0.0
+693, aplausos,aplausos,0.0,0.0
+694,ella acaba de recibir una carta documento,ella acaba de recibir una carta documento ,0.0,0.0
+695,supone que le piden que pague o que se vaya y piensa en los chicos piensa en su trabajo piensa en la pareja que la abandonó la abre y lee,supone que le piden que pague o que se vaya y piensa en los chicos piensa en su trabajo piensa en la pareja que la abandonó la abre y lee ,0.0,0.0
+696,no entiende no puede entender,no entiende no puede entender ,0.0,0.0
+697,le están pidiendo que se vaya ahora que se vaya ya los chicos no están las cosas desparramadas,están pidiendo que se vaya ahora que se vaya ya los chicos no están las cosas desparramadas ,0.05555555555555555,0.031914893617021274
+698,hoy no tendría dónde ir a dormir,no tendría donde ir a dormir ,0.2857142857142857,0.15625
+699,si tuviera un traductor en el teléfono sin perder ninguna información podría leer esto,si tuviera un traductor en el teléfono sin perder ninguna información podría leer,0.07142857142857142,0.05813953488372093
+700, pague en cuarenta y ocho hs si no será demandada ,esto ,1.0,0.9375
+701,y se quedaría tranquila y tal vez se iría al centro de acceso a justicia donde le dirían que tiene tiempo y que la van a ayudar,quedaría tranquila y tal vez iría al centro de acceso a justicia donde le dirían que tiene tiempo y que la van a ayudar ,0.1111111111111111,0.06299212598425197
+702,pero no hay traductor del lenguaje abogadil a un lenguaje que entendamos todos,no hay traductor del lenguaje abogadil a un lenguaje que entendamos todos ,0.07692307692307693,0.0641025641025641
+703,google dice que es demasiado caro para los pocos que somos la comunidad de los que hacemos derecho,dice que es demasiado caro para los pocos que somos la comunidad de los que hacemos derecho ,0.05555555555555555,0.07142857142857142
+704,la carta no se entiende pero manda dos mensajes,la carta no se entiende pero manda dos mensajes ,0.0,0.0
+705,el primero es puse un abogado ,el primero es puse un abogado ,0.0,0.0
+706,el conflicto escaló y ahora no lo podemos resolver charlando,el conflicto escaló y ahora no lo podemos resolver charlando ,0.0,0.0
+707,el segundo es más oscuro,el segundo es más oscuro ,0.0,0.0
+708,el segundo le dice ud,el segundo le dice ,0.2,0.14285714285714285
+709,está fuera del lenguaje de la ley ,está fuera del lenguaje de la ley ,0.0,0.0
+710,el lenguaje le pertenece a los abogados y a las abogadas a los jueces y a las juezas pero no a ud,el lenguaje les pertenece a los abogados y a las abogadas a los jueces y a las juezas pero no a usted ,0.09090909090909091,0.041237113402061855
+711,como ella se va a tener que arreglar de alguna forma todos sabemos que muchas veces en la argentina alguna forma es por afuera de la ley,como ella se va a tener que arreglar de alguna forma todos sabemos que muchas veces en la argentina alguna forma es por afuera de la ley ,0.0,0.0
+712,para que eso no suceda yo formo parte de la red argentina de lenguaje claro donde tratamos de acercar el lenguaje de la ley al lenguaje de todos los días,para que eso no suceda yo formo parte de la red argentina del lenguaje claro donde tratamos de acercar el lenguaje de la ley al lenguaje de todos los días ,0.03333333333333333,0.006535947712418301
+713,después de todo la ley en democracia es nuestra,de todo la ley en democracia es nuestra ,0.1111111111111111,0.1702127659574468
+714, aplausos,aplausos,0.0,0.0
+715,hoy en este lugar somos aproximadamente cinco mil mujeres,hoy en este lugar somos aproximadamente cinco mil mujeres ,0.0,0.0
+716,mil doscientos cincuenta de nosotras sufrió o va a sufrir en algún momento de su vida un ataque sexual, mil doscientos cincuenta de nosotras sufrió o va a sufrir en algún momento de su vida un ataque sexual ,0.0,0.0
+717,un de cada cuatro,una de cada cuatro ,0.25,0.058823529411764705
+718,solo el diez por ciento va a hacer la denuncia,solo el diez por ciento va a ser la denuncia ,0.1,0.06521739130434782
+719,el noventa por ciento restante se refugia en el silencio,el noventa por ciento restante se refugia en el silencio ,0.0,0.0
+720,una mitad porque el hecho ocurre en el seno mismo de la familia o con alguien conocido y eso lo hace mucho más difícil de vivir y de contar,una mitad porque el hecho ocurre en el seno mismo de la familia o con alguien conocido y eso lo hace mucho más difícil de vivir y de contar ,0.0,0.0
+721,la otra mitad no habla porque temen que no les crean,la otra mitad no habla porque temen que no les crean ,0.0,0.0
+722,y tienen razón porque no les creemos,tienen razón porque no les creemos,0.14285714285714285,0.05555555555555555
+723,hoy quiero contarles por qué pienso yo que no les creemos,hoy quiero contarles por qué pienso yo que no les creemos ,0.0,0.0
+724,no les creemos porque cuando una mujer cuenta lo que le pasó dice cosas que no imaginamos que nos perturban que no esperamos escuchar que nos asombran,a veces creemos porque cuando una mujer cuenta lo que le pasó dice cosas que no nos imaginamos que nos perturban que no esperamos escuchar que nos asombran ,0.1111111111111111,0.06
+725,nosotros esperamos escuchar historias como esta,nosotros esperamos escuchar historias como esta ,0.0,0.0
+726, joven violada en las vías del ferrocarril mitre,joven violada en las vías del ferrocarril mitre ,0.0,0.0
+727,ocurrió en la medianoche cuando volvía a su casa,ocurrió en la medianoche cuando volví a su casa ,0.1111111111111111,0.020833333333333332
+728,la joven contó que un sujeto la asaltó por la espalda le dijo que no gritara que tenía un arma que se quedara quieta,la joven contó que un sujeto la saltó por la espalda le dijo que no gritara que tenía un arma y que se quedara quieta ,0.08333333333333333,0.02586206896551724
+729,la violó y luego huyó ,la violó y luego usó ,0.2,0.09523809523809523
+730,cuando escuchamos o leemos una noticia así inmediatamente se nos representa una imagen el violador un depravado de clase baja la víctima una mujer joven atractiva,cuando escuchamos o leemos una noticia así inmediatamente se nos representa una imagen el violador un depravado de clase baja la víctima una mujer joven atractiva ,0.0,0.0
+731,la imagen no dura más de diez o veinte segundos y es oscura es plana no hay movimientos no hay sonidos es como si no hubiera personas,la imagen no dura más de diez o veinte segundos y es oscura es plana no hay movimientos no hay sonidos es como si no hubiera personas ,0.0,0.0
+732,pero cuando una mujer cuenta lo que le pasó su historia no cabe en diez o veinte segundos,pero cuando una mujer cuenta lo que le pasó su historia no cabe en diez o veinte segundos ,0.0,0.0
+733,el siguiente es el testimonio de una mujer a la que vamos a llamar ana,el siguiente es el testimonio de una mujer a la que vamos a llamar ana ,0.0,0.0
+734,una de las ochenta y cinco mujeres que yo entrevisté en el transcurso de una investigación que hice sobre la violación sexual,una de las ochenta y cinco mujeres que yo entrevisté en el transcurso de una investigación que hice sobre la violación sexual ,0.0,0.0
+735,dice ana habíamos ido con las chicas de la oficina al mismo pub que vamos siempre,ana habíamos ido con las chicas de la oficina al mismo pub que vamos siempre ,0.0625,0.06172839506172839
+736,conocimos a unos pibes y yo me enganché con un flaco re piola,conocimos unos pibes y yo me enganché con un flaco re piola ,0.07692307692307693,0.03278688524590164
+737,hablamos un montón,hablamos un montón ,0.0,0.0
+738,a eso de las cuatro les dije a mis amigas que nos fuéramos ellas quisieron quedarse,a las cuatro les dije a mis amigas que no fuéramos ellas quisieron quedarse ,0.1875,0.0963855421686747
+739,entonces el flaco me preguntó dónde vivía y me dijo que si me parecía bien él me acercaba,entonces el flaco me preguntó dónde vivía y me dijo que si me parecía bien él me acercaba ,0.0,0.0
+740,acepté y nos fuimos,acepté y nos fuimos ,0.0,0.0
+741,en un semáforo me dijo que yo le gustaba y me tocó la pierna,en un semáforo me dijo que yo le gustaba y me tocó la pierna ,0.0,0.0
+742,a mí no me gusta que un tipo avance así pero había sido amoroso toda la noche,a mí no me gusta que un tipo avance así pero había sido amoroso toda la noche ,0.0,0.0
+743,pensé no puedo ser tan paranoica por ahí le digo algo y el tipo nada que ver y lo ofendo ,pense no puedo ser tan paranoica por ahí le digo algo y el tipo nada que ver y lo ofendo ,0.05,0.011363636363636364
+744,cuando tenía que doblar siguió de largo,cuando tenía que doblar siguió de largo ,0.0,0.0
+745,pensé que se había equivocado y le dije te pasaste,pensé que se había equivocado y le dije te pasaste ,0.0,0.0
+746, pero algo feo sentí,pero algo feo sentí ,0.0,0.0
+747,ahora pienso por qué no presté atención a lo que sentí,ahora pienso por qué no presté atención a lo que sentí ,0.0,0.0
+748,cuando paró el auto cerca de la autopista ahí sí tuve miedo,cuando paró el auto cerca de la autopista ahí sí tuve miedo ,0.0,0.0
+749,pero me dijo que me quedara tranquila que yo le gustaba que no iba a pasar nada si yo no quería me hablaba bien,pero me dijo que me quedara tranquila que yo le gustaba y que no iba a pasar nada si yo no quería me hablaba bien ,0.041666666666666664,0.018018018018018018
+750,yo no le decía nada porque me daba miedo que se enojara y todo fuera peor,yo no le decía nada porque me daba miedo que se enojara y todo fuera peor ,0.0,0.0
+751,pensé que podía tener un arma en la guantera,pensé que podía tener un arma en la guantera ,0.0,0.0
+752,de repente se me tiró encima y me quiso besar,de repente se me tiró encima y me quiso besar ,0.0,0.0
+753,le dije no,le dije no ,0.0,0.0
+754, quería empujarlo pero me tenía los brazos,quería empujarlo pero me tenía en los brazos ,0.14285714285714285,0.07317073170731707
+755,cuando me solté traté de abrir la puerta pero estaba trabada,cuando me solté traté de abrir la puerta pero estaba trabada ,0.0,0.0
+756,igual si salía del auto a dónde iba,igual si salía del auto a donde iba ,0.125,0.02857142857142857
+757,le dije que él no era la clase de tipo que necesita hacer eso para estar con una mina que él también me gustaba pero no de esa manera,sé que él no era la clase de tipo que necesita ser eso para estar con una mina que él también me gustaba pero no de esa manera ,0.10344827586206896,0.07518796992481203
+758,trataba de calmarlo le decía cosas lindas de él,trataba de calmarlo le decía cosas lindas de él ,0.0,0.0
+759,le hablaba como si yo fuera su hermana mayor,hablaba como si yo fuera su hermana mayor ,0.1111111111111111,0.06818181818181818
+760,de repente me tapó la boca con una mano y con la otra se desabrochó el cinturón,de repente me tapó la boca con una mano y con la otra se desabrochó el cinturón ,0.0,0.0
+761,en ese momento pensé que me podía matar ahorcar sabés,en ese momento pensé que me podía matar ahorcar sabes ,0.1,0.018867924528301886
+762,nunca me sentí tan sola como secuestrada,nunca me sentí tan sola como secuestrada ,0.0,0.0
+763,le pedí que acabara rápido y me llevara a mi casa ,le pedí que acabara rápido y me llevara a mi casa ,0.0,0.0
+764, qué les pasó escuchando esta historia,paso escuchando esta historia,0.5,0.24324324324324326
+765,seguramente les aparecieron varias preguntas,seguramente desaparecieron varias preguntas ,0.4,0.045454545454545456
+766,por ejemplo por qué no bajó la ventanilla y pidió auxilio,por ejemplo por qué no bajó la ventanilla y pidió auxilio ,0.0,0.0
+767, por qué no se bajó del auto cuando presintió que algo feo podría pasar, por qué no se bajó del auto cuando presintió que algo feo podía pasar ,0.07142857142857142,0.014285714285714285
+768, cómo pudo pedirle que la lleve a la casa, cómo pudo pedirle que la lleve a la casa ,0.0,0.0
+769,ahora cuando no estamos frente a una noticia en los medios frente a una historia que alguien como yo les cuenta desde un escenario como este cuando estamos frente a alguien que conocemos y que nos eligió para confiarnos su historia lo que le pasó vamos a tener que escucharla,ahora cuando no estamos frente a una noticia en los medios o frente a una historia que una persona como yo les cuenta desde un escenario como este cuando estamos frente a alguien que conocemos y que nos eligió para confiarnos su historia lo que le pasó vamos a tener que escucharla ,0.06,0.04
+770,y vamos a escuchar cosas que no vamos a poder entender ni aceptar,y vamos a escuchar cosas que no vamos a poder entender ni aceptar ,0.0,0.0
+771,entonces nos van a aparecer dudas preguntas sospechas y eso nos va a hacer sentir muy mal culpables,y entonces nos van a aparecer dudas preguntas sospechas y eso nos va a hacer sentir muy mal culpables ,0.05555555555555555,0.020202020202020204
+772,entonces para defendernos de esa incomodidad tenemos un recurso,entonces para defendernos de esa incomodidad tenemos un recurso ,0.0,0.0
+773,le subimos el volumen a todas esas cosas de la historia que esperábamos escuchar el revólver en la guantera las puertas trabadas el aislamiento del lugar,y subimos el volumen a todas esas cosas de la historia que esperábamos escuchar el revólver en la guantera las puertas trabadas el aislamiento del lugar ,0.038461538461538464,0.013071895424836602
+774,y le bajamos el volumen a todas esas cosas que no esperábamos escuchar y que no queremos escuchar como por ejemplo cuando ella le dice que él también le gustaba o cuando nos cuenta que le hablaba como si fuera la hermana mayor o que le pidió que la llevara a la casa,le bajamos el volumen a todas esas cosas que no esperábamos escuchar y que no queremos escuchar como por ejemplo cuando ella le dice que él también le gustaba o cuando nos cuenta que le hablaba como si fuera la hermana mayor o que le pidió que la llevara a la casa ,0.018867924528301886,0.007518796992481203
+775, para qué sirve hacer esto, qué sirve hacer esto ,0.2,0.2
+776,para creerle para poder confiar en que realmente ella fue una víctima,para poder confiar en que realmente ella fue una víctima ,0.16666666666666666,0.18840579710144928
+777,yo llamo a esto victimización de las víctimas, construyeron o no a esto victimización de las víctimas ,0.375,0.3111111111111111
+778,victimización porque para poder creer que es inocente y que es una víctima necesitamos pensarlas inermes paralizadas mudas,victimización porque para poder creer que es inocente y que es una víctima necesitamos pensarlas inermes paralizadas mudas ,0.0,0.0
+779,pero hay otro camino para deshacernos de la incomodidad y que es exactamente el inverso le subimos el volumen a las cosas que no esperábamos escuchar como yo le hablé bien le pedí que me lleve a mi casa le pedí que acabara rápido y se lo bajamos a las cosas que sí esperábamos escuchar el revólver en la guantera el aislamiento,pero hay otro camino para deshacernos de la incomodidad y que es exactamente el inverso le subimos el volumen a las cosas que no esperábamos escuchar como yo le hablé bien le pedí que me lleve a mi casa le pedí que acabara rápido y se lo bajamos a las cosas que sí esperábamos escuchar el revólver en la guantera el aislamiento ,0.0,0.0
+780, esto para qué sirve, esto para qué sirve ,0.0,0.0
+781,sirve para que podamos agarrarnos de las dudas y sentirnos más cómodos con las dudas,sirve para que podamos agarrarnos de las dudas y sentirnos más cómodos con las dudas ,0.0,0.0
+782,entonces aparecen nuevas preguntas por ejemplo quién la manda a ir a esos boliches,entonces aparecen nuevas preguntas por ejemplo quién la manda a ir a esos boliches ,0.0,0.0
+783, viste cómo se viste ella y las amigas las minis los escotes,vos viste cómo se viste ella y las amigas no las minis los escotes ,0.16666666666666666,0.11864406779661017
+784, qué esperás,gracias ,1.0,0.9090909090909091
+785,preguntas que no son ciertamente preguntas son más bien juicios y juicios que terminan en una sentencia ella se la buscó,preguntas que no son ciertamente preguntas son más bien juicios y juicios que terminan en una sentencia ella se la buscó ,0.0,0.0
+786,la sentencia se vería corroborada por el hecho de que ella después no cuenta que haya peleado para evitar la violación,la sentencia se vería corroborada por el hecho de que ella después no cuenta que haya peleado para evitar la violación ,0.0,0.0
+787,entonces quiere decir que no resistió quiere decir que consintió,entonces quiere decir que no resistió quiere decir que consintió ,0.0,0.0
+788,si se la buscó y consintió de qué violación me hablan,la buscó y consintió de qué violación me hablan ,0.18181818181818182,0.11320754716981132
+789,llamo a esto culpabilización de las víctimas,llamo a esto culpabilización de las víctimas ,0.0,0.0
+790,tanto los argumentos que nos sirven para culpabilizar como para victimizar los tenemos todos todos en la cabeza muy a mano incluidos víctimas y victimarios,tanto los argumentos que nos sirven para culpabilizar como para victimizar los tenemos todos todos en la cabeza muy a mano incluidos víctimas y victimarios ,0.0,0.0
+791,tanto es así que cuando ana llegó a mí me dijo que no sabía si el testimonio de ella me iba a servir porque no estaba segura de que lo que le había pasado hubiera sido una violación,y es así que cuando ana llegó a mí me dijo que no sabía si el testimonio de ella me iba a servir porque no estaba segura de que lo que le había pasado hubiera sido una violación ,0.02631578947368421,0.027624309392265192
+792,ana al igual que la mayoría de nosotros también creía que una violación se parece más a un robo a mano armada un trámite violento que dura cuatro o cinco minutos y no al chamuyo de un joven agradable que dura toda una noche y que termina en un secuestro,ana igual que la mayoría de todos nosotros también creía que una violación se parece más a un robo a mano armada un trámite violento que dura cuatro o cinco minutos y no el chamuyo de un joven agradable que dura toda una noche y que termina en un secuestro ,0.06,0.039525691699604744
+793,cuando sintió miedo a que la maten sintió miedo a que le dejen marcas y tuvo que entregar su cuerpo para evitarlo ahí supo que la violación era otra cosa,cuando sintió miedo a que la maten sintió miedo a que le dejen marcas y tuvo que entregar su cuerpo para evitarlo ahí supo que la violación era otra cosa ,0.0,0.0
+794,ana no había hablado de esto nunca con nadie,no había hablado de esto nunca con nadie ,0.1111111111111111,0.09090909090909091
+795,podría haber recurrido a la familia pero no lo hizo,podría haber recurrido a la familia pero no lo hizo ,0.0,0.0
+796,no lo hizo porque tuvo miedo,pablo hizo porque tuvo miedo ,0.3333333333333333,0.10714285714285714
+797,tuvo miedo de que a la persona que ella hubiera elegido para contarle le pasara lo mismo que nos pasa a todos y que es que surgen dudas y sospechas esas preguntas cada vez que se habla de un tema como este,tuvo miedo de que a la persona que ella hubiera elegido para contarle le pasara lo mismo que nos pasa a todos y que es que surgen dudas y sospechas esas preguntas cada vez que se habla de un tema como este ,0.0,0.0
+798,y si eso hubiera pasado hubiera sido tal vez peor que la violación misma,si eso hubiera pasado hubiera sido tal vez peor que la violación misma ,0.07142857142857142,0.027777777777777776
+799,podría haber hablado con una amiga con una hermana muy difícilmente con la pareja el menor atisbo de duda en su rostro o en su voz hubiera sido devastador para ella y probablemente el final de la relación,podría haber hablado con una amiga con una hermana muy difícilmente con la pareja el menor atisbo de duda en su rostro o en su voz hubiera sido devastador para ella y probablemente el final de la relación ,0.0,0.0
+800,ana se mantiene en silencio porque íntimamente sabe que nadie ni todos nosotros ni su familia ni los terapeutas mucho menos la policía o los magistrados estamos dispuestos a escuchar lo que ana sí hizo en ese momento,nos mantiene en silencio porque íntimamente sabe que nadie ni todos nosotros ni su familia ni los terapeutas mucho menos la policía o los magistrados estamos dispuestos a escuchar lo que ana sí hizo en ese momento ,0.05263157894736842,0.018518518518518517
+801,primero y principal ana dijo no ,en primer y principal ana dijo no ,0.3333333333333333,0.12903225806451613
+802,cuando vio que su no era inútil le habló bien trató de no exacerbar su violencia de no darle ideas,porque su no era inútil le habló bien trató de no exacerbar su violencia de no darle ideas ,0.15,0.10204081632653061
+803,le habló como si todo lo que estaba pasando en ese momento fuera normal para no despertar en él el miedo a que ella después lo pudiera denunciar,se habló como si todo lo que estaba pasando en ese momento hubiera sido normal para no despertar en él el miedo a que ella después lo pudiera denunciar ,0.10714285714285714,0.0625
+804,ahora yo me pregunto y les pregunto todo eso que hizo ella no es resistir,ahora yo me pregunto y les pregunto todo eso que hizo ella no es resistir ,0.0,0.0
+805,no no lo es para todos o casi todos nosotros probablemente porque no lo es para la ley,no no lo es para todos nosotros o casi todos nosotros probablemente porque no lo es para la ley ,0.05555555555555555,0.10465116279069768
+806,en la mayoría de los países los códigos siguen pidiendo que la víctima para probar su inocencia digo bien la víctima para probar su inocencia presente marcas en el cuerpo que atestigüen que ella sostuvo una lucha tenaz y constante con su agresor,en la mayoría de los países los códigos siguen pidiendo que la víctima para probar su inocencia digo bien la víctima para probar su inocencia presente marcas en el cuerpo que atestiguen que ella sostuvo una lucha tenaz y constante con su agresor ,0.023255813953488372,0.004081632653061225
+807,yo les puedo asegurar que en la mayoría de los casos judiciales no hay marcas que alcancen,yo les puedo asegurar que en la mayoría de los casos judiciales no hay marcas que alcancen ,0.0,0.0
+808,yo escuché a muchas mujeres,yo escuché a muchas mujeres,0.0,0.0
+809,y no escuché a ninguna hablar de sí misma como que hubiera quedado reducida a una cosa sometida totalmente a la voluntad del otro,no escuché a ninguna hablar de sí misma como que hubiera quedado reducida a una cosa sometida totalmente a la voluntad del otro ,0.041666666666666664,0.015503875968992248
+810,más bien las escuché como asombradas y hasta un poco orgullosas de reconocer lo lúcidas que habían estado en ese momento lo atentas a cada detalle como si eso les permitiera tener algún control sobre lo que estaba pasando,más bien las escuché como asombradas y hasta un poco orgullosas de reconocer lo lúcidas que habían estado en ese momento lo atentas a cada detalle como si eso les permitiera tener algún control sobre lo que estaba pasando ,0.0,0.0
+811,entonces yo pensé claro lo que las mujeres hacen en estas situaciones es negociar ,entonces yo pensé claro lo que las mujeres hacen en estas situaciones es negociar ,0.0,0.0
+812,negocian sexo por vida,negocian sexo por vida ,0.0,0.0
+813,le piden al agresor que termine rápido para que todo termine lo antes posible y con el menor costo,piden al agresor que termine rápido para que todo eso se termine lo antes posible y con el menor costo ,0.15789473684210525,0.10204081632653061
+814,se someten a la penetración porque aunque no puedan creerlo la penetración es lo que más lejos las mantiene de una escena sexual o afectiva,someten a la penetración porque aunque no puedan creerlo la penetración es lo que más lejos las mantiene de una escena sexual o afectiva ,0.04,0.02158273381294964
+815,se someten a la penetración porque la penetración duele menos que los besos las caricias las palabras suaves,se someten a la penetración porque la penetración duele menos que los besos las caricias las palabras suaves ,0.0,0.0
+816,ahora si vamos a seguir esperando que las violaciones sean lo que muy rara vez son un violador que es un depravado de clase baja y no un joven universitario o un empresario que salen de levante un viernes o un sábado si vamos a seguir esperando que las víctimas sean mujeres modositas recatadas que se desmayan en la escena y no mujeres seguras de sí mismas vamos a seguir sin poder escuchar,ahora si vamos a seguir esperando que las violaciones sean lo que muy rara vez son un violador que es un depravado de clase baja y no un joven universitario o un empresario que salen de levante un viernes o un sábado si vamos a seguir esperando que las víctimas sean mujeres modositas recatadas que se desmayan en la escena y no mujeres seguras de sí mismas en la escena y no mujeres seguras de sí mismas vamos a seguir sin poder escuchar ,0.136986301369863,0.12020460358056266
+817,las mujeres van a seguir sin poder hablar y vamos a seguir siendo todos responsables de ese silencio y de su soledad,mujeres van a seguir sin poder hablar y vamos a seguir siendo todos responsables de ese silencio y de su soledad ,0.045454545454545456,0.034482758620689655
+818, aplausos,aplausos,0.0,0.0
+819,os lo podéis imaginar estáis en un bar y sabes o en una discoteca todo eso y te pones a hablar con una chica y al rato pues sale en la conversación y tú en qué trabajas ,puedes imaginar estás en un bar en una discoteca todo eso y te pones a hablar con una chica y al rato pues sale la conversación y tú en qué trabajas ,0.21621621621621623,0.14285714285714285
+820,y como piensas que tu trabajo es interesante le dices soy matemático ,cuando piensas que tu trabajo es interesante le dices soy matemático ,0.16666666666666666,0.07352941176470588
+821, el treinta y tres coma cincuenta y uno por ciento de las chicas en ese momento simulan una llamada telefónica urgente y se van,el treinta y tres coma cincuenta y uno por ciento de las chicas en ese momento simulan una llamada telefónica urgente y se van ,0.0,0.0
+822, el sesenta y cuatro coma sesenta y nueve por ciento de las chicas intentan desesperadamente cambiar de tema y se van,el sesenta y cuatro coma sesenta y nueve por ciento de las chicas intentan desesperadamente cambiar de tema y se van ,0.0,0.0
+823, hay un cero coma ocho por ciento que son tu prima tu novia y tu madre que saben que trabajas en algo raro pero no se acordaban en qué y hay un uno por ciento que sigue la conversación,hay un cero coma ocho por ciento que son tu prima tu novia y tu madre que saben que trabajas en algo raro pero no se acordaban en qué y hay un uno por ciento que sigue la conversación ,0.0,0.0
+824,cuando esa conversación sigue invariablemente en algún momento aparece una de estas dos frases a yo es que era fatal con las matemáticas pero no era culpa mía es que el profesor era horroroso ,cuando esa conversación sigue invariablemente en algún momento aparece una de estas dos frases a yo es que era fatal con las matemáticas pero no era culpa mía es que el profesor era horroroso ,0.0,0.0
+825, y b pero eso de las matemáticas para qué sirve ,y b pero eso de las matemáticas para qué sirve ,0.0,0.0
+826, me ocuparé del caso b,me ocuparé del caso b ,0.0,0.0
+827, cuando alguien te pregunta para qué sirven las matemáticas no te está preguntando por aplicaciones de las ciencias matemáticas,cuando alguien te pregunta para qué sirven las matemáticas no te está preguntando por aplicaciones de las ciencias matemáticas ,0.0,0.0
+828,te está preguntando y yo por qué tuve que estudiar esa mierda que no volví a usar nunca ,me está preguntando y yo por qué tuve que estudiar esa mierda que no volví a usar nunca ,0.05555555555555555,0.011494252873563218
+829, es lo que te está preguntando realmente,es lo que te está preguntando realmente ,0.0,0.0
+830,ante esto cuando a un matemático le preguntan para qué sirven las matemáticas los matemáticos nos dividimos en grupos,cuando a un matemático le preguntan para qué sirven las matemáticas los matemáticos nos dividimos en grupos ,0.10526315789473684,0.08547008547008547
+831,un cincuenta y cuatro coma cincuenta y uno por ciento de los matemáticos toma una postura al ataque y un cuarenta y cuatro coma setenta y siete por ciento de los matemáticos toma una postura a la defensiva,cincuenta y cuatro coma cincuenta y uno por ciento de los matemáticos toma una postura al ataque y un cuarenta y cuatro coma setenta y siete por ciento de los matemáticos toma una postura a la defensiva ,0.02631578947368421,0.014634146341463415
+832,hay un cero coma ocho por ciento raro entre los que me incluyo,cero coma ocho raro entre los que me incluyo ,0.3076923076923077,0.2903225806451613
+833, qué son los del ataque,los del ataque ,0.4,0.36363636363636365
+834,los del ataque son matemáticos que te dicen que esa pregunta no tiene sentido porque las matemáticas tienen un sentido propio en sí mismas son un edificio bellísimo que tiene una lógica propia que se construye y que no hace falta que uno esté siempre mirando las posibles aplicaciones,son matemáticos que te dicen que esa pregunta no tiene sentido porque las matemáticas tienen un sentido propio en sí mismas son un edificio bellísimo que tiene una lógica propia que se construye y que no hace falta que uno esté siempre mirando las posibles aplicaciones ,0.061224489795918366,0.0528169014084507
+835, para qué sirve la poesía, a qué sirve la poesía ,0.2,0.125
+836, para qué sirve el amor, para qué sirve el amor ,0.0,0.0
+837, para qué sirve la vida misma,sirve la vida misma ,0.3333333333333333,0.32142857142857145
+838, qué pregunta es esa, qué pregunta es esa ,0.0,0.0
+839, hardy por ejemplo es un exponente de este ataque,hardy por ejemplo es un exponente de este ataque ,0.0,0.0
+840,y los que están a la defensiva te dicen que aunque no te des cuenta cariño las matemáticas están detrás de todo,cuando pasan a la defensiva te dicen que aunque no te des cuenta cariño las matemáticas están detrás de todo ,0.18181818181818182,0.11711711711711711
+841, estos siempre nombran siempre nombran los puentes y las computadoras,estos siempre nombran siempre nombran los puentes y las computadoras ,0.0,0.0
+842,si no sabes matemática se te cae el puente,si no sabes matemáticas se te cae el puente ,0.1111111111111111,0.023809523809523808
+843, realmente las computadoras son todo matemáticas,realmente las computadoras son todo matemáticas ,0.0,0.0
+844,ahora a estos les ha dado también por decirte que detrás de la seguridad informática y las tarjetas de crédito están los números primos,esto les ha dado también por decirte que detrás de la seguridad informática las tarjetas de crédito están los números primos ,0.16666666666666666,0.08148148148148149
+845,estas son las respuestas que te va a dar tu profe de matemática si le preguntas,estas son las respuestas que te va a dar tu profe de matemáticas si le preguntas ,0.0625,0.012658227848101266
+846,es de los de la defensiva,de la defensiva vale pero y quién lleva razón ,1.5,1.32
+847,vale pero y quién lleva razón,los que viven,1.0,0.7241379310344828
+848, los que dicen que las matemáticas no tienen por qué servir para nada o los que dicen que realmente está detrás de todo,que las matemáticas no tienen por qué servir para nada o los que dicen que realmente están detrás de todo ,0.17391304347826086,0.1271186440677966
+849,realmente tienen razón los dos,realmente tienen razón los dos ,0.0,0.0
+850,pero os he dicho que yo era de ese cero coma ocho por ciento raro que dice otra cosa verdad,os he dicho que yo era de ese cero coma ocho por ciento raro que dice otra cosa verdad ,0.05,0.054945054945054944
+851,así que vale preguntadme para qué sirven las matemáticas,así que dale preguntadme para qué sirven las matemáticas ,0.1111111111111111,0.017857142857142856
+852, vale,vale un setenta y seis coma treinta y tres por ciento ,10.0,12.25
+853,un setenta y seis coma treinta y cuatro por ciento de la gente ha preguntado hay un veintitrés coma cuarenta y uno por ciento que se ha callado y un cero coma ocho por ciento que yo no sé lo que están haciendo esos,el noventa y cuatro por ciento de la gente ha preguntado hay un veintitrés coma cuarenta y uno por ciento que se ha callado y un cero coma ocho por ciento que yo no sé lo que están haciendo ,0.1590909090909091,0.1308411214953271
+854,bueno querido setenta y seis coma treinta y uno por ciento las matemáticas es verdad que no tienen por qué servir para nada es verdad que son un edificio precioso un edificio lógico probablemente uno de los mayores esfuerzos colectivos que el ser humano ha hecho a lo largo de la historia,con treinta y uno por ciento las matemáticas es verdad que no tienen por qué servir para nada es verdad que son un edificio precioso un edificio lógico probablemente uno de los mayores esfuerzos colectivos que el ser humano ha hecho a lo largo de la historia ,0.11538461538461539,0.1076388888888889
+855,pero también es verdad que allá donde los científicos donde los técnicos andan buscando teorías matemáticas modelos que les permitan avanzar ahí están en el edificio de las matemáticas que lo permean todo,también es verdad que allá donde los científicos donde los técnicos andan buscando teoría matemática modelos que les permitan avanzar ahí están en el edificio de las matemáticas que lo permean todo ,0.09090909090909091,0.03431372549019608
+856,es verdad que tenemos que ir algo más al fondo vamos a ver qué hay detrás de la ciencia,es verdad que tenemos que ir algo más al fondo vamos a ver qué hay detrás de las,0.10526315789473684,0.09195402298850575
+857,la ciencia funciona por intuición por creatividad y las matemáticas doman la intuición y doman la creatividad,funciona por intuición por creatividad y las matemáticas doman la intuición y doman la creatividad ,0.11764705882352941,0.10091743119266056
+858,a casi todo el mundo que no lo ha oído antes le sorprende que si uno cogiera una hoja de papel de cero coma un milímetros de grosor esas que utilizamos normalmente lo suficientemente grande y la pudiera doblar cincuenta veces el grosor de ese montón ocuparía la distancia de la tierra al sol,a casi todo el mundo que no lo ha oído antes le sorprende que si uno cogiera una hoja de papel de cero coma un milímetros de grosor esas que utilizamos normalmente lo suficientemente grande y la pudiera doblar cincuenta veces el grosor de ese montón ocuparía la distancia de la tierra al sol ,0.0,0.0
+859,tu intuición te dice eso es imposible ,te dice eso es imposible ,0.2857142857142857,0.35135135135135137
+860,echa las cuentas y verás que sí,echa las cuentas y verás que sí ,0.0,0.0
+861,para eso sirven las matemáticas, a eso sirven las matemáticas ,0.2,0.0967741935483871
+862,es verdad que la ciencia toda la ciencia solamente tiene sentido porque nos hace comprender mejor el mundo este hermoso en el que estamos,es verdad que la ciencia toda la ciencia solamente tiene sentido porque nos hace comprender mejor el mundo este hermoso en el que estamos ,0.0,0.0
+863,y porque nos hace nos ayuda a sortear las trampas del mundo este doloroso en el que estamos,lo que nos hace es que nos ayuda a sortear las trampas del mundo este doloroso en el,0.3333333333333333,0.25274725274725274
+864,hay ciencias que tocan esa aplicación con la mano,que tocan esa aplicación con la mano ,0.2222222222222222,0.2653061224489796
+865,la ciencia oncológica por ejemplo,oncológica por ejemplo ,0.4,0.3333333333333333
+866,y hay otras que la miramos desde lejos con envidia a veces pero sabiendo que somos su soporte,hay otras que las miramos desde lejos con envidia a veces pero sabiendo que somos su soporte ,0.1111111111111111,0.03225806451612903
+867,todas las ciencias básicas son el soporte de aquellas y entre ellas las matemáticas,todas las ciencias básicas son el soporte de aquellas y entre ellas las matemáticas ,0.0,0.0
+868,todo lo que hace a la ciencia ser ciencia es el rigor de la matemática,hacer la ciencia ser ciencia es el rigor de la matemática ,0.3333333333333333,0.2
+869,y ese rigor les viene porque sus resultados son eternos,y ese rigor les viene porque sus resultados son eternos ,0.0,0.0
+870,seguramente han dicho o os han dicho alguna vez que un diamante es para siempre verdad,seguramente os han dicho alguna vez que un diamante es para siempre verdad ,0.1875,0.13953488372093023
+871, depende lo que uno entienda por siempre,depende de lo que uno entienda por siempre ,0.14285714285714285,0.07692307692307693
+872, un teorema eso sí que es para siempre,teorema eso sí que es para siempre ,0.125,0.08108108108108109
+873, el teorema de pitágoras eso es verdad aunque se haya muerto pitágoras te lo digo yo,el teorema de pitágoras el teorema de pitágoras eso es verdad aunque se haya muerto pitágoras te lo digo yo ,0.25,0.2891566265060241
+874, aunque se hunda el mundo el teorema de pitágoras seguiría siendo verdad,aunque se hunda el mundo el teorema de pitágoras seguiría siendo verdad ,0.0,0.0
+875,allá donde se junten un par de catetos y una buena hipotenusa el teorema de pitágoras funciona a tope a tope,donde se junten un par de catetos y una buena hipotenusa el teorema de pitágoras funciona a tope ,0.14285714285714285,0.1111111111111111
+876, bueno los matemáticos nos dedicamos a hacer teoremas,a tope bueno los matemáticos nos dedicamos a hacer teoremas ,0.25,0.1346153846153846
+877,verdades eternas,eternas ,0.5,0.5625
+878,pero no siempre es tan fácil saber qué es una verdad eterna un teorema y qué es una mera conjetura,pero no siempre es fácil saber qué es una verdad eterna un teorema y qué es una mera conjetura ,0.05,0.04081632653061224
+879,hace falta una demostración,hace falta una demostración ,0.0,0.0
+880,por ejemplo imaginaos que tengo aquí un campo grande enorme infinito,imaginaos que tengo aquí un campo grande enorme infinito ,0.18181818181818182,0.17647058823529413
+881,lo quiero cubrir con piezas iguales sin dejar huecos,quiero cubrir con piezas iguales sin dejar huecos ,0.1111111111111111,0.057692307692307696
+882,podría usar cuadrados verdad,cuadrados verdad ,0.5,0.42857142857142855
+883,podría usar triángulos,triángulos,0.6666666666666666,0.5454545454545454
+884,círculos no que dejan huequitos,círculos no que dejan huequitos ,0.0,0.0
+885, cuál es la mejor pieza que puedo usar,es la mejor pieza que puede usar ,0.25,0.16216216216216217
+886,la que para cubrir la misma superficie tiene un borde más pequeño,cubrir la misma superficie tiene un volumen un borde más pequeño,0.4166666666666667,0.35384615384615387
+887,pappus de alejandría en el año trescientos dijo que lo mejor era usar hexágonos como hacen las abejas,papus de alejandría en el año trescientos dijo que lo mejor era usar hexágonos como hacen las abejas ,0.05555555555555555,0.009900990099009901
+888, pero no lo demostró,pero no lo demostró ,0.0,0.0
+889,el tío dijo hexágonos uh lo peta venga hexágonos dámelo , eso es uh lopeta venga eso es dámelo ,0.8,0.41818181818181815
+890,no lo demostró se quedó en una conjetura dijo hexágonos ,se quedó en una conjetura dijo échagonos ,0.4,0.34545454545454546
+891,el mundo como sabéis se dividió entre pappistas y anti pappistas hasta que mil setecientos años después mil setecientos años después en mil novecientos noventa y nueve thomas hales demostró que pappus y las abejas llevaban razón que lo mejor es usar hexágonos,el mundo como sabéis se dividió entre papistas y antipapistas hasta que mil setecientos años después mil setecientos años después en mil novecientos noventa y nueve thomas hales demostró que papus y las abejas llevaban razón que lo mejor es usar hexágonos ,0.09302325581395349,0.015444015444015444
+892,y eso se convirtió en un teorema el teorema del panal que va a ser verdad para siempre siempre jamás más que cualquier diamante que tengas,se convirtió en un teorema el teorema del panal que va a ser verdad para siempre siempre jamás más que cualquier diamante que tengas ,0.07692307692307693,0.043478260869565216
+893, pero qué pasa si vamos a tres dimensiones,pero qué pasa si vamos a tres dimensiones ,0.0,0.0
+894,si quiero llenar el espacio con piezas iguales sin dejar huecos puedo usar cubos verdad,puedo llenar el espacio con piezas iguales sin dejar huecos puedo usar cubos verdad ,0.13333333333333333,0.06896551724137931
+895,esferas no que dejan huequitos,esferas no que dejan huequitos ,0.0,0.0
+896, cuál es la mejor pieza que puedo usar, cuál es la mejor pieza que puede usar ,0.125,0.02702702702702703
+897,lord kelvin el de los grados kelvin y todo eso ese dijo que lo mejor era usar un octaedro truncado que como todos sabéis es esto de aquí,el de los grados kelvin y todo eso ese dijo que lo mejor era usar un octaedro truncado que como todos sabéis es esto de aquí ,0.07142857142857142,0.08823529411764706
+898, vamos,gracias ,1.0,1.0
+899, quién no tiene un octaedro truncado en casa, quién no tiene unos taedros truncados en casa ,0.375,0.11627906976744186
+900, aunque sea de plástico,aunque sea de plasticón ,0.25,0.13636363636363635
+901,nene trae el octaedro truncado que vienen visitas,nene trae los trazos de un caos que vienen visitas ,0.625,0.30612244897959184
+902, todo el mundo tiene,el mundo tiene ,0.25,0.2631578947368421
+903, pero kelvin no lo demostró,pero kelvin no lo demostró,0.0,0.0
+904,se quedó en una conjetura la conjetura de kelvin,no en una conjetura la conjetura de kelvin ,0.2222222222222222,0.16666666666666666
+905,el mundo como sabéis se dividió entre kelvinistas y anti kelvinistas hasta que ciento y pico años después ciento y pico años después alguien encontró una estructura mejor,como sabéis se dividió entre kelvinistas y antikelvinistas hasta que ciento y pico años después ciento y pico años después alguien encontró una estructura mejor ,0.14285714285714285,0.058823529411764705
+906,weaire y phelan weaire y phelan encontraron esta cosita de aquí esta estructura a la que pusieron el imaginativo nombre de estructura de weaire y phelan,weyre y phelan encontraron esta cosita de aquí esta estructura a la que pusieron el imaginativo nombre de estructura de weyre y phelan ,0.19230769230769232,0.125
+907, parece una cosa rara pero no es tan rara también está presente en la naturaleza,parece una cosa rara pero no es tan rara también está presente en la naturaleza ,0.0,0.0
+908,es muy muy curioso que esta estructura por sus propiedades geométricas se utilizó para construir el edificio de la natación en los juegos olímpicos de pekín,es muy curioso que esta estructura por sus propiedades geométricas se utilizó para construir el edificio de la natación en los juegos olímpicos de pekín ,0.038461538461538464,0.02564102564102564
+909,allá michael phelps ganó ocho medallas de oro se convirtió en el mejor nadador de todos los tiempos,michael phelps ganó ocho medallas de oro se convirtió en el mejor nadador de todos los tiempos ,0.05555555555555555,0.050505050505050504
+910,bueno de todos los tiempos hasta que salga otro mejor no,de todos los tiempos hasta que salga otro mejor no ,0.09090909090909091,0.10714285714285714
+911,cómo le pasa a la estructura de weaire y phelan es la mejor hasta que salga otra mejor,como le pasa a la estructura de weyra y phelan es la mejor hasta que salga otra mejor ,0.1111111111111111,0.046511627906976744
+912,pero cuidado porque esta sí que tiene la oportunidad de que aunque pasen ciento y pico años aunque sea dentro de mil setecientos años alguien demuestra que esta es la mejor pieza posible,cuidado porque esta sí que tiene la oportunidad de que aunque pasen ciento y pico años aunque sea dentro de mil setecientos años alguien demuestre que esta es la mejor pieza posible ,0.06060606060606061,0.03225806451612903
+913,y entonces será un teorema una verdad para siempre siempre jamás,y entonces será un teorema una verdad para siempre siempre jamás ,0.0,0.0
+914,más que cualquier diamante,que cualquier diamante,0.25,0.15384615384615385
+915,así que bueno si queréis decirle a alguien que le queréis para siempre le podéis regalar un diamante pero si le queréis decir que le queréis para siempre siempre regaladle un teorema,bueno si queréis decirle a alguien que le queréis para siempre le podéis regalar un diamante pero si le queréis decir que le queréis para siempre siempre regaladle un teorema ,0.0625,0.04395604395604396
+916, eso sí quieto lo tendréis que demostrar que vuestro amor no se quede en conjetura, sí eso sí quieto lo tendréis que demostrar eh que vuestro amor no se quede en conjetura ,0.13333333333333333,0.07407407407407407
+917, gracias,gracias ,0.0,0.0
+918,cada uno somos de una manera en esta vida,cada uno somos de una manera en esta vida ,0.0,0.0
+919,unos somos más extrovertidos otros más introvertidos y otros ni una cosa ni la otra,unos somos más extrovertidos otros más introvertidos y otros pues ni una cosa ni la otra ,0.06666666666666667,0.060240963855421686
+920,yo tengo que decirlo soy muy introvertido,yo tengo que decirlo soy muy introvertido ,0.0,0.0
+921,no soy bueno en las relaciones sociales,no soy bueno en las relaciones sociales,0.0,0.0
+922,imaginaos lo difícil que es para mí ponerme en este punto rojo delante de tanta gente,imaginaoslo decidir qué es para mí ponerme en este punto rojo delante de tanta gente ,0.25,0.08235294117647059
+923,es mucho más interesante para mí quedar un sábado en un sitio tranquilo con un amigo o dos que meterme en el bullicio y calor de una discoteca llena de gente,es mucho más interesante para mí quedar un sábado en un sitio tranquilo con un amigo o dos que meterme en el bullicio en el calor de una discoteca llena de gente ,0.06451612903225806,0.03184713375796178
+924,y no os digo más de quedarme en casa tranquilo al calorcito viendo una película,no os digo más de quedarme en casa tranquilo al colorcito viendo una película ,0.13333333333333333,0.0379746835443038
+925, ay las películas,ay las películas ,0.0,0.0
+926,no hay nada en este mundo que me guste más,no hay nada en este mundo que me guste más,0.0,0.0
+927,el cine ha sido mi mayor pasión en los últimos cinco o seis años,el cine ha sido mi mayor pasión en los últimos cinco o seis años ,0.0,0.0
+928,en este tiempo he desarrollado un gusto por el cine que va más allá del significado de la palabra entretenimiento ,en todo este tiempo ha desarrollado un gusto por el cine que va más allá del significado de la palabra entretenimiento ,0.1,0.05309734513274336
+929,y por qué el cine, y por qué el cine ,0.0,0.0
+930, qué es lo que tiene el cine para que me guste tanto,que tiene el cine para que me guste tanto ,0.25,0.19607843137254902
+931,si os digo la verdad hasta hace poco no me había hecho esa pregunta,si os digo la verdad hasta hace poco no me había hecho esa pregunta ,0.0,0.0
+932,ya he dicho que no soy bueno interactuando con la gente pero soy muy bueno observando,ya lo he dicho no soy bueno interactuando con la gente pero sí soy muy bueno observando ,0.1875,0.11764705882352941
+933,me encanta observar,me encanta observar,0.0,0.0
+934,disfruto mucho viendo a la gente hablar interactuar entre ellos pasear sin ser un cotilla,sin duda disfruto muchísimo viendo a la gente hablar interactuar entre ellos pasear sin ser un cotilla ,0.2,0.14606741573033707
+935,no penséis mal,nos presenta ismael ,1.0,0.6428571428571429
+936,pero por eso creo que me gusta tanto el cine,pero por eso creo que me gusta tanto el cine ,0.0,0.0
+937,en el cine en las películas tú no entras simplemente te dignas a observarlas desde fuera,en las películas tú no entras en la película simplemente te dignas a observarla desde fuera ,0.4375,0.3068181818181818
+938,el cine te da una visión amplia total del mundo de todas sus gentes de todas sus ideas de todas sus formas de ver la realidad,que el cine te da una visión amplia total del mundo de todas sus gentes de todas sus ideas de todas sus formas de ver la realidad ,0.038461538461538464,0.032
+939,y yo creo que por eso me gusta tanto el cine,y yo creo que por eso me gusta tanto el cine ,0.0,0.0
+940,en todo este tiempo he visto miles de esas visiones y creo que tengo una idea mucho más global del mundo que si nunca hubiera observado o visto películas,en todo este tiempo he visto miles de esas visiones y creo que tengo una idea mucho más global del mundo que si nunca hubiera observado que si nunca hubiera visto películas ,0.13793103448275862,0.13071895424836602
+941,yo creo que esa es la gran ventaja de estar detrás de no interactuar,yo creo que esa es la gran ventaja de estar detrás de no interactuar ,0.0,0.0
+942, y qué tipo de cine me gusta, y cuál es el tipo de cine que me gusta ,0.5714285714285714,0.48148148148148145
+943,lo admito no es que sea el cine más típico de la gente de mi edad,lo admito no es que sea el cine más típico de la gente de inmigrad ,0.125,0.07692307692307693
+944,es un cine de autor cine independiente de bajo presupuesto de denuncia social lejos de los arquetipos del cine de los ee uu cine de países tan raros cinematográficamente como turquía palestina o filipinas,un cine de autor cine independiente de bajo presupuesto de denuncia social lejos de los arquetipos del cine de los estados unidos incluso de países tan raros cinematográficamente como pueden ser turquía palestina o filipinas ,0.17647058823529413,0.15196078431372548
+945,bueno mi madre dice que soy muy raro pero es el tipo de cine que más me gusta del que más disfruto con sus personajes e historias,bueno mi madre dice que soy muy raro pero qué queréis que os diga es el tipo de cine que más me gusta con el que más disfruto con sus personajes con sus historias ,0.3333333333333333,0.2713178294573643
+946,te llegan al corazón,llegan al corazón ,0.25,0.15
+947,sientes cosas con ellas sufres con ellas lloras con ellas te ríes con ellas,sientes cosas con ellas sufres con ellas lloras con ellas ríes con ellas ,0.07142857142857142,0.04
+948,como dice uno de mis directores favoritos lars von trier las películas son como las piedras en los zapatos tienen que doler ,como dice uno de mis directores favoritos lars von trier las películas son como las piedras en los zapatos tienen que doler ,0.0,0.0
+949,no es que tengamos que sufrir con todas y cada una de las películas pero tenemos que sentir emociones verdaderas,no es que tengamos que sufrir con todas y cada una de las películas pero tenemos que sentir emociones verdaderas ,0.0,0.0
+950,sin embargo cuando veo películas de los ee uu llenas de efectos especiales de personajes vacíos de historias que no aportan nada solo es una historia nada más,sin embargo cuando veo películas de los estados unidos llenas de efectos especiales llenas de personajes vacíos de historias que no aportan nada solo es una historia y nada más ,0.14285714285714285,0.12658227848101267
+951,no te llega no sientes no sufres no lloras,no te diga no sientes nada no sufres no lloras ,0.2222222222222222,0.19047619047619047
+952,eso para mí no sirve de nada,eso para mí no sirve para nada ,0.14285714285714285,0.14285714285714285
+953,yo siendo un introvertido llevaba mi afición al cine como algo mío algo personal,yo siendo un introvertido llevaba mi afición al cine como algo mío algo personal ,0.0,0.0
+954,todos sabían que era muy cinéfilo pero no tenía a prácticamente nadie con quien comentar las películas que veía,todo el mundo sabía que era muy cinéfilo pero realmente no tenía a prácticamente nadie para comentar las películas que veía ,0.3684210526315789,0.26126126126126126
+955,todo esto cambió un día en el que irónicamente salgo del cine y recibo un mensaje privado de twitter hola buscamos un chico o chica en valladolid que nos cubra esta edición de la seminci,todo esto cambió un día en el que yo irónicamente salgo del cine y me llega un mensaje privado a twitter hola buscamos un chico o chica en valladolid que nos cubra esta edición de la semincid ,0.14285714285714285,0.06989247311827956
+956, te apuntarías , te apuntarías ,0.0,0.0
+957, y qué iba a decir yo a siete días del mejor cine de autor de europa y encima gratis, y qué iba a decir yo a siete días del mejor cine de autor de europa encima gratis ,0.05263157894736842,0.024096385542168676
+958,pues por supuesto,pues por supuesto ,0.0,0.0
+959,contad conmigo ,contad conmigo,0.0,0.0
+960,y aquí me teníais con quince años y una acreditación de periodista colgada al cuello,y aquí me teníais con quince años y una acreditación de periodista colgada al cuello ,0.0,0.0
+961,esa semana estuve viendo películas películas y películas,esa semana estuve viendo películas y películas y películas ,0.125,0.03571428571428571
+962,me metí un poco en el mundo periodístico pero lo que saqué de ahí fue muchísimo más que eso,me metí un poco en el mundo periodístico pero creo que lo que saqué de ahí fue muchísimo más que eso ,0.10526315789473684,0.0989010989010989
+963,por fin encontré la manera de canalizar mis sentimientos hacia el cine de expresarme de abrir mi mundo interior a los demás,por fin había encontrado una manera de canalizar mis sentimientos hacia el cine de expresarme de abrirme un mundo en el que viera a los demás ,0.4090909090909091,0.21138211382113822
+964,cada día tenía que escribir una crónica con las películas que veía lo que me había gustado de ellas lo que me había disgustado,todos los días tenía que escribir una crónica con las películas que veía lo que me había gustado de ellas lo que me había desgustado ,0.16666666666666666,0.07936507936507936
+965,y no sé si podrá parecer fácil o difícil pero es muy complicado porque una película tiene muchos elementos el guion la dirección los actores la música el sonido,y os aseguro que no sé si podrá parecer fácil de decir pero es bastante complicado porque una película tiene muchos elementos el guión la dirección los actores la música el sonido ,0.2413793103448276,0.1875
+966,y qué está bien de cada uno de ellos, y qué está bien de cada uno de ellos ,0.0,0.0
+967, hacen la película buena o mala,hacer buenos a la película o mal a la,1.1666666666666667,0.5666666666666667
+968,al principio esto era muy complicado,al principio era muy complicado,0.16666666666666666,0.1388888888888889
+969,siempre se me olvidaban cosas en la crónica,siempre se me olvidaban cosas para escribir en la crónica ,0.25,0.32558139534883723
+970,pero al final con la práctica casi me sale fluido,pero yo creo que al final con la práctica y práctica casi me salí fluido ,0.6,0.4897959183673469
+971,cuando acabó la cincuenta y ocho edición de la seminci empecé a colaborar de manera regular con la web que me había acreditado que se llama esencia cine,cuando acabó la edición de las emisiones en mil novecientos cincuenta y ocho empecé a colaborar de manera regular con la web que me había acreditado que se llama esencia cine ,0.35714285714285715,0.2894736842105263
+972,en este tiempo casi un año mi habilidad para escribir para expresarme y mi enorme afición por el cine han ido aumentando y aumentando a pasos agigantados,en este tiempo que ha sido prácticamente un año mi habilidad para escribir mi habilidad para expresarme y mi ya de por sí enorme afición por el cine han ido aumentando y aumentando a pasos agigantados ,0.37037037037037035,0.3137254901960784
+973,eso fue el año pasado,eso de la seminci fue el año pasado ,0.6,0.6666666666666666
+974, qué ha pasado este año, qué ha pasado este año ,0.0,0.0
+975,que me volví a colgar la acreditación y volví a ponerme manos a la obra en la cincuenta y nueve edición de la seminci,que me he vuelto a colgar la acreditación y volví a ponerme manos a la obra en la cincuenta y nueve edición de la semin ci ,0.16666666666666666,0.06837606837606838
+976,os aseguro que este año aprendí muchísimo más porque vi más películas prácticamente veinte en siete días fui a muchísimas más ruedas de prensa y tuve un encuentro con imanol arias,tengo que asegurar que ese año aprendí muchísimo más porque vi más películas prácticamente veinte en siete días fui a muchísimas más ruedas de prensa e incluso tuve un encuentro con emmanuel arias ,0.22580645161290322,0.1340782122905028
+977,el resultado fue una semana de cine cine y más cine en la que aprendí muchísimo, y el resultado una semana de cine cine y más cine en la que aprendí muchísimo ,0.125,0.0759493670886076
+978,y os aseguro que eso quedará siempre aunque no estudiara aunque no comiera prácticamente aunque no durmiera aprendí y se va a quedar para mí para siempre,y os aseguro que eso se va a quedar para mí para siempre porque aunque no estudiara aunque no comiera prácticamente aunque no durmiera aprendí y se va a quedar para mí para siempre ,0.2962962962962963,0.1830065359477124
+979,mucha gente cuando les digo que escribo para una página web que escribo para la seminci casi todos me dicen te pagan ,mucha gente cuando les digo que escribo para una página web que escribo para la silvinci me dice prácticamente todos te pagan,0.22727272727272727,0.21551724137931033
+980,pues ,pues ,0.0,0.0
+981,pues no,pues no ,0.0,0.0
+982, por qué me van a pagar,por qué me van a pagar ,0.0,0.0
+983, por qué me van a pagar cuando hago lo que realmente me gusta lo que realmente siento y encima me sirve para abrirme a los demás, por qué me van a pagar a mí cuando algo lo que realmente me gusta lo que realmente siento y encima me sirve muchísimo a mí para abrirme a los demás ,0.23076923076923078,0.1732283464566929
+984,con esta edad que tengo no encontraría a nadie que me pagara por hacer esto,con esta edad que tengo buscar hacer esto por dinero nadie me pagaría ,0.6666666666666666,0.56
+985,no tengo la carrera no tengo nada,no tengo ni la carrera no tengo nada ,0.14285714285714285,0.09090909090909091
+986,pero realmente en esta vida si quieres hacer algo hazlo,pero realmente en esta vida si quieres hacer algo hazlo ,0.0,0.0
+987,si te pagan estupendo,te pagan pues estupendo,0.5,0.38095238095238093
+988,si no serás feliz con tu trabajo que creo que es lo más importante,sino tendrás la felicidad con tu trabajo que yo creo que es lo más importante ,0.35714285714285715,0.22727272727272727
+989, no,no ,0.0,0.0
+990, el cine me ha abierto muchas más puertas de las que pensaba, gracias el cine me ha abierto muchas más puertas de las que yo en un principio pensaba ,0.4166666666666667,0.4576271186440678
+991,gracias a que escribo sobre cine consigo abrirme consigo ser realmente yo,gracias a que escribo sobre cine consigo abrirme consigo ser realmente yo ,0.0,0.0
+992,cuando escribo rompo la barrera que tengo de la expresión oral que tanto me cuesta,cuando escribo no rompo la barrera que tengo de la expresión oral que tanto me cuesta ,0.06666666666666667,0.036585365853658534
+993,consigo ser realmente yo plasmar mis ideas tal cual las siento,si consigo plasmar mis ideas tal cual las siento,0.36363636363636365,0.3064516129032258
+994,pero lejos de todo esto que me sirve muchísimo y de lo que estoy orgulloso creo que lo que más me gusta con lo que más disfruto con mi trabajo es cuando escribo algo una noticia crítica o reportaje lo cuelgo y recibo mensajes de compañeros amigos familiares profesores que dicen felicidades,pero lejos de todo esto que a mí me sirve muchísimo y de lo que estoy muy orgulloso creo que lo que más me gusta con lo que más disfruto con mi trabajo es escribo algo una noticia una crítica un reportaje lo cuelgo y me llegan mensajes de compañeros amigos familiares profesores que te dicen felicidades ,0.17307692307692307,0.11379310344827587
+995,escribes genial,escribes genial,0.0,0.0
+996,me encanta ,me encanta ,0.0,0.0
+997,sabes que cuando haces eso tu trabajo aparte de venirte bien a ti le viene bien a los demás porque disfrutan y aprenden con lo que haces,sabes que cuando haces eso realmente tu trabajo aparte de venirte bien a ti viene bien a los demás porque disfrutan y aprenden con lo que haces,0.07407407407407407,0.09558823529411764
+998,y cuando te dicen eso sabes que es genial,y cuando te dicen eso sabes que es genial ,0.0,0.0
+999, y aquí me veis un chico callado tímido introvertido que con quince años y sin ninguna fe en sí mismo consiguió hacer el mismo trabajo que unos periodistas con su trabajo su titulación su sueldo y sus mejores capacidades de expresión en público,y aquí me veis un chico callado un chico tímido un chico introvertido que con quince años y sin ninguna fe en mí y en mí consiguió hacer el mismo trabajo que unos periodistas con su trabajo con su titulación con su sueldo con sus mejores capacidades de expresión en público ,0.2558139534883721,0.14814814814814814
+1000,la forma que he encontrado de abrirme no la cambiaría por nada,la forma que he encontrado para abrirme al mundo no la cambiaría por nada ,0.25,0.20967741935483872
+1001,yo soy yo cuando escribo soy yo,yo soy yo cuando escribo soy yo ,0.0,0.0
+1002,y os voy a decir algo no os fieis de lo que veis de mí todos los días de lo que veis en fotos y videos,y os voy a decir una cosa no os fiéis de lo que veis de mí todos los días no os fiéis de lo que podáis ver en fotos en vídeos ,0.38461538461538464,0.29411764705882354
+1003,no os fieis,no soy yo eso ,1.0,0.6363636363636364
+1004,fiaos de lo que escribo porque ahí soy yo realmente yo,confiados de lo que escribo porque ahí soy yo realmente yo ,0.09090909090909091,0.07407407407407407
+1005,sin ningún tapujo sin ninguna barrera,sin ningún tapujo sin ninguna barrera ,0.0,0.0
+1006,pero lejos de todo esto ese felicidades,pero lejos de todo esto como ya he dicho felicidades ,0.5714285714285714,0.38461538461538464
+1007,escribes genial,escribes genial,0.0,0.0
+1008,me encanta lo que haces es lo mejor que pueden decirme,me encanta lo que hace es lo mejor que pueden decirme a mí ,0.2727272727272727,0.1111111111111111
+1009,es lo más bonito que me pueden decir en la vida siendo un introvertido,es para mí lo más bonito que me puede decir en la vida siendo un introvertido ,0.21428571428571427,0.12857142857142856
+1010,muchas gracias,muchas gracias ,0.0,0.0
+1011, aplausos,gracias ,1.0,0.75
