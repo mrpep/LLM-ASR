@@ -1,15 +1,25 @@
 import gradio as gr
 import torch
 import torchaudio
+from llmasr.tasks import load_model
 
 # Load model
-model = None #COMPLETAR
+state = {}
+model = load_model(state, 'models_to_evaluate/qwen1.5B-mhubert-catmlp-originalLR-addTedLium-weightedaverage-fixnograd/epoch-5-step-1848.ckpt') #COMPLETAR
 
 def transcribe(audio):
     # Load the audio file
-    waveform, sample_rate = torchaudio.load(audio)
+    x = {'filename': audio,
+        'transcription': ''}
+    for p in state['model'].input_processors:
+        x = p(x)
+    xin = state['model'].collate_fn([x])
+    xin = {k: v.to(state['model'].device) if isinstance(v, torch.Tensor) else v for k,v in xin.items()}
+    xin = {k: v.to(state['model'].dtype) if v.dtype not in [torch.int64, torch.int32, torch.int16] else v for k,v in xin.items()}
 
-    return f"{waveform.shape} / {sample_rate}" # Mock output
+    out = state['model'].generate(xin, tokenizer=state['tokenizer'])
+
+    return out
 
 # Create the Gradio interface
 interface = gr.Interface(
