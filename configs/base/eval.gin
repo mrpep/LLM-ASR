@@ -1,5 +1,6 @@
 SEED=42
 CKPT_PATH=None
+DEVICE=[0]
 
 $keys_not_saved=['model']
 execute_pipeline:
@@ -12,3 +13,4 @@ execute_pipeline:
 
 tasks.set_seed.seed=%SEED
 tasks.load_model.ckpt_path=%CKPT_PATH
+tasks.load_model.device=%DEVICE

@@ -176,12 +176,15 @@ def generate(state):
         predictions = []
         for idx, row in tqdm(df_test.iterrows()):
             x = {'filename': row['filename'],
-                'transcription': ''}
+                'transcription': '',
+                'start': row['start'] if 'start' in row else 0,
+                'duration': row['duration'] if 'duration' in row else None}
             for p in state['model'].input_processors:
                 x = p(x)
             xin = state['model'].collate_fn([x])
             xin = {k: v.to(state['model'].device) if isinstance(v, torch.Tensor) else v for k,v in xin.items()}
             xin = {k: v.to(state['model'].dtype) if v.dtype not in [torch.int64, torch.int32, torch.int16] else v for k,v in xin.items()}
+
             out = state['model'].generate(xin, tokenizer=state['tokenizer'])
             pred_i = {'prediction': out.replace('<|endoftext|>',''), 'transcription': row['transcription'], 'filename': row['filename'], 'idx': row['idx'], 'dataset': row['dataset']}
             predictions.append(pred_i)
@@ -202,8 +205,9 @@ def calculate_metrics(state):
 
     normalizer = BasicTextNormalizer()
     nemo_normalizer = Normalizer(input_case='cased', lang='es')
-    ypred = [normalizer(nemo_normalizer(x)) for x in ypred]
-    ytrue = [normalizer(nemo_normalizer(x)) for x in ytrue]
+
+    ypred = [normalizer(nemo_normalizer.normalize(x)) for x in tqdm(ypred)]
+    ytrue = [normalizer(nemo_normalizer.normalize(x)) for x in tqdm(ytrue)]
 
     state['metrics'] = {'wer': wer(ytrue, ypred), 'cer': cer(ytrue, ypred)}
     with open(Path(state['output_dir'], 'metrics.json'),'w') as f:

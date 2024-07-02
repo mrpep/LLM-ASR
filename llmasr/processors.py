@@ -48,6 +48,7 @@ class ReadAudioProcessor:
                 duration = x['stop'] - x['start']
             if 'duration' in x:
                 duration = x['duration']
+                
             x['start'] = start
             x['duration'] = duration
             wav, fs = librosa.core.load(x[self.key_in], offset=start, duration=duration, dtype=np.float32, sr=self.target_sr)
